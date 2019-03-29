@@ -19,11 +19,11 @@ function filter(value) {
 </script>
 
 <div id="home">
-	<div style="height: 85px; display: flex; align-items: center">
-	  <h1 style="float: left; flex: 1">data bible</h1>
+	<div style="height: 85px; display: flex; align-items: center" class="home-header">
+	  <h1 style="float: left; flex: 1; color: #321E41;">data bible</h1>
 	  <div style="float: right; display: flex; align-items: center">
 	  	<label class="filter-label" style="float: left">filter:</label>
-	  	<select style="float: right" onchange="filter(this.value)">
+	  	<select style="float: right" class="filter-selector" onchange="filter(this.value)">
 	  		<option value="Show All">Show All</option>
 			  <option value="Hot takes">Hot takes</option>
 			  <option value="Team post">Team post</option>

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "First post"
-topic: "Hot takes"
+topic: "Team post"
 author: "someone"
 img: door.png
-themeColor: "#5C5C5C"
+themeColor: "#58476D"
 date:   2016-02-12 17:50:00
 categories: main
 ---

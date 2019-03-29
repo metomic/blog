@@ -8,6 +8,8 @@
 
 .first-image-title-default {
 	padding-left: 150px;
+	padding-right: 150px;
+
 
 	font-size: 48px;
 	line-height: normal;
@@ -17,7 +19,9 @@
 	text-shadow: 0px 4px 14px rgba(0, 0, 0, 0.25);
 }
 
-.first-image-author-default {
+.first-image-topic-default {
+
+	margin-top: 0 !important;
 	padding-left: 150px;
 	padding-top: 10%;
 	font-family: Eina 01;
@@ -40,6 +44,26 @@
 .blog-content-default {
 	margin-left: 300px;
 	margin-right: 300px;
+}
+
+@media only screen and (max-width: 768px) {
+	.blog-content-default {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+	.first-image-title-default {
+		margin-left: 16px;
+		padding: 0;
+	}
+	.first-image-topic-default {
+		margin-top: 0 !important;
+		padding-top: 20%;
+		padding-left: 16px;
+	}
+	.first-image-meta-default {
+		padding-left: 16px;
+		padding-top: 0;
+	}
 }
 
 .blog-content-default h1 {

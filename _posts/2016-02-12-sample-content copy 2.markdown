@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "this is a really long title that takes up multiple lines"
+title:  "this is a really long title that takes up multiple lines. its probably too long but oh well"
 topic: "Hot takes"
 author: "someone"
 img: stair.png
-themeColor: "#F5BB5F"
+themeColor: "#2ECA88"
 date:   2016-02-12 17:50:00
 categories: main
 ---
