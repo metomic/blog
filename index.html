@@ -13,10 +13,17 @@ title: {{ site.name }}
 
   <ul class="posts">
     {% for post in site.posts offset: 1 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-      {% if post.img %}
-                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
-      {% endif %}
+      <div class="post" style="border-top: 6px solid {{post.themeColor}};">
+      	<!-- <span>{{ post.date | date_to_string }}</span>  -->
+      	<!-- href="{{ site.baseurl }}{{ post.url }}" -->
+      	<h3 class="post-topic" style="color: {{post.themeColor}}">{{ post.topic }}</h3>
+      	<h1 class="post-title">{{ post.title }}</h1>
+      	<img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}" css="post-image">
+      	<div>
+	      	<h3>{{ post.author }}</h3>
+	      	<h3>{{ post.date | date_to_string }}</h3>
+	      </div>
+      </div>
     {% endfor %}
   </ul>
 </div>

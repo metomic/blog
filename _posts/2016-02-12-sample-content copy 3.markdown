@@ -4,7 +4,7 @@ title:  "First post"
 topic: "Hot takes"
 author: "someone"
 img: door.png
-themeColor: "#F5BB5F"
+themeColor: "#5C5C5C"
 date:   2016-02-12 17:50:00
 categories: main
 ---
