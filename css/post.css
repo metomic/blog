@@ -28,6 +28,15 @@
 	color: #E89668;
 }
 
+.first-image-meta-default {
+	padding-left: 150px;
+	padding-top: 200px;
+	font-size: 18px;
+	line-height: normal;
+
+	color: #321E41;
+}
+
 .blog-content-default {
 	margin-left: 300px;
 	margin-right: 300px;

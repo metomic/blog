@@ -3,17 +3,32 @@ layout: default
 title: {{ site.name }}
 ---
 
+<script>
+function filter(value) {
+	for (let i = 0; i < document.getElementById("posts").children.length; i ++) {
+		// console.log(document.getElementById("posts").children[i].getAttribute("idk"))
+
+		if (document.getElementById("posts").children[i].getAttribute("topic") !== value && value !== "Show All") {
+			document.getElementById("posts").children[i].style.display = "none";
+		} else {
+			document.getElementById("posts").children[i].style.display = "block";
+		}
+	}
+
+}
+</script>
+
 <div id="home">
 	<div style="height: 85px; display: flex; align-items: center">
 	  <h1 style="float: left; flex: 1">data bible</h1>
 	  <div style="float: right; display: flex; align-items: center">
 	  	<label class="filter-label" style="float: left">filter:</label>
-	  	<select style="float: right">
-	  		<option value="showall">Show All</option>
-			  <option value="hottakes">Hot takes</option>
-			  <option value="teampost">Team post</option>
-			  <option value="weeklyroundup">Weekly roundup</option>
-			  <option value="inconversation">In Conversation</option>
+	  	<select style="float: right" onchange="filter(this.value)">
+	  		<option value="Show All">Show All</option>
+			  <option value="Hot takes">Hot takes</option>
+			  <option value="Team post">Team post</option>
+			  <option value="Weekly roundup">Weekly roundup</option>
+			  <option value="In Conversation">In Conversation</option>
 			</select>
 	  </div>
 	</div>
@@ -23,9 +38,9 @@ title: {{ site.name }}
   	<h1 class="first-image-title">{{site.posts[0].title}}</h1>
   </div>
 
-  <div class="posts">
+  <div class="posts" id="posts">
     {% for post in site.posts offset: 1 %}
-      <div class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; border-top: 6px solid {{post.themeColor}};">
+      <div topic="{{ post.topic }}" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; border-top: 6px solid {{post.themeColor}};">
       	<!-- <span>{{ post.date | date_to_string }}</span>  -->
       	<!-- href="{{ site.baseurl }}{{ post.url }}" -->
       	<h3 class="post-topic" style="color: {{post.themeColor}}">{{ post.topic }}</h3>
