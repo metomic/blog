@@ -13,6 +13,16 @@
 		padding-left: 10px;
 		padding-right: 10px;
 		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+		z-index: 10;
+		position: relative;
+	}
+	.first-image-author {
+		margin-top: 0;
+	}
+	.first-image {
+		border-radius: 0;
+		box-shadow: none !important;
+		z-index: 0;
 	}
 }
 
