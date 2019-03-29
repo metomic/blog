@@ -1,7 +1,7 @@
 #home {
 	margin-left: 150px;
 	margin-right: 150px;
-	padding-bottom: 50px;
+	padding-bottom: 72px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -90,14 +90,12 @@
 	display: grid;
   grid-template-columns: repeat(3, 30%);
   grid-gap: 3%;
-
-
   justify-content: center;
 
   grid-template-columns: repeat(auto-fit, 300px);
     grid-template-rows: repeat(2, auto);
 
-  padding-top: 20px;
+  padding-top: 42px;
 
 }
 

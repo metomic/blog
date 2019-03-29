@@ -50,10 +50,16 @@
 	.blog-content-default {
 		margin-left: 16px;
 		margin-right: 16px;
+
+	}
+
+	.first-image-default {
+		height: 40vh;
 	}
 	.first-image-title-default {
 		margin-left: 16px;
 		padding: 0;
+		font-size: 24px;
 	}
 	.first-image-topic-default {
 		margin-top: 0 !important;
@@ -63,6 +69,7 @@
 	.first-image-meta-default {
 		padding-left: 16px;
 		padding-top: 0;
+		font-size: 12px;
 	}
 }
 
