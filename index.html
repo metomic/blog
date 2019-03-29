@@ -4,10 +4,19 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>data bible</h1>
+
+  <div style="background-image: url({{site.baseurl}}/images/{{site.posts[0].img}})" class="first-image">
+  	<h2 class="first-image-author">{{site.posts[0].author}}</h2>
+  	<h1 class="first-image-title">{{site.posts[0].title}}</h1>
+  </div>
+
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts offset: 1 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% if post.img %}
+                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
