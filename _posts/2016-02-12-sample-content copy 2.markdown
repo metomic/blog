@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second post"
+title:  "this is a really long title that takes up multiple lines"
 topic: "Hot takes"
 author: "someone"
 img: stair.png

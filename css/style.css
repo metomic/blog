@@ -53,8 +53,12 @@
 	display: grid;
   grid-template-columns: repeat(3, 30%);
   grid-gap: 3%;
-  padding-left: 2%;
-  grid-auto-rows: minmax(100px, auto);
+
+
+  justify-content: center;
+
+  grid-template-columns: repeat(auto-fit, 300px);
+    grid-template-rows: repeat(2, auto);
   padding-top: 20px;
 }
 
@@ -78,6 +82,7 @@
 	line-height: normal;
 	color: #321E41;
 	margin-left: 20px;
+	margin-right: 20px;
 	margin-top: 9px;
 }
 
