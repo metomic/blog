@@ -9,6 +9,7 @@ title: {{ site.name }}
 	  <div style="float: right; display: flex; align-items: center">
 	  	<label class="filter-label" style="float: left">filter:</label>
 	  	<select style="float: right">
+	  		<option value="showall">Show All</option>
 			  <option value="hottakes">Hot takes</option>
 			  <option value="teampost">Team post</option>
 			  <option value="weeklyroundup">Weekly roundup</option>
@@ -22,9 +23,9 @@ title: {{ site.name }}
   	<h1 class="first-image-title">{{site.posts[0].title}}</h1>
   </div>
 
-  <ul class="posts">
+  <div class="posts">
     {% for post in site.posts offset: 1 %}
-      <div class="post" style="border-top: 6px solid {{post.themeColor}};">
+      <div class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; border-top: 6px solid {{post.themeColor}};">
       	<!-- <span>{{ post.date | date_to_string }}</span>  -->
       	<!-- href="{{ site.baseurl }}{{ post.url }}" -->
       	<h3 class="post-topic" style="color: {{post.themeColor}}">{{ post.topic }}</h3>
@@ -36,5 +37,5 @@ title: {{ site.name }}
 	      </div>
       </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>

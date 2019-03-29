@@ -1,28 +1,15 @@
 ---
 layout: post
-title:  "First post"
+title:  "Second post"
 topic: "Hot takes"
 author: "someone"
-img: door.png
+img: stair.png
 themeColor: "#F5BB5F"
 date:   2016-02-12 17:50:00
 categories: main
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+# Fuck your banners, fuck your pop-ups, and fuck your feature walls
+## Fuck your banners, fuck your pop-ups, and fuck your feature walls
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+About three months ago I met up with this dude called Richard at a pub in Moorgate. It was a job interview, but it didn’t feel like it. We talked at length about how the web, from a usability perspective, is long-gone. Nowadays, if you visit a website you’ll be bombarded with notification prompts, you’ll have a disgusting banner at the top or bottom of the page, and probably some bullshit discount or subscription prompt when you scroll halfway down the page.
