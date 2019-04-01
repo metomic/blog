@@ -50,10 +50,11 @@
 	justify-content: center;
   
 	grid-template-columns: repeat(auto-fit, 48%);
-  	grid-template-rows: repeat(auto-fit, 600px);
+  	grid-template-rows: repeat(auto-fit, auto);
 
-	padding-top: 42px;
+	padding-top: 130px;
 }
+
 
 
 
@@ -106,6 +107,7 @@
 	.postsInline {
 		margin-left: 16px;
 		margin-right: 16px;
+		padding-top: 70px !important;
 		/* display: grid; */
 		/* grid-template-columns: repeat(3, 100%); */
 		/* grid-gap: 3%; */
@@ -115,13 +117,14 @@
   		
 	
 		grid-template-columns: repeat(auto-fit, 100%);
-		margin-top: 70px !important;
+		margin: 0;
 		padding-top: 0;
 	}
 
 	.postsInline .post {
 		max-width: 528.375px;
-		margin: auto;
+		margin: 0 auto 0 auto;
+		height: auto;
 	}
 
 

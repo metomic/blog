@@ -27,7 +27,7 @@ title: {{ site.name }}
 			</div>
 		{% endfor %}
 	</div>
-	<div class="postsInline" style="margin-top: 100px">
+	<div class="postsInline" >
 		{% for post in site.posts offset: 3%}
       <div topic="{{ post.topic }}" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}};">
       	<h1 class="post-title">{{ post.title }}</h1>
