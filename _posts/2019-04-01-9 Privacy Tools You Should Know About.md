@@ -8,8 +8,6 @@ themeColor: "#466993"
 date:   2019-04-01 17:50:00
 categories: main
 ---
-# 9 Privacy Tools You Should Know About
-
 ## Ugh WHY is privacy so hard?
 
 It's becoming more and more obvious that the masters of the internet (Google, Facebook, Amazon, anyone else like that) are in no rush to begin valuing your privacy. While we wait for them to change their minds about that (lol), here are some tools you can use in your every day life or in business so that you can maintain privacy and still use the internet. Wow.
