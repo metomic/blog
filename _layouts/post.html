@@ -4,23 +4,23 @@ layout: default
 
 <div style="margin-top: 0; background-color: {{page.themeColor}};" class="first-image-default">
   <div class="headerDesktop">
-    <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none;" href='http://localhost:8080'>privacy bible</a>
-    <h1 style="margin-top: 0; font-size: 18px; line-height: normal; font-weight: normal; color: #FFFFFF;">{{page.author}}</h1>
+    <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none; font-family: Eina01-SemiBold;" href='http://localhost:8080'>privacy bible</a>
+    <h1 style="margin-top: 0; font-size: 18px; line-height: normal; font-weight: normal; color: #FFFFFF; font-family: Eina01-Regular;" >{{page.author}}</h1>
   </div>
   <div class="headerMobile">
       <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none;" href='http://localhost:8080'>pb</a>
     </div>
   <div class="textOverlayHeader">
-    <h1 class="first-image-title-default">{{page.title}}</h1>
-    <h2 class="first-image-meta-default">{{ page.date | date_to_string }}</h2>
+    <h1 class="first-image-title-default" style="font-family: Eina01-SemiBold;">{{page.title}}</h1>
+    <h2 class="first-image-meta-default" style="font-family: Eina01-Regular;">{{ page.date | date_to_string }}</h2>
   </div>
 </div>
 
 <div class="blog-content-default">
     <div class="textDesktopHeader">
-      <h1 class="first-image-title-default">{{page.title}}</h1>
-      <h2 class="first-image-meta-default">{{ page.date | date_to_string }}</h2>
+      <h1 class="first-image-title-default" style="font-family: Eina01-Regular;">{{page.title}}</h1>
+      <h2 class="first-image-meta-default" style="font-family: Inter;">{{ page.date | date_to_string }}</h2>
     </div>
-  {{ content }}
+    {{ content }}
 </div>
 

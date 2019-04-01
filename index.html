@@ -8,8 +8,8 @@ title: {{ site.name }}
 <div id="home">
 	
 	<div class="home-header">
-		<h2 class="linkBack" style="position: absolute; margin-top: 38px;">&larr; back to metomic</h2>
-	  <h1 style="text-align: center; color: #EB4967;">privacy bible</h1>
+		<a href="http://metomic.io" class="linkBack" style="position: absolute; margin-top: 38px; font-family: Inter;">&larr; back to metomic</a>
+	  <h1 style="text-align: center; color: #EB4967; font-family: Eina01-Regular;">privacy bible</h1>
 	</div>
 
 	<div class="home-header-mobile">
@@ -22,16 +22,16 @@ title: {{ site.name }}
   <div class="posts" id="posts">
     {% for post in site.posts limit: 3%}
       <div topic="{{ post.topic }}" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}};">
-      	<h1 class="post-title">{{ post.title }}</h1>
-				<h3 class="post-date"">{{ post.date | date_to_string }}</h3>
+      	<h1 class="post-title" style="font-family: Eina01-Regular;">{{ post.title }}</h1>
+				<h3 class="post-date" style="font-family: Inter;">{{ post.date | date_to_string }}</h3>
 			</div>
 		{% endfor %}
 	</div>
 	<div class="postsInline" >
 		{% for post in site.posts offset: 3%}
       <div topic="{{ post.topic }}" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}};">
-      	<h1 class="post-title">{{ post.title }}</h1>
-				<h3 class="post-date"">{{ post.date | date_to_string }}</h3>
+      	<h1 class="post-title" style="font-family: Eina01-Regular; font-size: 48px;">{{ post.title }}</h1>
+				<h3 class="post-date" style="font-family: Inter;">{{ post.date | date_to_string }}</h3>
 			</div>
     {% endfor %}
   </div>
