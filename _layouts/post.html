@@ -3,15 +3,24 @@ layout: default
 ---
 
 <div style="margin-top: 0; background-color: {{page.themeColor}};" class="first-image-default">
-  <div style="display: flex; flex-direction: row; justify-content: space-between; padding: 27px 20% 0 20%;">
+  <div class="headerDesktop">
     <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none;" href='http://localhost:8080'>privacy bible</a>
     <h1 style="margin-top: 0; font-size: 18px; line-height: normal; font-weight: normal; color: #FFFFFF;">{{page.author}}</h1>
+  </div>
+  <div class="headerMobile">
+      <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none;" href='http://localhost:8080'>pb</a>
+    </div>
+  <div class="textOverlayHeader">
+    <h1 class="first-image-title-default">{{page.title}}</h1>
+    <h2 class="first-image-meta-default">{{ page.date | date_to_string }}</h2>
   </div>
 </div>
 
 <div class="blog-content-default">
-    <h1 class="first-image-title-default">{{page.title}}</h1>
-    <h2 class="first-image-meta-default">{{ page.date | date_to_string }}</h2>
+    <div class="textDesktopHeader">
+      <h1 class="first-image-title-default">{{page.title}}</h1>
+      <h2 class="first-image-meta-default">{{ page.date | date_to_string }}</h2>
+    </div>
   {{ content }}
 </div>
 

@@ -1,13 +1,66 @@
 #home {
-	margin-left: 360px;
-	margin-right: 360px;
+	margin-left: 20%;
+	margin-right: 20%;
 	padding-bottom: 72px;
 }
 
+
+.home-header {
+	height: 85px; 
+	display: flex; 
+	flex-direction: column;
+}
+
+.home-header-mobile {
+	height: 85px; 
+	flex-direction: row;
+	display: none;
+	align-items: center;
+  justify-content: center;
+	
+}
+
+.post-title {
+	font-size: 64px;
+	line-height: 84px;
+	padding: 0 30px 0 30px;
+	color: #FFFFFF;
+}
+
+.post-date {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: normal;
+	color: #FFFFFF;
+	padding: 0 30px 0 30px;
+}
+
+.post {
+	box-shadow: 0px 4px 34px rgba(104, 104, 104, 0.25);
+	width: 100%;
+	min-height: 500px;
+	height: 100%;
+}
+
+
 @media only screen and (max-width: 768px) {
+	.home-header {
+		display: none;
+	}
+	
+	.home-header-mobile {
+		display: flex;
+		padding-left: 16px;
+		padding-right: 16px;
+		z-index: 10;
+		position: relative;
+	}
+
 	#home {
 		margin-left: 0;
 		margin-right: 0;
+		
 	}
 
 	.posts {
@@ -15,16 +68,22 @@
 		margin-right: 16px;
 	}
 
-	.home-header{
-		padding-left: 10px;
-		padding-right: 10px;
-		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-		z-index: 10;
-		position: relative;
+	.post {
+		border-radius: 16px;
+		min-height: 250px;
+		box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
 	}
-	.first-image-author {
-		margin-top: 0;
+
+	.post-title {
+		font-size: 30px;
+		line-height: normal;
 	}
+
+	.post-date {
+		font-size: 12px;
+		line-height: normal;
+	}
+	
 	.first-image {
 		border-radius: 0;
 		box-shadow: none !important;
@@ -57,32 +116,20 @@
 
 }
 
-.post {
-	box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.25);
-	border-radius: 2px;
-	width: 100%;
-	min-height: 500px;
-	height: 100%;
+.postsInline {
+	display: grid;
+	/* grid-template-columns: repeat(3, 100%); */
+	grid-gap: 3%;
+	justify-content: center;
+  
+	grid-template-columns: repeat(auto-fit, 48%);
+  	grid-template-rows: repeat(auto-fit, 600px);
 
-	
-	/*  */
+	padding-top: 42px;
 }
 
-.post-title {
-	font-size: 64px;
-	line-height: 84px;
-	padding: 0 30px 0 30px;
-	color: #FFFFFF;
-}
 
-.post-date {
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	line-height: normal;
-	color: #FFFFFF;
-	padding: 0 30px 0 30px;
-}
+
 
 .post-image {
 	width: 100%;
