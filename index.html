@@ -20,17 +20,19 @@ title: {{ site.name }}
 
   <div class="posts" id="posts">
     {% for post in site.posts limit: 3%}
-      <div topic="{{ post.topic }}" data-tilt data-tilt-perspective="3000" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}};">
+			<div topic="{{ post.topic }}" data-tilt data-tilt-perspective="3000" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}}; position: relative;">
       	<h1 class="post-title" style="font-family: Eina01-SemiBold;">{{ post.title }}</h1>
 				<h3 class="post-date" style="font-family: Inter;">{{ post.date | date_to_string }}</h3>
+				<h3 class="post-date" style="font-family: Inter; position: absolute; bottom: 0px; left: 0;">{{ post.author }}</h3>
 			</div>
 		{% endfor %}
 	</div>
 	<div class="postsInline" >
 		{% for post in site.posts offset: 3%}
-      <div topic="{{ post.topic }}" class="post" data-tilt data-tilt-perspective="3000" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}};">
+      <div topic="{{ post.topic }}" class="post" data-tilt data-tilt-perspective="3000" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}}; position: relative;">
       	<h1 class="post-title" style="font-family: Eina01-SemiBold;">{{ post.title }}</h1>
-				<h3 class="post-date" style="font-family: Inter;">{{ post.date | date_to_string }}</h3>
+				<h3 class="post-date" style="font-family: Inter; padding-bottom: 40px">{{ post.date | date_to_string }}</h3>
+				<h3 class="post-date" style="font-family: Inter; position: absolute; bottom: 0; left: 0;">{{ post.author }}</h3>
 			</div>
     {% endfor %}
   </div>
@@ -43,3 +45,14 @@ title: {{ site.name }}
   crossorigin="anonymous"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js"></script>
+
+<script>
+	$( document ).ready(function() {
+		
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			const tilt = $('.post').tilt();
+			tilt.tilt.destroy.call(tilt);
+		}
+	})
+		</script>
+		
