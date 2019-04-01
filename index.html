@@ -3,54 +3,22 @@ layout: default
 title: {{ site.name }}
 ---
 
-<script>
-function filter(value) {
-	for (let i = 0; i < document.getElementById("posts").children.length; i ++) {
-		// console.log(document.getElementById("posts").children[i].getAttribute("idk"))
 
-		if (document.getElementById("posts").children[i].getAttribute("topic") !== value && value !== "Show All") {
-			document.getElementById("posts").children[i].style.display = "none";
-		} else {
-			document.getElementById("posts").children[i].style.display = "block";
-		}
-	}
-
-}
-</script>
 
 <div id="home">
-	<div style="height: 85px; display: flex; align-items: center" class="home-header">
-	  <h1 style="float: left; flex: 1; color: #321E41;">data bible</h1>
-	  <div style="float: right; display: flex; align-items: center">
-	  	<label class="filter-label" style="float: left">filter:</label>
-	  	<select style="float: right" class="filter-selector" onchange="filter(this.value)">
-	  		<option value="Show All">Show All</option>
-			  <option value="Hot takes">Hot takes</option>
-			  <option value="Team post">Team post</option>
-			  <option value="Weekly roundup">Weekly roundup</option>
-			  <option value="In Conversation">In Conversation</option>
-			</select>
-	  </div>
+	
+	<div style="height: 85px; display: flex; flex-direction: column;" class="home-header">
+		<h2 class="linkBack" style="position: absolute; margin-top: 38px;">back to metomic</h2>
+	  <h1 style="text-align: center; color: #EB4967;">privacy bible</h1>
 	</div>
 
-  <div style="background-image: url({{site.baseurl}}/images/{{site.posts[0].img}})" class="first-image">
-  	<h2 class="first-image-author">{{site.posts[0].author}}</h2>
-  	<h1 class="first-image-title">{{site.posts[0].title}}</h1>
-  </div>
 
   <div class="posts" id="posts">
-    {% for post in site.posts offset: 1 %}
-      <div topic="{{ post.topic }}" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; border-top: 6px solid {{post.themeColor}};">
-      	<!-- <span>{{ post.date | date_to_string }}</span>  -->
-      	<!-- href="{{ site.baseurl }}{{ post.url }}" -->
-      	<h3 class="post-topic" style="color: {{post.themeColor}}">{{ post.topic }}</h3>
+    {% for post in site.posts %}
+      <div topic="{{ post.topic }}" class="post" onclick="location.href='{{ site.baseurl }}{{ post.url }}';" style="cursor: pointer; background-color: {{post.themeColor}};">
       	<h1 class="post-title">{{ post.title }}</h1>
-      	<img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}" css="post-image">
-      	<div class="post-meta">
-	      	<h3 style="float:left;">{{ post.author }}</h3>
-	      	<h3 style="float:right;">{{ post.date | date_to_string }}</h3>
-	      </div>
-      </div>
+				<h3 class="post-date"">{{ post.date | date_to_string }}</h3>
+			</div>
     {% endfor %}
   </div>
 </div>

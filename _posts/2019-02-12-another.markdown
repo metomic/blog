@@ -4,12 +4,13 @@ title:  "Opening the doors to data ethics"
 author: "Georgia Iacovou"
 date:   2019-02-12 17:50:00
 topic: "Hot takes"
-img: door.png
 themeColor: "#F5BB5F"
 categories: main
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper malesuada proin libero nunc consequat. Iaculis eu non diam phasellus. Amet purus gravida quis blandit turpis. Iaculis at erat pellentesque adipiscing commodo elit. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Aliquam malesuada bibendum arcu vitae elementum. Ultrices vitae auctor eu augue ut lectus. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Augue mauris augue neque gravida in fermentum et sollicitudin ac. Commodo elit at imperdiet dui accumsan sit amet. Pulvinar pellentesque habitant morbi tristique.
+
+![](/images/door.png)
 
 Ante in nibh mauris cursus. Pellentesque sit amet porttitor eget dolor morbi. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget nunc lobortis mattis. Vitae semper quis lectus nulla at volutpat diam. Nec dui nunc mattis enim. Porta non pulvinar neque laoreet. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Gravida dictum fusce ut placerat orci nulla pellentesque. Eu lobortis elementum nibh tellus molestie nunc.
 
