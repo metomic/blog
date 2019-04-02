@@ -118,7 +118,7 @@
 	font-weight: normal;
 	font-size: 18px;
 	line-height: 32px;
-	padding-top: 50px;
+	padding-bottom: 50px;
 	font-family: Inter;
 
 	color: #101010;
@@ -126,4 +126,8 @@
 
 .blog-content-default p img {
 	width: 100%;
+}
+
+a {
+	color: #101010;
 }

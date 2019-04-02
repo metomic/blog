@@ -118,7 +118,7 @@ Only if you'd rather not use a tool that uses blockchain technology.
 
 Tells you if any email you receive contains trackers, and also blocks those trackers if you open the email.
 
-![](/images/ugly)
+![](/images/ugly.png)
 
 ### Why is this useful?
 
