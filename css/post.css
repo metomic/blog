@@ -121,7 +121,28 @@
 	line-height: 32px;
 	padding-bottom: 30px;
 	font-family: Inter;
+	color: #101010;
+}
 
+.blog-content-default blockquote p {
+    padding-bottom: 0;
+    border-left: solid #58466D 3px;
+    padding-left: 16px;
+}
+
+blog-content-default ul,
+.blog-content-default ol {
+	padding-bottom: 14px;
+}
+
+.blog-content-default ul li,
+.blog-content-default ol li {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 32px;
+	padding-bottom: 14px;
+	font-family: Inter;
 	color: #101010;
 }
 

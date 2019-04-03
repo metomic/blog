@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Customer-Centric Dilemma"
-topic: "Explainer"
+topic: "Thematic"
 author: "Richard Vibert"
 img: stair.png
 themeColor: "#2ECA88"

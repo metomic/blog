@@ -129,9 +129,7 @@ The settlement was obviously over all that crap from 2009 and 2010. Facebook bas
 
 In case you think all these italicised quotes are entirely fictional, please see this is direct quote from [a post he made in 2011:](https://www.facebook.com/notes/facebook/our-commitment-to-the-facebook-community/10150378701937131/?__tn__=H-R)
 
-> Overall, I think we have a good history of providing transparency and control over who can see your information.
-
-*Mark Zuckerberg*
+> "Overall, I think we have a good history of providing transparency and control over who can see your information." *Mark Zuckerberg*
 
 Oh, okay.
 
