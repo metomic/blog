@@ -124,6 +124,10 @@
 	color: #101010;
 }
 
+.blog-content-default blockquote {
+	padding-bottom: 14px;
+}
+
 .blog-content-default blockquote p {
     padding-bottom: 0;
     border-left: solid #58466D 3px;
