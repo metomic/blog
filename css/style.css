@@ -194,3 +194,8 @@
 	text-decoration: none;
 	color: rgba(0, 0, 0, 0.54);
  }
+
+.postsInline .post-title {
+	font-size: 48px;
+	line-height: 63px;
+}
