@@ -154,6 +154,10 @@ blog-content-default ul,
 	width: 100%;
 }
 
+hr {
+	margin: 40px 0 50px 0;
+}
+
 a {
 	color: #101010;
 }
