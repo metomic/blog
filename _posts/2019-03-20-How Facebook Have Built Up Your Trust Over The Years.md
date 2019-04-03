@@ -15,31 +15,32 @@ Great so now you have the below list ready to pull out should you forget about t
 
 ### [2006](#2006): Introduction of the newsfeed
 
-### 2007: The Facebook Beacon
+### [2007](#2007): The Facebook Beacon
 
-### 2008: You can't actually delete your account...
+### [2008](#2008): You can't actually delete your account...
 
-### 2009: Important changes made to privacy settings
+### [2009](#2009): Important changes made to privacy settings
 
-### 2010: Many, many user IDs leaked
+### [2010](#2010): Many, many user IDs leaked
 
-### 2011: Facebook settles FTC privacy charges
+### [2011](#2011): Facebook settles FTC privacy charges
 
-### 2012: Your 'real name' seems made up, are you foreign?
+### [2012](#2012): Your 'real name' seems made up, are you foreign?
 
-### 2013: Emails and phone numbers stored along side user information
+### [2013](#2013): Emails and phone numbers stored along side user information
 
-### 2014: Facebook experiments on users, users become either happy or sad
+### [2014](#2014): Facebook experiments on users, users become either happy or sad
 
-### 2015: Facebook even shares your friend's data with third parties
+### [2015](#2015): Facebook even shares your friend's data with third parties
 
-### 2016: Time to dabble in election manipulation, yaaaaay.
+### [2016](#2016): Time to dabble in election manipulation, yaaaaay.
 
-### 2017: Facebook enabled discriminatory targeted ads.
+### [2017](#2017): Facebook enabled discriminatory targeted ads.
 
-### 2018: Facebook fully suck the privacy out of everything
+### [2018](#2018): Facebook fully suck the privacy out of everything
 
-### 2019: In present day, Facebook finally talk about being more private, somehow
+### [2019](#2019): In present day, Facebook finally talk about being more private, somehow
+
 
 ## 2006
 

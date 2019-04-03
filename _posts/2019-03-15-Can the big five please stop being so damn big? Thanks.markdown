@@ -13,7 +13,7 @@ categories: main
 
 This week has been mostly about how Mark Zuckerberg wants to merge together all three of his 'let's have a private conversation now' apps. So that's Facebook Messenger, Instagram messenger, and Whatsapp. He says this is all in the name of privacy and took [about 3200](https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) words to explain it "very clearly" in his blog. I mean I think this will just work because a) Facebook have really managed to cultivate trusting relationship with their users, and b) merging those three things just like, sorta makes sense you know? Yes, except points a) and b) are both very, very untrue...
 
-![](images/merge.jpg)
+![](images/merge.png)
 
 ## Big tech: abort, abort, abort
 

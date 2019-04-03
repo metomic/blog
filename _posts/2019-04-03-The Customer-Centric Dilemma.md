@@ -4,7 +4,7 @@ title:  "The Customer-Centric Dilemma"
 topic: "Explainer"
 author: "Richard Vibert"
 img: stair.png
-themeColor: "#466993"
+themeColor: "#2ECA88"
 date:   2019-04-03 13:16:00
 categories: main
 ---
