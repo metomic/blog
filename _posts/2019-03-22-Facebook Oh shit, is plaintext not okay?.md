@@ -23,7 +23,7 @@ Seriously though, will Facebook ever stop finding new ways to fuck up? Why would
 
 This has affected somewhere between 200 and 600 million users, and logging passwords in this way began in 2012. There are 20,000 Facebook employees that had access to these logs. Guys... at this point I'm embarrassed for you. This isn't large scale negligence, this is a result of disgraceful office culture, expertly cultivated over many years. "Yes, we store passwords in plaintext, but keep your head down, your mouth shut, and meet your deadlines."
 
-![](images/plaintext.png)
+![](/images/plaintext.png)
 
 ## Wow cool, Myspace. What a throwback
 

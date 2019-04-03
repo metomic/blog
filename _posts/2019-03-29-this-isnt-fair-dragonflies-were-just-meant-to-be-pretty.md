@@ -25,18 +25,13 @@ Hash tag security, guys.
 A kickstarter campaign has just begun for PreShow - an app where you watch 15-20 minutes of ads to get free film tickets. Seems pretty okay but they've implemented software that can track your gaze, and therefore the ads will pause when you look away from your phone. Excellent. The good and the bad:
 
 ✅ If you can't normally afford cinema tickets, this could be great
-
 ❌ They might charge for the app so it will be like paying to watching ads?
-
 ✅ People could find ingenious ways of getting around the gaze-tracking thing.
-
 ❌ But really... gaze-tracking software only sounds like a bad thing
-
 ✅ The data they collect will all be anonymised
-
 ❌ Do not underestimate the power of anonymised data - that can still be used to infer things about you as a user of the app depending on what movies you saw and liked, and what your eyes are doing during certain ads, etc. Ultimately this could be very invasive, but as usual it depends what they decide to do with the data
 
-![](images/dragonfly.png)
+![](/images/dragonfly.png)
 
 ## Google, but in China
 

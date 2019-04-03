@@ -41,6 +41,7 @@ Great so now you have the below list ready to pull out should you forget about t
 
 ### [2019](#2019): In present day, Facebook finally talk about being more private, somehow
 
+---
 
 ## 2006
 
