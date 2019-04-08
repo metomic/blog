@@ -41,7 +41,7 @@ Facebook are sort of throwing us a bone right now with a 'why am I seeing this' 
 - E.g. I just got a Betfair ad on my newsfeed. Facebook said this might be because I have a Betfair account and/or am over 18. I don't have a Betfair account but I am over 18. I guess everyone of legal gambling age should want to gamble, right? Well done Facebook, great targeting. (Also I have a gambling addiction *cough*).
 - People will sort of get a better understanding of why they are served such ads and see that things like relationship status and activities outside of Facebook play a part in what ads they see
 
-![](/images/feedads.jpg)
+![](/images/feedads.png)
 
 **No,** because:
 
