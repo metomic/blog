@@ -110,7 +110,7 @@ I don't think I have a problem with this kind of shitty practice, if you want sc
 
 ![](/images/scroll.png)
 
-The ball is going to drop on businesses using dark patterns. An example of how you'll lost trust by deploying these dark arts is Facebook. Only recently Facebook began prompting users to increase their account security using 2FA. To set up 2-factor authentication, they needed your phone number. Awesome. Account on lock. 
+The ball is going to drop on businesses using dark patterns. An example of how you'll lose trust by deploying these dark arts is Facebook. Only recently Facebook began prompting users to increase their account security using 2FA. To set up 2-factor authentication, they needed your phone number. Awesome. Account on lock. 
 
 Wrong. 
 
