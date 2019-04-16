@@ -161,3 +161,9 @@ hr {
 a {
 	color: #101010;
 }
+
+code {
+	margin-bottom: 30px;
+	background: #eaeaea;
+	padding: 1.5em .5em;
+}
