@@ -16,7 +16,7 @@ But as with any startup, we face challenges and saviour successes. So we thought
 So time to take a hard look at ourselves, and do a Metomic retro...
 
 ![](/images/shad.jpg)
-*Because_every_retro_needs_to_start_with_a_thousand-yard_stare*
+*Because every retro needs to start with a thousand-yard stare*
 
 ### What to celebrate about
 
