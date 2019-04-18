@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Love Letter"
+title:  "A Metomic retro"
 topic: "From The Team"
 author: "Shad Jahangir"
 img: stair.png
