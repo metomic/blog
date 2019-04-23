@@ -6,7 +6,8 @@ author: "Georgia Iacovou"
 img: stair.png
 themeColor: "#466993"
 date:   2019-04-23 17:50:00
-catego
+categories: main
+---
 ## While you've been having fun blocking cookies, advertising networks have been developing fierce alternatives...
 
 Hopefully you know by now that cookies are just a form of 21st century surveillance. If you've never thought about cookies in that way before, it's fine. Just remember: you are served cookies basically all the time, and they can track your browsing behaviours, painting a very accurate picture of who you are. [Chomp on this delicious article to learn more, if you want.](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html)
@@ -87,11 +88,11 @@ An RGB value is:
 
 So, according to computers, black is technically a colour, but it's the least 'colour' of all the colours. And white is the most. This is how computers read colours:
 
-    //Black:
+    Black:
     hex code: #000000
     RGB value: rgb(0, 0, 0)
     
-    //White:
+    White:
     hex code: #ffffff
     RGB value: rgb(255, 255, 255)
 

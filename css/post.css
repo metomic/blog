@@ -165,5 +165,5 @@ a {
 code, kbd, pre, samp {
 	margin-bottom: 30px;
 	background: #eaeaea;
-	padding: 1.5em .5em;
+	/*padding: 1.5em .5em;*/
 }
