@@ -171,4 +171,4 @@ Cool idea. If data wasn't constantly being used to sell us more crap, maybe we'd
 
 What if we lived in a world where data was a bit more open and accessible? What would that look like? What if we lived in a world where all of this data was in one central place and we could get to it whenever we wanted?
 
-Great questions, great questions. These are questions asked by everyone who wants to read part 2 of this article (coming soon to a Privacy Bible near you), where April slips into an alternate universe and we explore these ideas.
+Great questions, great questions. These are questions asked by everyone who wants to read part 2 of this article, where April slips into an alternate universe and we explore these ideas.
