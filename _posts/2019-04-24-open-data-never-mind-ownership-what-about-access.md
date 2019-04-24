@@ -65,7 +65,7 @@ So in Rightworld, you were able to restrict your heart data to be used for medic
 
 Yeah sure, just use all that money you have. Especially now that you have a demotion. Data management in Wrongworld is fussy and expensive. People with enough money to fully control their data in the way they like it have everything set just so; they employ the services of personal data managers who ensure their data is in all the right places. 
 
-What does this mean? Well, April, this means that in Wrongworld, data privacy is actually a **privilege ****and not a **right.** And that is just terrible news for society.
+What does this mean? Well, April, this means that in Wrongworld, data privacy is actually a **privilege** and not a **right.** And that is just terrible news for society.
 
 ## Forget Righworld and Wrongworld and let's go back to real world
 

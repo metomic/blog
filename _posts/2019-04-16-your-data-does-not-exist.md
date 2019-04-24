@@ -49,7 +49,7 @@ The term 'personal data' should be reserved for basic things like your name, age
 
 ## Behavioural data is just a computery guessing game...
 
-Now it's time to look outside of April's world. The stuff we know about her is fairly superficial, and on it's own it's nothing and it's boring. What about all the people who are *like* April? They also like noodles and do yoga and maybe even work in an art gallery. **Collective behavioural data ****is where things start to get interesting (or scary - depends how you look at it). Allow me to explain.
+Now it's time to look outside of April's world. The stuff we know about her is fairly superficial, and on it's own it's nothing and it's boring. What about all the people who are *like* April? They also like noodles and do yoga and maybe even work in an art gallery. **Collective behavioural data** is where things start to get interesting (or scary - depends how you look at it). Allow me to explain.
 
 Let's take some of the other stuff about April that we learned earlier. She plays football on Sundays and goes out in Dalston. There are a bunch of other people like April who also do these two things. Let's narrow down this cross-section of people by using some **personal data** about April: her age and gender. She is a woman under 30.
 
@@ -171,4 +171,4 @@ Cool idea. If data wasn't constantly being used to sell us more crap, maybe we'd
 
 What if we lived in a world where data was a bit more open and accessible? What would that look like? What if we lived in a world where all of this data was in one central place and we could get to it whenever we wanted?
 
-Great questions, great questions. These are questions asked by everyone who wants to read part 2 of this article, where April slips into an alternate universe and we explore these ideas.
+Great questions, great questions. These are questions asked by everyone who wants to read [part 2 of this article](https://blog.metomic.io/main/2019/04/24/open-data-never-mind-ownership-what-about-access.html), where April slips into an alternate universe and we explore these ideas.
