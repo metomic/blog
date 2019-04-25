@@ -78,9 +78,10 @@ These issues are not about **ownership**. They are about **access**. It doesn't 
 On the more cuddly side of the real world, the ODI recently completed a report on their pilot programmes for [data trusts](https://theodi.org/article/odi-data-trusts-report/). These data trusts (which are a totally new thing that the ODI essentially made up) are meant to act as independent bodies, that decide how data is shared. The ODI want to know whether we can still **maintain trust** even with **increased access to data.**
 
 ![](/images/datatrust.png)
-
 *A page from the ODI's summary report*
 
-There were three programmes, and they each focused on tackling illegal wildlife trade, reducing food waste, and improving public services in the London borough of Greenwich. TLDR of their findings: both organisations and individuals really like the idea of data trusts.
+There were three programmes, and they each focused on tackling illegal wildlife trade, reducing food waste, and improving public services in the London borough of Greenwich. TLDR of their findings: organisations and individuals really like the idea of data trusts.
 
-While it's great that these ideas are being piloted, we really need more of this. Frankly, we've been doing things far too similarly to Wrongworld for far too long.
+While it's great that these ideas are being piloted, we really need more of this. As we saw from the extreme scenarios outlined in this post, the sharing of data worked so well for April in Rightworld that she didn't even notice it happening. In Wrongworld, her access was so restricted that it was really hard to do basic things. In addition to this, her employer seemed to have a fairly intrusive level of access which resulted in financial hardship.
+
+Currently we don't live in either Wrongworld or Rightworld, but the issues surrounding how data is processed at the moment could begin pulling us in one direction. I'm not saying that Rightworld is the correct way to go, necessarily (misleading, because of the name). But it's one facet of one idea of how things could possibly be if we just exercised a bit of trust and let our data be more open...
