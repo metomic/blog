@@ -10,33 +10,35 @@ categories: main
 ---
 ## While you've been having fun blocking cookies, advertising networks have been developing fierce alternatives...
 
-Hopefully you know by now that cookies are just a form of 21st century surveillance. If you've never thought about cookies in that way before, it's fine. Just remember: you are served cookies basically all the time, and they can track your browsing behaviours, painting a very accurate picture of who you are. [Chomp on this delicious article to learn more, if you want.](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html)
+Hopefully you know by now that, in part, cookies are a form of 21st century surveillance. If you've never thought about cookies in that way before, it's fine. Just remember: you are served cookies basically all the time, and they can track your browsing behaviours, painting a very accurate picture of who you are. [Chomp on this delicious article to learn more, if you want.](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html)
 
 Please don't let cookies take up more than about 5% of brain energy in your privacy-focused mind. They are a terrible distraction from all the other methods used by advertisers to build up a profile of who you are and what you might like to buy. 
 
-## Forced Caching: take a photo, it'll last longer
+## Caching: take a photo, it'll last longer
 
 Do you remember the olden days where if you were ever walking around and you saw like a really cool tree or sunset or something you couldn't just take a photo. You'd have to actually harness the power of your brain and commit the cool tree or sunset to your memory. And if you couldn't remember it, you'd just have to go back to where you found it if you ever wanted to see it again. God, what a stupid time to be alive.
 
 But then about 200 years ago a bunch of people finally invented photography and that miserable time of 'just remembering things' was over. Now you can just take photos of your loved ones to remember who they are and what they look like. Wow, technology is amazing.
 
-Why am I talking about this? Because, as well as giving a very comprehensive and accurate account on the history of photography, I just basically described what **forced caching** is. Nowadays when you're surfing that web and loading various banners and logos and cool graphics, your browser does not load the same images over and over again - it just saves them in a drawer for later (or rather **forces** them into your **cache**).
+Why am I talking about this? Because, as well as giving a very comprehensive and accurate account on the history of photography, I just basically described what **caching** is. Nowadays when you're surfing that web and loading various banners and logos and cool graphics, your browser does not load the same images over and over again - it just saves them in a drawer for later (or rather saves them into your **cache**).
 
-This is useful for when you visit websites that contain images that are very unlikely to change, like company logos. The site simply says to your browser, "why don't you just keep a copy of that logo and get it out again every time you visit so I don't have to keep loading it for you k thanks bye". So basically it's efficient and it saves time and energy for everyone.
+This is useful for when you visit websites that contain images that are very unlikely to change, like company logos. The site simply says to your browser, "why don't you just keep a copy of that logo and get it out again every time you visit so I don't have to keep loading it for you k thanks bye". So basically it's efficient and stops your phone from dying at 2pm.
 
-Unfortunately, forced caching is a method that is now abused so that various things *that are not cookies*, but act like cookies, can be stored on your machine. This article explores just a few of these things. Pretty sure no one's attention span (including mine) is big enough to accommodate absolutely every tracking method out there. Please just assume that there are a lot, and they are all used side by side to create an accurate profile of you and target you with ads.
+Unfortunately, caching is a method that is now abused so that various things *that are not cookies*, but act like cookies, can be stored on your machine. This article explores just a few of these things. Pretty sure no one's attention span (including mine) is big enough to accommodate absolutely every tracking method out there. Please just assume that there are a lot, and they are all used side by side to create an accurate profile of you and target you with ads.
 
 ## Be proud, you are unique...
 
 Have you ever done a personality quiz? You go to a really 'high quality' website like Buzzfeed, answer a bunch of seemingly random, nonsensical questions, and then they tell you what kind of person you are.
 
-Well, this is what the whole of the internet is doing with you basically all the time. Except, it's not asking questions, it's just taking information. And instead of the results being totally inconsequential and only funny for five seconds, they are disturbingly accurate and a gross invasion of privacy. GREAT so let's begin our involuntary quiz: *Use the internet for five minutes and we'll tell you exactly what kind of user you are.*
+Well, this is what the whole of the internet is doing with you basically all the time. Except it's asking about what you do, it's just watching what you do
+
+ Except, it's not asking questions, it's just taking information. And instead of the results being totally inconsequential and only funny for five seconds, they are disturbingly accurate and a gross invasion of privacy. GREAT so let's begin our involuntary quiz: *Use the internet for five minutes and we'll tell you exactly what kind of user you are.*
 
 *Beep beep boop* you just visited treerank.bark (you know... where you go to rank trees when you're bored) and they just forced an image into your cache. Your browser did not notice or care, because this is standard internet practice. 
 
 *Secret beep* oh my, this cached image looks like it's nothing to do with treerank.bark. It has no trees in it, and it's nowhere to be found on the site. It's literally just in your browser's cache. You know... *secretly*. Why cache an image that isn't even visible on the site? Why does your browser need to do that?
 
-Ha, it doesn't. It's all a big convoluted TRICK. Treerank.bark have employed the awesome power of *extremely simple* technology which has been around for over a decade to produce an image of randomly generated colours. Meaningless and basically invisible to you, but extremely useful for treerank.bark. Useful like this:
+Ha, it doesn't. It's all a big convoluted TRICK. Treerank.bark have employed the awesome power of *extremely simple* technology which has been around *since the beginning of the internet* to produce an image of randomly generated colours. Meaningless and basically invisible to you, but extremely useful for treerank.bark. Useful like this:
 
 1. The image was generated just for you
 2. It's very random and detailed, so it's highly likely that it is entirely unique
@@ -45,6 +47,8 @@ Ha, it doesn't. It's all a big convoluted TRICK. Treerank.bark have employed the
 That means, any time you do anything with trees on the internet (treerank.bark own all trees on the internet - don't question it), they will know that **it's you doing it.** Sure, it may be totally anonymised, but that doesn't matter. All treerank.bark care about is: *oh damn this user really likes maple. They're a total "Phoebe" - fake vegan; has secretly bought many furs. Sell them some patio furniture - do it DO IT.*
 
 So if you visit treerank.bark again, their server will see your specially generated image and know that it is you (the... "Phoebe" kind of user). The way that they match a complex, randomly generated image of colours with one specific user is via **hashing**.
+
+At this point I will remind you that this method to track you (and all the others) are employed when/if you block cookies. Using cookies is easier for those who want do all this tracking. But a lot of us are blocking them now, so these more devious and complex methods need to be employed in order to achieve the same tracking results.
 
 ## Okay but just... what is hashing again?
 
@@ -64,7 +68,7 @@ My password is stored on servers as this hash only - in order to authenticate me
     
     Hash: 74ebf5c96a2ee7ec638c57d61dee875a
 
-So, with hashing just remember: slight changes result in a completely different hash, but hashing 'georgia123' will always give the same result. This is why hashing is used for anonymously identifying users.
+So, with hashing just remember: slight changes result in a completely different hash, but hashing 'georgia123' will always give the same result. This is why hashing is useful for anonymously identifying users.
 
 ## Getting a hash out of an image: easier than you think
 
@@ -88,11 +92,11 @@ An RGB value is:
 
 So, according to computers, black is technically a colour, but it's the least 'colour' of all the colours. And white is the most. This is how computers read colours:
 
-    Black:
+    //Black:
     hex code: #000000
     RGB value: rgb(0, 0, 0)
     
-    White:
+    //White:
     hex code: #ffffff
     RGB value: rgb(255, 255, 255)
 
@@ -102,7 +106,7 @@ Now think about how many colours exist on your randomly generated image that was
 
     c315d612844a96e073041198e7b9b0eb
 
-Exactly... a hash. Something short and sweet that can be stored easily on a server next to a user ID or something. Your friend Margaret also uses treerank.bark. Here's the image they secretly forced into her cache: 
+Exactly... a hash. Something short and sweet that can be stored easily on a server next to a user ID or something. Your friend Margaret also uses treerank.bark. Here's the image they secretly forced into her cache:
 
 ![](/images/cachedimage2.jpg)
 
@@ -112,7 +116,7 @@ Sort of the same... but a bit different. This of course results in an entirely d
 
 Right so you've logged off of treerank.bark now - tree ranking is super addictive and you are trying desperately to limit your usage to just four hours a day (I know, it's hard... stay strong). Now you're back on buystuff.shop to buy the things that are missing from your life. You decide to do this incognito because you don't want every corporation out there knowing what kind of stuff you like to buy.
 
-Slipping into incognito mode right now is actually totally futile. Buystuff.shop already have you down as a "Joey" (always has lube in their shopping basket). All incognito/private mode does is block cookies - it does nothing with images that have been forced into your cache. 
+Slipping into incognito mode right now is actually totally futile. Buystuff.shop already have you down as a "Joey" (always has lube in their shopping basket). Incognito/private mode blocks cookies, sure. But it certainly does not stop the rendering of a canvas image. Allow me to explain...
 
 So yeah, you're having fun 'being private' in incognito mode, all the while buystuff.shop have read your **canvas fingerprint** in order to target you with 'relevant advertising' (gosh yes, I actually do quite like adverts as long as they're *relevant*). 
 
@@ -165,7 +169,7 @@ Yes so it's a set of info that sort of lives in your browser, available for webs
     Location: Haggerston, London, UK, the world
     Operating system: Windows 7, for some reason
     Likes cookies: yes
-    User type: "Ross" (total fucking loser)
+    User type: "Ross" (total loser)
 
 ### 2. How can this info about my browser even be useful?
 
@@ -207,9 +211,7 @@ You could disable other things, like perhaps Javascript, but that would also mea
 
 ![](/images/nofrills.png)
 
-Using privacy tools in tandem such as [Privacy Badger](https://www.eff.org/privacybadger) and [Ublock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) have known to be fairly effective. For instance, Privacy Badger will disable canvas rendering, but only on sites that try to render a canvas from a **third party.** In other words, it takes a smarter approach to blocking things. These tools also have manual controls that you can fine tune to your liking.
-
-Another tip is to blend in as much as possible by not being a total "Rachael". Ironically, when it comes to fingerprinting, I'd recommend not using Firefox (technically more secure, but only used by 6.2% of internet folk) and sticking with Chrome (owned by Google, but they are used by 62.9% of the internet, so...).
+Using privacy tools in tandem such as [Privacy Badger](https://www.eff.org/privacybadger) and [Ublock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) have known to be fairly effective. For instance, Privacy Badger will disable canvas rendering, but only on sites that try to render a canvas from a **third party.** In other words, it takes a smarter approach to blocking things. These tools also have manual controls that you can fine tune to your liking. Also, consider switching to more secure browsers such as Firefox or Brave.
 
 With these kinds of tracking, the trick is narrowing user types down as much as possible, and using all methods together. Remember that all these methods do not employ scary new technologies - just scary new ways of using already existing technologies.
 
