@@ -21,7 +21,7 @@ Anyway, people who want to sell you things (known as 'shops') use Facebook to ta
 
 Hopefully you can see where the potentially unlawful part is. Everything before step 4 is actually fine, really. It's okay to advertise your business; it's okay to want your ads to reach relevant audiences. But... can you not just ask first? Transparency can't be that hard, surely.
 
-![](https://www.notion.so/ecbab02be40f4b2eb9102559b550f5bf#b61fc2486be842df9cbcfed10bd96ba5)
+![](/images/blackforest.jpg)
 *The Black Forest, Bavaria*
 
 ## Cut them off at the source - or just cut everything off?
