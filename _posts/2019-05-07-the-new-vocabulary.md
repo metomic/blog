@@ -69,3 +69,7 @@ Simply by making this statement, they imply that your email is **not being used 
 With this transparency it becomes clearer that the sharing of data is not limited to trying to find the 'decline' button on an annoying cookie banner. The conversation is about more than just giving consent, and consent really is not the right word any more.
 
 How we use and understand this language is important - it helps us see that sharing data is also an acknowledgment of the rules, a necessary transaction, or a vital step in getting your full name printed on a cool t-shirt. Limiting the words we use for these things will only slow us down.
+
+---
+
+*Georgia Iacovou is the lead content writer at Metomic. Feel free to email her at georgia@metomic.io*
