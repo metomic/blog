@@ -52,6 +52,6 @@ So where does that leave us? Well, with important data in someone else's hands. 
 
 ---
 
-** The Elsa and Spiderman thing does exist. If you look into it you could go into one of the deepest internet holes in the known universe. This article actually took more 16 hours longer to write than it should have. You've been warned.*
+**The Elsa and Spiderman thing does exist. If you look into it you could go into one of the deepest internet holes in the known universe. This article actually took more 16 hours longer to write than it should have. You've been warned.*
 
 *Georgia Iacovou is the lead content writer at Metomic. Feel free to email her at georgia@metomic.io*
