@@ -51,7 +51,7 @@ At this point in our digital evolution, Facebook has reached a similar stage. It
 
 ### A physical star burns hydrogen through nuclear fusion to create helium. A digital star burns data through advertising to create money.
 
-![](/images/money-from-data.jpg)
+![](/images/money-from-datas.jpg)
 
 With enough money coming out the other end, Facebook can prevent itself from collapsing by creating new features, engulfing other competing stars using its money (i.e. acquisitions like Instagram) and paying its employees to keep the operations running smoothly.
 
@@ -70,7 +70,7 @@ The energy being released by Facebook is now immense and a rich ecosystem is fee
 
 Facebook has gone from a small clump of data to something at the centre of an entire digital solar system. We, human beings, are just mere particles of matter revolving around it. 
 
-![](/images/solar-system.jpg)
+![](/images/solarsystem.jpg)
 
 ### Digital black holes
 
