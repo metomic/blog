@@ -41,7 +41,7 @@ Fiction over. Back to reality with you, reader. The new prison design I describe
 
 ![](/images/panopticon.jpg)
 
-The Panopticon model makes it so that the prisoners live with the idea that someone *might *****be watching them at any given moment. 'Might' being the operative word here; inside a panopticon you can inspire a widespread change in everyday behaviour from the mere suggestion that there could be someone watching.
+The Panopticon model makes it so that the prisoners live with the idea that someone *might* be watching them at any given moment. 'Might' being the operative word here; inside a panopticon you can inspire a widespread change in everyday behaviour from the mere suggestion that there could be someone watching.
 
 Hmm... what does that remind you of then? Ha, yes of course: **real life**. In the west, almost without anyone noticing, private companies have successfully harnessed the power of the internet and have cultivated an ecosystem in which we are always being watched. Whether it's a thousand ad networks or someone you just matched with on Tinder, there is always a possibility that you are being looked at.
 
