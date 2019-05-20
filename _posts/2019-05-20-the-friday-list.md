@@ -2,7 +2,7 @@
 layout: post
 title:  "An island of privacy in a sea of data-driven politics: Spain’s 'Friday List'"
 topic: "Guest Post"
-author: "Georgia Iacovou"
+author: "Marina Valls Soler"
 img: stair.png
 themeColor: "#BCC077"
 date:   2019-05-20 13:18:00
