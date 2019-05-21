@@ -12,7 +12,7 @@ Its general election season in Spain, and political parties want your data. As a
 
 Back in December of 2018, Spanish lawyers, academics and journalists all sounded the alarm. The addition of Article 58 bis to the Organic Law of the General Electorate Regime (LOREG) was bad news. The LOREG is the collection of laws that regulate the functioning of general, municipal and autonomic elections in Spain. Article 58 bis was introduced as part of the third wave of Data Protection Implementation Law - implementing the GDPR into national law.
 
-So what is Article 58 bis? ****Article 58 bis regulates the use of technological means and personal data in electoral activities.
+So what is Article 58 bis? Article 58 bis regulates the use of technological means and personal data in electoral activities.
 
 ## **What does Article 58 bis do?**
 
@@ -59,7 +59,7 @@ So far, March saw instances of up to three different political parties [reaching
 
 With the election over I reached out to interview Jorge Garcia Herrero, one of the founding members of Secuoya and architect of the Friday List, for a follow up and a personal reflection on the project.
 
-“No political party has contacted us.” He tells me. The high number of registered users (around 5,000) has served to raise awareness among citizens, putting privacy on the frontline of a highly polarised election, but has not been enough to pressure political parties into voluntarily scrubbing their databases. However, Secuoya group is not giving up the fight.
+“No political party has contacted us.” He tells me. The high number of registered users (around 6,000) has served to raise awareness among citizens, putting privacy on the frontline of a highly polarised election, but has not been enough to pressure political parties into voluntarily scrubbing their databases. However, Secuoya group is not giving up the fight.
 
 After presenting a complaint to the Constitutional Court of Spain the same day that the Friday List was launched, Secuoya Group recently presented a similarly-worded complaint to the European Commission. Jorge hopes its outcome will prove more than just a slap on the wrist. [The complaint](https://secuoyagroup.com/wp-content/uploads/2019/04/20190408-complaint-form_es-EN-def-2.pdf), written in no-nonsense language, denounces the waiving of GDPR Article 9.2.g (Substantial Public Interest) and Recital 56 as justifications for this type of data processing. It equates it to the legislative body “washing their hands clean” of responsibility — leaving citizens’ rights to data protection in political parties’ hands. 
 
