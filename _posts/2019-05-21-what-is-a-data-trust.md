@@ -60,7 +60,7 @@ So in other words, if the world was suddenly flipped on it's head and there were
 
 Yes, good question. If we are using all these apps and services to produce the data, how is the data trust the **first** entity to get their hands on it? Instead of just guessing the answer to this question, I went ahead and asked a data governance expert called [Anouk Ruhaak](https://twitter.com/AnoukRuhaak), and she said this:
 
-> So, the trust sort of becomes the data storage for the platform. Much in the same way the new 'decdntralised web' gives control of data to the **user**, rather than the **platform** (e.g. [Holochain](https://holochain.org/) or [Solid](https://solid.mit.edu/)). That probably implies the data should be structured in a specific way, so the trust automatically knows how to store it. *Anouk Ruhaak, Data Governance Expert*
+> So, the trust sort of becomes the data storage for the platform. Much in the same way the new 'decentralised web' gives control of data to the **user**, rather than the **platform** (e.g. [Holochain](https://holochain.org/) or [Solid](https://solid.mit.edu/)). That probably implies the data should be structured in a specific way, so the trust automatically knows how to store it. *Anouk Ruhaak, Data Governance Expert*
 
 Currently, when you post something on Facebook, that gets stored in one of Facebook's data centres (somewhere cold like Sweden). What Anouk is saying is that under a data trust model, when you post something on Facebook, it zips straight over to the data trust and Facebook actually have to *ask for it back.* Please look at this other nifty diagram that I crafted to illustrate what I mean (why conceptualise when you can visualise, amirite?)
 
