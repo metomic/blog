@@ -4,20 +4,20 @@
   <!-- Primary Meta Tags -->
   <title>{{ site.title }} - {{ page.title }}</title>
   <meta name="title" content="{{ page.title }}">
-  <meta name="description" content="{{ page.title }}">
+  <meta name="description" content="{{ content | truncate_words: 20 }}">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:description" content="{{ content | truncate_words: 20 }}">
   <meta property="og:image" content="{{ page.socialImage }}">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="twitter:title" content="{{ page.title }}">
-  <meta property="twitter:description" content="{{ page.description }}">
+  <meta property="twitter:description" content="{{ content | truncate_words: 20 }}">
   <meta property="twitter:image" content="{{ page.socialImage }}">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">

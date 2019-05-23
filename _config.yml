@@ -1,7 +1,7 @@
 # Setup
 title:        "Privacy Bible"
 tagline:      example
-baseurl:      ""
+baseurl:      "https://blog.metomic.io"
 paginate:     1
 locale:       "en"
 
