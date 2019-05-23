@@ -10,14 +10,14 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ content | truncate_words: 20 }}">
+  <meta property="og:description" content="{{ content | strip_html | truncatewords: 50 }}">
   <meta property="og:image" content="{{ page.socialImage }}">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="twitter:title" content="{{ page.title }}">
-  <meta property="twitter:description" content="{{ content | truncate_words: 20 }}">
+  <meta property="twitter:description" content="{{ content | strip_html | truncatewords: 50 }}">
   <meta property="twitter:image" content="{{ page.socialImage }}">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
