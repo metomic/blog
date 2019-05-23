@@ -11,14 +11,15 @@
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ content | strip_html | truncatewords: 50 }}">
-  <meta property="og:image" content="{{ page.socialImage }}">
+  <meta property="og:image" content="{{ site.baseurl }}{{ page.socialImage }}">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="twitter:title" content="{{ page.title }}">
   <meta property="twitter:description" content="{{ content | strip_html | truncatewords: 50 }}">
-  <meta property="twitter:image" content="{{ page.socialImage }}">
+  <meta property="twitter:image" content="{{ site.baseurl }}{{ page.socialImage }}">
+  <meta name="twitter:site" content="@metomic_">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
