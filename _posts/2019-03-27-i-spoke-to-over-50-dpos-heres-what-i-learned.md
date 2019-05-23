@@ -3,7 +3,7 @@ layout: post
 title:  "I spoke to over 50 DPOs, here's what I learned..."
 topic: "Explainer"
 author: "Richard Vibert"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-27 13:16:00
 categories: main

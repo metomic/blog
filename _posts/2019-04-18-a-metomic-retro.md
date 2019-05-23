@@ -3,7 +3,7 @@ layout: post
 title:  "A Metomic retro"
 topic: "From The Team"
 author: "Dom Aits"
-img: stair.png
+socialImage: /images/shad.jpg
 themeColor: "#58466D"
 date:   2019-04-18 13:16:00
 categories: main

@@ -3,7 +3,7 @@ layout: post
 title:  "Let's take to the skies!"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/newfb.jpg
 themeColor: "#E89668"
 date:   2019-05-03 13:18:00
 categories: main

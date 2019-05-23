@@ -3,7 +3,7 @@ layout: post
 title:  "Data Ethics: the unsexiest cult ever?"
 topic: "Thematic"
 author: "Richard Vibert"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#2ECA88"
 date:   2019-04-09 13:16:00
 categories: main

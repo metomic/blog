@@ -3,7 +3,7 @@ layout: post
 title:  "Looks like we broke the world — to the moon!"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/moon.png
 themeColor: "#E89668"
 date:   2019-05-17 13:18:00
 categories: main

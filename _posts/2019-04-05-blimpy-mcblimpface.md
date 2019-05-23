@@ -3,7 +3,7 @@ layout: post
 title:  "Blimpy McBlimpface"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/feedads.png
 themeColor: "#E89668"
 date:   2019-04-05 13:16:00
 categories: main

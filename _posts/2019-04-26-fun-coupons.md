@@ -3,7 +3,7 @@ layout: post
 title:  "Fun coupons"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/blackforest.jpg
 themeColor: "#E89668"
 date:   2019-04-26 13:18:00
 categories: main

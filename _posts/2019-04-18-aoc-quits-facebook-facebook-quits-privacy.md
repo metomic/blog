@@ -3,7 +3,7 @@ layout: post
 title:  "AOC quits Facebook, Facebook quits privacy"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/unintentional.png
 themeColor: "#E89668"
 date:   2019-04-18 13:18:00
 categories: main

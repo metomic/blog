@@ -3,7 +3,7 @@ layout: post
 title:  "Cookies are a perfect and irresistible distraction from other bad things"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/cachedimage.jpg
 themeColor: "#466993"
 date:   2019-04-23 17:50:00
 categories: main

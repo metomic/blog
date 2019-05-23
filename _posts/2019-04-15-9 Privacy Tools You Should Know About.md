@@ -3,7 +3,7 @@ layout: post
 title:  "9 Privacy Tools You Should Know About"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/humane.png
 themeColor: "#466993"
 date:   2019-04-15 17:50:00
 categories: main

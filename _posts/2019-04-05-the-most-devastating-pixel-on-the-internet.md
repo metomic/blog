@@ -3,7 +3,7 @@ layout: post
 title:  "The Most Devastating Pixel on The Internet"
 topic: "Explainer"
 author: "Richard Vibert"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-05 13:16:00
 categories: main

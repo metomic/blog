@@ -3,7 +3,7 @@ layout: post
 title:  "Coming off social media is the new progressive"
 topic: "Comment"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/lemon.png
 themeColor: "#F5BB5F"
 date:   2019-04-22 13:18:00
 categories: main

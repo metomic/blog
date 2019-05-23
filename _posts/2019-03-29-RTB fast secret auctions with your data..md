@@ -3,7 +3,7 @@ layout: post
 title:  "RTB: fast, secret auctions with your data."
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-29 13:16:00
 categories: main

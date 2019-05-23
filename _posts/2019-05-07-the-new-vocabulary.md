@@ -3,7 +3,7 @@ layout: post
 title:  "The New Vocabulary: how we're wrong about 'consent'"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/opting.png
 themeColor: "#466993"
 date:   2019-05-07 17:50:00
 categories: main

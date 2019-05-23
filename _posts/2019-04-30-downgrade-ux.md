@@ -3,7 +3,7 @@ layout: post
 title:  "You're due for a downgrade: user experience (part one)"
 topic: "Thematic"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/spacejam.png
 themeColor: "#2ECA88"
 date:   2019-04-30 13:16:00
 categories: main

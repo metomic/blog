@@ -3,7 +3,7 @@ layout: post
 title:  "Black Holes in our Digital Universe"
 topic: "Thematic"
 author: "Richard Vibert"
-img: stair.png
+socialImage: /images/money-from-datas.jpg
 themeColor: "#2ECA88"
 date:   2019-05-09 13:16:00
 categories: main

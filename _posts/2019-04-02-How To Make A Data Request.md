@@ -3,7 +3,7 @@ layout: post
 title:  "How To Make A Data Request"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-02 13:16:00
 categories: main

@@ -3,7 +3,7 @@ layout: post
 title:  "The Customer-Centric Dilemma"
 topic: "Thematic"
 author: "Richard Vibert"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#2ECA88"
 date:   2019-04-03 13:16:00
 categories: main

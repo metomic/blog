@@ -3,7 +3,7 @@ layout: post
 title:  "Zombie cookies: cookies that just won't die"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-11 13:17:00
 categories: main

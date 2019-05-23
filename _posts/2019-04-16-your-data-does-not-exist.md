@@ -3,7 +3,7 @@ layout: post
 title:  "'Your data' does not exist"
 topic: "Thematic"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/april.png
 themeColor: "#2ECA88"
 date:   2019-04-16 13:16:00
 categories: main

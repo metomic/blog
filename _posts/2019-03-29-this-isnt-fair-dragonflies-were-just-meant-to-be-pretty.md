@@ -3,7 +3,7 @@ layout: post
 title:  "This isn't fair, Dragonflies were just meant to be pretty"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/dragonfly.png
 themeColor: "#E89668"
 date:   2019-03-29 13:16:00
 categories: main

@@ -3,7 +3,7 @@ layout: post
 title:  "Help, I don't know what cookies are"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/social-icons.png
 themeColor: "#466993"
 date:   2019-04-09 13:17:00
 categories: main

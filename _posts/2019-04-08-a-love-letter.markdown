@@ -3,7 +3,7 @@ layout: post
 title:  "A love letter"
 topic: "From The Team"
 author: "Shad Jahangir"
-img: stair.png
+socialImage: /images/online.png
 themeColor: "#58466D"
 date:   2019-04-08 13:16:00
 categories: main

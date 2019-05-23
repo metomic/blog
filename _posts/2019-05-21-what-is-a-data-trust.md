@@ -3,7 +3,7 @@ layout: post
 title:  "What is a data trust?"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/socialnetwork.png
 themeColor: "#466993"
 date:   2019-05-21 13:16:00
 categories: main

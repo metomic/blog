@@ -3,7 +3,7 @@ layout: post
 title:  "How Facebook Have Built Up Your Trust Over The Years"
 topic: "Explainer"
 author: "Georgia Iacovou"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-20 13:16:00
 categories: main

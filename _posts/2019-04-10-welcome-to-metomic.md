@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome To Metomic"
 topic: "Metomic News"
 author: "Richard Vibert & Ben van Enckevort"
-img: stair.png
+socialImage: /images/default.png
 themeColor: "#EB4967"
 date:   2019-04-10 13:17:00
 categories: main
