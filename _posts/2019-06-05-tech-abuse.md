@@ -21,13 +21,19 @@ The video of the Amazon blimp churning out delivery drones is not real. It's jus
 It's sad that we humans, the very controllers of technology, fear technology. It's hard to pinpoint exactly why this is, but I think it's something to do with our **emotions**. This very short quiz that I already filled in for you should provide an adequate reality check:
 
 1. **Humans are governed by:**
+    
     ❌ Lizard people
+    
     ❌ Governments...? (no wait, these are human too)
+    
     ✅ Emotions
 
 2. **Technology is governed by:**
+    
     ❌ Uh... god?
+    
     ❌ Bezos and Zuckerberg (so close, because they are...)
+    
     ✅ HUMANS
 
 If you don't understand, just look again at the tweet I linked above; all the responses to this fake blimp were entirely based on emotion. [This article](https://gizmodo.com/this-amazon-mothership-is-terrifying-as-hell-even-if-i-1833739492) called the fake blimp 'terrifying as hell' and then explained that Amazon were, perhaps, at some point, planning on maybe turning this into a real thing. What would the real thing do? Oh yeah... deliver packages. I'm shaking.
