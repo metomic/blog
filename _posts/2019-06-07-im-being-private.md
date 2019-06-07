@@ -3,7 +3,7 @@ layout: post
 title:  "Sorry I can't talk, I'm being private"
 topic: "Weekly Roundup"
 author: "Georgia Iacovou"
-socialImage: money-from-datas.jpg
+socialImage: /images/money-from-datas.jpg
 themeColor: "#E89668"
 date:   2019-06-07 13:18:00
 categories: main
