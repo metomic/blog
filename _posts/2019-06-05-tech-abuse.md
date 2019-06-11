@@ -3,7 +3,7 @@ layout: post
 title:  "'Oh no, technology is getting out of control'"
 topic: "Thematic"
 author: "Georgia Iacovou"
-socialImage: /images/blimp.jpg
+socialImage: /images/blimp.png
 themeColor: "#2ECA88"
 date:   2019-06-05 13:16:00
 categories: main
