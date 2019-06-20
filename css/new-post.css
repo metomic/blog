@@ -93,6 +93,14 @@ h1 {
 	color: #4d4d4d;
 }
 
+.content h3 {
+	font-weight: bold;
+	font-size: 26px;
+
+	line-height: 131.5%;
+	/* or 34px */
+}
+
 blockquote {
 	box-sizing: border-box;
 	border-left: 8px solid #E89668;
@@ -134,6 +142,7 @@ blockquote footer {
 ul, ol {
 	list-style: none;
 	margin-top: 0;
+	padding-inline-start: 40px;
 }
 
 .content > * + ul, .content > * + ol {
@@ -142,8 +151,11 @@ ul, ol {
 
 li {
 	font-size: 22px;
-	text-indent: 44px;
 	line-height: 130%;
+	padding-top: 0.7em;
+	text-indent: -0.5em;
+	list-style-position: inside;
+
 }
 
 li:before {
@@ -198,8 +210,8 @@ figure figcaption {
 		font-size: 20px;
 	}
 	.content, .grid {
-		padding-left: 16px;
-		padding-right: 16px;
+		padding-left: 32px;
+    	padding-right: 32px;
 	}
 	.content img {
 		width: 100%;
@@ -213,6 +225,10 @@ figure figcaption {
 	}
 	.content > * {
 		margin-bottom: 25px;
+	}
+
+	.content li{
+		font-size: 20px;
 	}
 	blockquote {
 		font-size: 20px;
