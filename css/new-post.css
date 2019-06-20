@@ -3,8 +3,9 @@ body {
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
-}
 
+	color: #4d4d4d;
+}
 .nav .meta {
 	min-width: 150px;
 	text-decoration: none;
@@ -17,12 +18,14 @@ body {
 
 .wide {
 	max-width: 1204px;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .grid, .content > * {
 	max-width: 720px;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .nav {
@@ -43,7 +46,6 @@ h1 {
 	line-height: 100%;
 	font-weight: 900;
 
-	display: flex;
 	text-align: center;
 
 	color: #FFFFFF;
@@ -88,7 +90,7 @@ h1 {
 	line-height: 131.5%;
 	/* or 47px */
 
-	color: #000000;
+	color: #4d4d4d;
 }
 
 blockquote {
@@ -113,7 +115,7 @@ blockquote footer {
 	border: none;
 	padding-left: 0;
 
-	font-size: 96px;
+	font-size: 72px;
 	line-height: 110%;
 
 	text-align: center;
@@ -129,18 +131,94 @@ blockquote footer {
 	text-align: right;
 }
 
-ul {
+ul, ol {
 	list-style: none;
-	margin-top: 22px !important;
+	margin-top: 0;
+}
+
+.content > * + ul, .content > * + ol {
+	margin-top: -20px;
 }
 
 li {
 	font-size: 22px;
-	line-height: 130%;
 	text-indent: 44px;
+	line-height: 130%;
 }
 
 li:before {
 	content: '•';
 	margin-right: 5px;
+}
+
+ol {
+	counter-reset: item;
+}
+
+ol > li:before {
+	counter-increment: item;
+	content: counter(item) ".";
+}
+.content figure {
+	display: block;
+	margin: auto;
+	margin-top: 96px;
+	max-width: 1204px;
+	margin-bottom: 56px;
+}
+.content img {
+	max-width: 1204px;
+}
+figure figcaption {
+	text-align: center;
+	font-size: 16px;
+	line-height: 130%;
+}
+
+.home h1 {
+	margin-bottom: 20px;
+}
+
+.home {
+	background: #F7F4FA;
+}
+
+@media (max-width: 560px) {
+	.header-block {
+		padding-bottom: 42px;
+	}
+	.nav .meta {
+		min-width: 110px;
+	}
+	.pull-quote {
+		font-size: 48px;
+		text-align: left !important;
+	}
+	.content p {
+		font-size: 20px;
+	}
+	.content, .grid {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.content img {
+		width: 100%;
+	}
+	h1 {
+		font-size: 36px;
+		text-shadow: none;
+	}
+	.content h2 {
+		font-size: 24px;
+	}
+	.content > * {
+		margin-bottom: 25px;
+	}
+	blockquote {
+		font-size: 20px;
+		line-height: 131.5%;
+	}
+	cite {
+		font-size: 18px;
+	}
 }
