@@ -1,3 +1,30 @@
+@font-face {
+    font-family: 'Eina01';
+    font-display: swap;
+    src: url(/fonts/eina/38DF1D_0_0.eot);
+    src: url("/fonts/eina/38DF1D_0_0.eot?#iefix") format("embedded-opentype"), url(/fonts/eina/38DF1D_0_0.woff2) format("woff2"), url(/fonts/eina/38DF1D_0_0.woff) format("woff"), url(/fonts/eina/38DF1D_0_0.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Eina01';
+    font-display: swap;
+    src: url(/fonts/eina/38DF1D_1_0.eot);
+    src: url("/fonts/eina/38DF1D_1_0.eot?#iefix") format("embedded-opentype"), url(/fonts/eina/38DF1D_1_0.woff2) format("woff2"), url(/fonts/eina/38DF1D_1_0.woff) format("woff"), url(/fonts/eina/38DF1D_1_0.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Eina01';
+    font-display: swap;
+    src: url(/fonts/eina/38DF1D_2_0.eot);
+    src: url("/fonts/eina/38DF1D_2_0.eot?#iefix") format("embedded-opentype"), url(/fonts/eina/38DF1D_2_0.woff2) format("woff2"), url(/fonts/eina/38DF1D_2_0.woff) format("woff"), url(/fonts/eina/38DF1D_2_0.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
 body {
 	font-family: whitman, serif;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
@@ -6,6 +33,7 @@ body {
 
 	color: #4d4d4d;
 }
+
 .nav .meta {
 	min-width: 150px;
 	text-decoration: none;
@@ -155,7 +183,6 @@ li {
 	padding-top: 0.7em;
 	text-indent: -0.5em;
 	list-style-position: inside;
-
 }
 
 li:before {
@@ -171,6 +198,12 @@ ol > li:before {
 	counter-increment: item;
 	content: counter(item) ".";
 }
+
+
+ul.emoji li:before {
+	content: none;
+}
+
 .content figure {
 	display: block;
 	margin: auto;
@@ -178,13 +211,28 @@ ol > li:before {
 	max-width: 1204px;
 	margin-bottom: 56px;
 }
+
 .content img {
 	max-width: 1204px;
 }
+
 figure figcaption {
 	text-align: center;
 	font-size: 16px;
 	line-height: 130%;
+}
+
+.author{
+	border-top: 1px solid #dadada;
+	padding-top: 69px;
+	padding-bottom: 69px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.author .name{
+	margin-top: 8px;
+	font-weight: 900;
 }
 
 .home h1 {
@@ -193,6 +241,78 @@ figure figcaption {
 
 .home {
 	background: #F7F4FA;
+}
+
+.category-nav {
+	height: 61px;
+	background: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.category-nav a {
+	font-family: Eina01;
+	font-weight: 600;
+	width: 190px;
+	height: 61px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #B6A1CE;
+	font-size: 14.5px;
+	line-height: 20px;
+	letter-spacing: 0.07em;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.content h5 {
+	font-size: 24px;
+	line-height: 100%;
+	text-align: center;
+	font-weight: bold;
+	color: #707070;
+}
+
+.post-summary {
+	color: #707070;
+	margin-bottom: 69px;
+}
+
+.post-summary h2 {
+	text-align: left;
+}
+
+.post-summary a {
+	color: #707070;
+	text-decoration: none;
+}
+
+.post-summary a:hover {
+	color: #252525;
+}
+
+.post-summary p {
+	font-size: 16px;
+	line-height: 169%;
+	margin-top: 12px;
+}
+
+.post-summary .metadata {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.post-summary .metadata div span:first-child {
+	margin-right: 33px;
+}
+
+.home .header-block .meta {
+	max-width: 579px;
+	margin: auto;
+	font-style: italic;
 }
 
 @media (max-width: 560px) {
@@ -236,5 +356,12 @@ figure figcaption {
 	}
 	cite {
 		font-size: 18px;
+	}
+	.post-summary {
+		margin-bottom: 69px;
+	}
+	.home .nav {
+		padding-left: 16px;
+		padding-right: 16px;
 	}
 }
