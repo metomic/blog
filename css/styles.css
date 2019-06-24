@@ -297,7 +297,7 @@ figure figcaption {
 }
 
 .author .name{
-	margin-top: 8px;
+	margin-top: 11px;
 	font-weight: 900;
 }
 
@@ -408,6 +408,12 @@ a.meta:hover{
 
 #description {
 	min-height: 58px;
+}
+
+.content .author img {
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
 }
 
 @media (max-width: 960px) {
