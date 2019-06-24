@@ -3,6 +3,8 @@ layout: post
 title:  "Data Ethics: the unsexiest cult ever?"
 categories: "Longform"
 author: "Richard Vibert"
+author_description: 'Cofounder & CEO, Metomic'
+author_image: /images/rich-profile.jpg
 socialImage: /images/default.png
 themeColor: "#2ECA88"
 date:   2019-04-09 13:16:00

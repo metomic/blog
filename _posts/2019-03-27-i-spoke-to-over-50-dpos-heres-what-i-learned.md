@@ -3,6 +3,8 @@ layout: post
 title:  "I spoke to over 50 DPOs, here's what I learned..."
 categories: "Explainer"
 author: "Richard Vibert"
+author_description: 'Cofounder & CEO, Metomic'
+author_image: /images/rich-profile.jpg
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-27 13:16:00

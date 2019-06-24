@@ -3,6 +3,8 @@ layout: post
 title:  "The Most Devastating Pixel on The Internet"
 categories: "Explainer"
 author: "Richard Vibert"
+author_description: 'Cofounder & CEO, Metomic'
+author_image: /images/rich-profile.jpg
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-05 13:16:00
