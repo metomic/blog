@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "RTB: fast, secret auctions with your data."
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-29 13:16:00
-categories: main
+
 ---
 
 RTB stands for real-time bidding. If you like browsing - which I'm sure you do, you browsed to this article, after all - you have been subject to RTB many, many times. Just think back to the last time you had this thought: 'wow I really want to visit that site I like called bestsite.biz'. A highly relatable thought. If bestsite.biz contains ads, BOOM: that's real-time bidding.

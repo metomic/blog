@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Fun coupons"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/blackforest.jpg
 themeColor: "#E89668"
 date:   2019-04-26 13:18:00
-categories: main
+
 ---
 ## Bavaria: good beer, even better data privacy laws
 

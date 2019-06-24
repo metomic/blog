@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Data Ethics: the unsexiest cult ever?"
-topic: "Thematic"
+categories: "Longform"
 author: "Richard Vibert"
 socialImage: /images/default.png
 themeColor: "#2ECA88"
 date:   2019-04-09 13:16:00
-categories: main
+
 ---
 
 Every day we see a new story about how Google or Facebook or some hotel we stayed in once 10 years ago misusing/misplacing our data.

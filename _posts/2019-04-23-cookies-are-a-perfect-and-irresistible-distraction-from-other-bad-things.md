@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Cookies are a perfect and irresistible distraction from other bad things"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/cachedimage.jpg
 themeColor: "#466993"
 date:   2019-04-23 17:50:00
-categories: main
+
 ---
 ## While you've been having fun blocking cookies, advertising networks have been developing fierce alternatives...
 

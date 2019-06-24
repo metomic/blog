@@ -1,18 +1,56 @@
-# Setup
-title:        "Privacy Bible"
-tagline:      example
-baseurl:      "https://blog.metomic.io"
-paginate:     1
-locale:       "en"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+name: Incognito
+title: Incognito
+email: incognito@metomic.io
+description: Demystifying data ethics, privacy, and technology
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Gems
-gems:
-  - jekyll-paginate
+permalink: /main/:year/:month/:day/:title:output_ext
 
-#Others
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
+category_colors:
+  Longform: '#E89668'
+  Weekly Roundup: '#58466D'
+  Explainer: '#466993'
+  Opinion: '#F5BB5F'
+  Company: '#2ECA88'
+  Guests: '#E89668'
+  Product: '#EB4967'
+
+category_descriptions:
+  Longform: "Thought pieces about data ethics and technology; what's happening right now and what it could mean for the future."
+  Weekly Roundup: "A weekly update of what's happening in the data privacy sphere, that anyone can digest. Updated on Monday mornings"
+  Explainer: "Short, playful explanations of complex issues and technical things that are useful to know"
+  Opinion: "Commentary on recent events in technology and data privacy"
+  Company: "What are we building at Metomic and what have we learned?"
+  Guests: "Pieces by external authors who have different knowledge and expertise to us at Metomic"
+  Product: "Updates on our products; new features and bug fixes"
+
+# Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+

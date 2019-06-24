@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "A love letter"
-topic: "From The Team"
+categories: ["Company"]
 author: "Shad Jahangir"
 socialImage: /images/online.png
 themeColor: "#58466D"
 date:   2019-04-08 13:16:00
-categories: main
+
 ---
 
 I was born in 1996. 

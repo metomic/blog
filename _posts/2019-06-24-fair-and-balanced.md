@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Crypto is fair and balanced ⚖️"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/libra2.jpg
 themeColor: "#E89668"
 date:   2019-06-24 13:18:00
-categories: main
 ---
 ### 🙋🏻‍♀️ **Happy Monday**, internet users 👉 **£$¢Libra** is coming 👉 a better virtual assistant 👉 and the ICO are... not GDPR compliant?
 

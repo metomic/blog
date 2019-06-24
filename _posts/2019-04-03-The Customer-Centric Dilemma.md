@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "The Customer-Centric Dilemma"
-topic: "Thematic"
+categories: "Longform"
 author: "Richard Vibert"
 socialImage: /images/default.png
 themeColor: "#2ECA88"
 date:   2019-04-03 13:16:00
-categories: main
+
 ---
 
 In 2012, Jeff Bezos said to his shareholders:

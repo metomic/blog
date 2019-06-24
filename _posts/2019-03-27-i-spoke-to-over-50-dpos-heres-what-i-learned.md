@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "I spoke to over 50 DPOs, here's what I learned..."
-topic: "Explainer"
+categories: "Explainer"
 author: "Richard Vibert"
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-27 13:16:00
-categories: main
+
 ---
 
 Over the past 3 months I have spoken to over 50 Data Protection Officers at large B2C companies across the pharmaceutical, finance, technology, media, health care, and telco industries.

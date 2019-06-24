@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "What is a data trust?"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/socialnetwork.png
 themeColor: "#466993"
 date:   2019-05-21 13:16:00
-categories: main
+
 ---
 ## Fun fact about data trusts: they don't exist yet
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Can the big five please stop being so damn big? Thanks"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/merge.png
 themeColor: "#E89668"
 date:   2019-03-15 13:26:00
-categories: main
+
 ---
 
 ## When three become one, privacy becomes... none.

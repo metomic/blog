@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "This isn't fair, Dragonflies were just meant to be pretty"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/dragonfly.png
 themeColor: "#E89668"
 date:   2019-03-29 13:16:00
-categories: main
+
 ---
 
 ## An Apple, but metal and shaped like a credit card

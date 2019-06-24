@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "'Oh no, technology is getting out of control'"
-topic: "Thematic"
+categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/blimp.png
 themeColor: "#2ECA88"
 date:   2019-06-05 13:16:00
-categories: main
+
 ---
 ## Don't blame technology for all the world's problems — we're just humans full of #emotions. It's *our* fault.
 

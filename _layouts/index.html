@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Primary Meta Tags -->
+		<title>{{ site.title }}</title>
+		<meta name="title" content="{{ site.title }}">
+		<meta name="description" content="{{ site.title }}">
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="{{ site.baseurl }}">
+		<meta property="og:title" content="{{ site.title }}">
+		<meta property="og:description" content="{{ page.description }}">
+		<meta property="og:image" content="{{ site.baseurl }}/images/og-image.png">
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="{{ site.baseurl }}">
+		<meta property="twitter:title" content="{{ site.title }}">
+		<meta property="twitter:description" content="{{ site.description }}">
+		<meta property="twitter:image" content="{{ site.baseurl }}/images/og-image.png">
+	
+		<!-- favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+		<meta name="msapplication-TileColor" content="#000000">
+		<meta name="theme-color" content="#000000">
+
+		<!-- RSS -->
+		{% feed_meta %}
+
+		<link rel="stylesheet" href="https://use.typekit.net/odr3ahh.css">
+		<link rel="stylesheet" href="/css/reset.css" />
+		<link rel="stylesheet" href="/css/styles.css" />
+		<style>
+			.header, .footer {
+				background: #252525;
+			}
+			{% for category in site.categories %}
+				{% assign name = category[0] %}
+				{% assign color = site.category_colors[name] %}
+				.category-nav a[data-category="{{ name }}"]:hover, .category-nav a[data-category="{{ name }}"].active {
+					color: {{ color }};
+					border-bottom: 1px solid {{ color }};
+				}
+				body[data-current-category="{{ name }}"] .header, body[data-current-category="{{ name }}"] .footer {
+					background: {{ color }};
+				}
+			{% endfor %}
+		</style>
+
+		<!-- consent manager -->
+		<script>
+			!function(p,r,i,v,a,c,y){p.Metomic={apiKey:i};p[i]||(p[i]=function(){
+			(p[i].q=p[i].q||[]).push(arguments)});p[i].l=+new Date;c=r.createElement(v);
+			y=r.getElementsByTagName(v)[0];p.Metomic.script=c;c.src=a;y.parentNode.insertBefore(c,y)}
+			(window,document,'prj:7e2d5d70-af4a-43f3-9370-fa0fd3a78819','script','https://consent-manager.metomic.io/embed.js');
+		</script>
+
+		<!-- analytics -->
+		<script type="text/x-metomic" data-metomic-policy="insights" async  src="https://cdn.simpleanalytics.io/hello.js"></script>
+	</head>
+	<body class="home">
+		<div class="header">
+			<nav class="nav">
+				<div class="wide">
+					<a href="https://metomic.io" class="meta" id="back">Back to Metomic</a>
+					<span class="meta logo">{{ site.name }}</span>
+					<span class="meta"></span>
+				</div>
+			</nav>
+			<header class="header-block">
+				<div class="grid">
+					<h1 id="title">{{ site.title }}</h1>
+					<p class="meta" id="description">{{ site.description }}</p>
+				</div>
+			</header>
+		</div>
+
+		<nav class="category-nav">
+			<a href="#">latest</a>
+			{% assign sortedCategories = site.categories | sort %}
+
+			{% for category in sortedCategories %}
+				{% assign name = category[0] %}
+				{% assign desc = site.category_descriptions[name] %}
+				<a href="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+			{% endfor %}
+
+			<select id="responsive-nav">
+				<option value="#">All</a>
+				{% for category in sortedCategories %}
+					{% assign name = category[0] %}
+					{% assign desc = site.category_descriptions[name] %}
+					<option value="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+				{% endfor %}
+			</select>
+		</nav>
+
+		<section class="content grid">
+			<h5 id="category-title">Latest</h5>
+			{% for post in site.posts %}
+				<a class="post-summary" href="{{post.url}}" data-category="{{post.categories[0]}}">
+					<h2>{{post.title}}</h2>
+					<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+					<div class="metadata">
+						<span>{{ post.categories[0] }}</span>
+						<span>{% assign words = post.content | number_of_words %}
+							{% if words < 360 %}1 min{% else %}{{ words | divided_by: 180 }} min{% endif %} read
+						</span>
+						<span>{{ post.date | date_to_string }}</span>
+					</div>
+				</a>
+			{% endfor %}
+		</section>
+
+		{% include footer.html %}
+		<script>
+			window.categories = {{ site.category_descriptions | jsonify }}
+		</script>
+		<script src="/js/home.js"></script>
+	</body>
+</html>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Metomic's £1.4M Seed Round & Other Stories"
-topic: "Metomic News"
+categories: ["Company"]
 author: "Richard Vibert & Ben van Enckevort"
 img: stair.png
 themeColor: "#EB4967"
 date:   2019-05-29 13:17:00
-categories: main
+
 ---
 
 ## 2019 is proving to be an exciting year for Metomic
