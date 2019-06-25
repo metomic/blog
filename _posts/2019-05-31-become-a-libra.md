@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Did you know you can solve your problems with Cryptocurrency?"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/libra.png
 themeColor: "#E89668"
 date:   2019-05-31 13:18:00
-categories: main
+
 ---
 
 ## Normal money Zucks, become a Libra

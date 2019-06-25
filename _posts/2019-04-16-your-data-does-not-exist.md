@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "'Your data' does not exist"
-topic: "Thematic"
+categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/april.png
 themeColor: "#2ECA88"
 date:   2019-04-16 13:16:00
-categories: main
+
 ---
 
 ## There's an ugly, complex, tangle of common misconceptions about your data that I will now explain to you so please pay attention.

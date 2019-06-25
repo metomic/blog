@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "The Most Devastating Pixel on The Internet"
-topic: "Explainer"
+categories: "Explainer"
 author: "Richard Vibert"
+author_description: 'Cofounder & CEO, Metomic'
+author_image: /images/rich-profile.jpg
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-05 13:16:00
-categories: main
+
 ---
 
 Facebook is tracking you on over [8.4 million websites](https://theoutline.com/post/4578/facebook-is-tracking-you-on-over-8-million-websites?zd=1&zi=r32iqsdz)... and there's very little any of us do about it.

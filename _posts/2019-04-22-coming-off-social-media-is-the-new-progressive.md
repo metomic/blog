@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Coming off social media is the new progressive"
-topic: "Comment"
+categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/lemon.png
 themeColor: "#F5BB5F"
 date:   2019-04-22 13:18:00
-categories: main
+
 ---
 ## Being a brand on social media used to be hip and cool. Now it's just lame and stupid.
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Someone else is in charge of your memories"
-topic: "Comment"
+categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/cloud.jpg
 themeColor: "#F5BB5F"
 date:   2019-05-08 13:18:00
-categories: main
+
 ---
 ## Sure, you can just 'remember stuff' but who has time for that anymore?
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Living in a Panopticon"
-topic: "Thematic"
+categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/panopticon.jpg
 themeColor: "#2ECA88"
 date:   2019-05-14 13:16:00
-categories: main
+
 ---
 
 ## Greetings reader, here is a short piece of data ethics fiction for you to absorb:

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Facebook: Oh shit, is plaintext not okay?"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/plaintext.png
 themeColor: "#E89668"
 date:   2019-03-22 12:56:00
-categories: main
+
 ---
 
 ## "One porn, please"

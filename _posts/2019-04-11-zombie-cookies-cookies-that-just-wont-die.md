@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Zombie cookies: cookies that just won't die"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-11 13:17:00
-categories: main
+
 ---
 
 You may already know a decent amount about what cookies are [because of this other article](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html) that we wrote. If you haven't read it yet and don't have time, there are two simple facts about cookies that you should know:

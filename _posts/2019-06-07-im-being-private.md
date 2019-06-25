@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Sorry I can't talk, I'm being private"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
+author_image: /images/author.png
+author_description: Content Writer at Metomic
 socialImage: /images/money-from-datas.jpg
 themeColor: "#E89668"
 date:   2019-06-07 13:18:00
-categories: main
+
 ---
 This week is WWDC, and Apple are getting super hard for #privacy. Thank you for finally catching up — I've been hard for privacy for longer than it takes to read and understand the GDPR. Also, Russia are about to see all those dick pics you have sent and/or received😱
 

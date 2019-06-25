@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "A love letter"
-topic: "From The Team"
+categories: ["Company"]
 author: "Shad Jahangir"
+author_description: "Designer at Metomic"
+author_image: /images/shad-profile.png
 socialImage: /images/online.png
 themeColor: "#58466D"
 date:   2019-04-08 13:16:00
-categories: main
+
 ---
 
 I was born in 1996. 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "The New Vocabulary: how we're wrong about 'consent'"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/opting.png
 themeColor: "#466993"
 date:   2019-05-07 17:50:00
-categories: main
+
 ---
 ## The conversation surrounding 'consent' in terms of data is dark and messy. Time to get a torch, I think.
 

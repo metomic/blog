@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Blimpy McBlimpface"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/feedads.png
 themeColor: "#E89668"
 date:   2019-04-05 13:16:00
-categories: main
+
 ---
 
 ## Keep an eye on your third parties, because otherwise...

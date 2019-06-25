@@ -1,41 +1,121 @@
-<!DOCTYPE html>
-<html lang="{{ site.locale }}" style="margin-top: 0 !important;">
+<!--
   
-  {% include post-head.html %}
+                     _                         _                
+  _ __ ___     ___  | |_    ___    _ __ ___   (_)   ___         
+ | '_ ` _ \   / _ \ | __|  / _ \  | '_ ` _ \  | |  / __|        
+ | | | | | | |  __/ | |_  | (_) | | | | | | | | | | (__   _____       
+ |_| |_| |_|  \___|  \__|  \___/  |_| |_| |_| |_|  \___| |_____| 
 
-  <body>
-    <section class="main-content" style="margin-top: 0 !important;">
-      
-        <div style="margin-top: 0; background-color: {{page.themeColor}};" class="first-image-default">
-            <div class="headerDesktop">
-              <a href="/" class="linkBack" style="color: #FFFFFF;">&larr; back</a>
-              <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none; font-family: Eina01-SemiBold;" >{{page.topic}}</a>
-              <h1 style="margin-top: 0; font-size: 18px; line-height: normal; font-weight: normal; color: #FFFFFF; font-family: Eina01-Regular;" >{{page.author}}</h1>
-            </div>
-            <div class="headerMobile">
-                <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none; font-family: Eina01-SemiBold;" >{{page.topic}}</a>
-                <a style="margin-top: 0; font-size: 18px; line-height: normal; color: #FFFFFF; font-weight: bold; text-decoration: none; font-family: Eina01-Regular;" >{{page.author}}</a>
-              </div>
-            <div class="textOverlayHeader">
-              <h1 class="first-image-title-default" style="font-family: Eina01-SemiBold;">{{page.title}}</h1>
-              <h2 class="first-image-meta-default" style="font-family: Eina01-Regular;">{{ page.date | date_to_string }}</h2>
-            </div>
-          </div>
-          
-          <div class="blog-content-default">
-              <div class="textDesktopHeader">
-                <h1 class="first-image-title-default" style="font-family: Eina01-SemiBold;">{{page.title}}</h1>
-                <h2 class="first-image-meta-default" style="font-family: Inter; color: #828282;">{{ page.date | date_to_string }}</h2>
-              </div>
-              {{ content }}
-          </div>
-          
+ help us fix the internet
+ https://metomic.io/careers
 
-      {% include page-footer.html %}
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    </section>
-  </body>
+		<!-- Primary Meta Tags -->
+		<title>{{ site.title }} - {{ page.title }}</title>
+		<meta name="title" content="{{ page.title }}">
+		<meta name="description" content="{{ page.title }}">
+	
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+		<meta property="og:title" content="{{ page.title }}">
+		<meta property="og:description" content="{{ content | strip_html | truncatewords: 50 }}">
+		<meta property="og:image" content="{{ site.baseurl }}{{ page.socialImage }}">
+	
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
+		<meta property="twitter:title" content="{{ page.title }}">
+		<meta property="twitter:description" content="{{ content | strip_html | truncatewords: 50 }}">
+		<meta property="twitter:image" content="{{ site.baseurl }}{{ page.socialImage }}">
+		<meta name="twitter:site" content="@metomic_">
+	
+		<!-- favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+		<meta name="msapplication-TileColor" content="#000000">
+		<meta name="theme-color" content="#000000">
+
+		<link rel="stylesheet" href="https://use.typekit.net/odr3ahh.css">
+		<link rel="stylesheet" href="/css/reset.css" />
+		<link rel="stylesheet" href="/css/styles.css" />
+
+		<!-- post specific theme -->
+		{% assign category_name = page.categories[0] %}
+		{% assign color = site.category_colors[category_name] %}
+		<style>
+			.header, .footer {
+				background: {{color}};
+			}
+			blockquote {
+				border-left-color: {{color}};
+				border-radius: 10px;
+			}
+
+			.pull-quote, h6 {
+				color: {{color}};
+			}
+
+			a {
+				color: {{color}};
+			}
+		</style>
+
+		<!-- RSS -->
+		{% feed_meta %}
+
+		<!-- consent manager -->
+		<script>
+			!function(p,r,i,v,a,c,y){p.Metomic={apiKey:i};p[i]||(p[i]=function(){
+			(p[i].q=p[i].q||[]).push(arguments)});p[i].l=+new Date;c=r.createElement(v);
+			y=r.getElementsByTagName(v)[0];p.Metomic.script=c;c.src=a;y.parentNode.insertBefore(c,y)}
+			(window,document,'prj:7e2d5d70-af4a-43f3-9370-fa0fd3a78819','script','https://consent-manager.metomic.io/embed.js');
+		</script>
+
+		<!-- analytics -->
+		<script type="text/x-metomic" data-metomic-policy="insights" async  src="https://cdn.simpleanalytics.io/hello.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<nav class="nav">
+				<div class="wide">
+					<a href="/" class="meta">Go back</a>
+					<span class="meta">{{ page.categories[0] }}</span>
+					<span class="meta"></span>
+				</div>
+			</nav>
+			<header class="header-block">
+				<div class="grid">
+					<h1>{{ page.title }}</h1>
+					<p class="meta read-length">{% assign words = content | number_of_words %}
+							{% if words < 360 %}
+								1 min
+							{% else %}
+								{{ words | divided_by: 180 }} min
+							{% endif %} read</p>
+					<p class="meta">{{ page.author }}</p>
+					<p class="meta">{{ page.date | date_to_string }}</p>
+				</div>
+			</header>
+		</div>
+		<section class="content wide">
+			{{ content | replace: '<p><img', '<p class="img-container"><img' }}
+
+			<div class="author">
+				<img src="{{ page.author_image | default: '/images/author.png' }}" alt="the author" />
+				<p class="name">{{ page.author | default: "Georgia Iacovou" }}</p>	
+				<p>{{ page.author_description | default: 'Content Writer, Metomic' }}</p>
+			</div>
+		</section>
+		{% include footer.html %}
+	</body>
 </html>
-
-
-

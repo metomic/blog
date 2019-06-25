@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Regulate, regulate, regulate"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/deeper.jpg
 themeColor: "#E89668"
 date:   2019-04-12 13:16:00
-categories: main
+
 ---
 
 ## Lush: clean offline *and* online

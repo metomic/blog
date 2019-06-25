@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "An island of privacy in a sea of data-driven politics: Spain’s 'Friday List'"
-topic: "Guest Post"
+categories: ["Guests"]
 author: "Marina Valls Soler"
 socialImage: /images/islands.jpg
 themeColor: "#BCC077"
 date:   2019-05-20 13:18:00
-categories: main
+
 ---
 Its general election season in Spain, and political parties want your data. As a citizen, The Friday List is a tool to re-vindicate your rights over your personal data — to tell lawmakers that they are not to be sold short.
 

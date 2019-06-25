@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "How To Make A Data Request"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-04-02 13:16:00
-categories: main
+
 ---
 
 ## Step 1: just don't

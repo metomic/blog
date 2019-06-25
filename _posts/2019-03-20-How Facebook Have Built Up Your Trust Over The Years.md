@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "How Facebook Have Built Up Your Trust Over The Years"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png
 themeColor: "#466993"
 date:   2019-03-20 13:16:00
-categories: main
+
 ---
 
 ## Joke's on you: turns out they haven't done that at all...

@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Black Holes in our Digital Universe"
-topic: "Thematic"
+categories: "Longform"
 author: "Richard Vibert"
+author_description: 'Cofounder & CEO, Metomic'
+author_image: /images/rich-profile.jpg
 socialImage: /images/money-from-datas.jpg
 themeColor: "#2ECA88"
 date:   2019-05-09 13:16:00
-categories: main
+
 ---
 
 Our physical universe started from [what seems like] nothing. Over 13.8 billion years the system's complexity increased — the creation of matter, the building of stars, the construction of solar systems and then, finally, the origination of life.

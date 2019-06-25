@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Let's take to the skies!"
-topic: "Weekly Roundup"
+categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/newfb.jpg
 themeColor: "#E89668"
 date:   2019-05-03 13:18:00
-categories: main
+
 ---
 ## You're not crazy, you're just a Loon
 

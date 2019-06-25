@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "A Metomic retro"
-topic: "From The Team"
+categories: ["Company"]
 author: "Dom Aits"
+author_description: "ex Strategy at Metomic"
+author_image: /images/dom-profile.jpg
 socialImage: /images/shad.jpg
 themeColor: "#58466D"
 date:   2019-04-18 13:16:00
-categories: main
 ---
 
 ## The last 6 weeks have been a blast for Metomic. We've grown as a team, released our maiden product, and our launch event at Newspeak House was a fantastic success.

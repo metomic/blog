@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Help, I don't know what cookies are"
-topic: "Explainer"
+categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/social-icons.png
 themeColor: "#466993"
 date:   2019-04-09 13:17:00
-categories: main
+
 ---
 
 That's great, I'm so glad you said that. Hardly anyone really knows what they are. But it's okay to not know. The first step is admitting it. Well done. You're obviously here because what you do know is this: cookies are important, but cookies are confusing. Don't worry - I actually know what they are, so it's cool. 
