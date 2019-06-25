@@ -23,7 +23,7 @@ The collective mood in the office after seeing this tweet was sort of like, "god
 
 ###### Everything is filthy with the thick, dark, muck of bad data practices
 
-We responded with an unshortened link, in it's purest form, as link-god always intended, so that @safepress could read the article. That day we learned that you can always depend on the help of Twitter strangers. We also learned that **everything is filthy** with the thick, dark, muck of bad data practices. 
+We responded with an unshortened link, in it's purest form, as link-god always intended, so that they could read the article. That day we learned that you can always depend on the help of Twitter strangers. We also learned that **everything is filthy** with the thick, dark, muck of bad data practices. 
 
 A link shortener is such a basic, every day thing — we searched around for any that don't track you when you click and struggled finding anything (if anyone knows of a clean link shortener out there, please tell us on Twitter @metomic_). So, what do we do? Well for a while we just didn't shorten links. But, luckily we're a company full of **cool software developers** who love hacking around with side projects, so we went and made our own link shortener at [priv.sh](http://priv.sh) 😏
 
