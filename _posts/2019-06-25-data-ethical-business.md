@@ -28,7 +28,6 @@ We responded with an unshortened link, in it's purest form, as link-god always i
 A link shortener is such a basic, every day thing — we searched around for any that don't track you when you click and struggled finding anything (if anyone knows of a clean link shortener out there, please tell us on Twitter @metomic_). So, what do we do? Well for a while we just didn't shorten links. But, luckily we're a company full of **cool software developers** who love hacking around with side projects, so we went and made our own link shortener at [priv.sh](http://priv.sh) 😏
 
 ![](/images/buffer.jpg)
-
 *The tracking journey after clicking on a shortened link*
 
 Now, link shorteners are just the beginning. Think about how many small tools and third-party services that business and individuals use every day — I expect they are not exercising awfully high levels of data hygiene. Strapping trackers onto everything doesn't look like it's going out of fashion at all, and this makes it really hard to focus on data privacy in a meaningful way.
