@@ -21,7 +21,7 @@ Please appreciate how crippling the irony is: the article we were sharing was wr
 
 The collective mood in the office after seeing this tweet was sort of like, "god, we're dumb 🙄". Because, *of course* Buffer use tracking technologies on their shortened links. *Of course* we didn't notice until someone pointed it out. And, the best part, *of course* this conversation happened on Twitter, via a link to an article about tracking technologies. 
 
-######Everything is filthy with the thick, dark, muck of bad data practices
+###### Everything is filthy with the thick, dark, muck of bad data practices
 
 We responded with an unshortened link, in it's purest form, as link-god always intended, so that @safepress could read the article. That day we learned that you can always depend on the help of Twitter strangers. We also learned that **everything is filthy** with the thick, dark, muck of bad data practices. 
 
