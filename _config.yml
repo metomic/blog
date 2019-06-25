@@ -32,11 +32,11 @@ defaults:
 
 category_colors:
   Longform: '#2ECA88'
-  Weekly Roundup: '#E0AB4A'
+  Weekly Roundup: '#D98759'
   Explainer: '#466993'
   Opinion: '#57B8A6'
   Company: '#58466D'
-  Guests: '#D98759'
+  Guests: '#E0AB4A'
   Product: '#EB4967'
 
 category_descriptions:
