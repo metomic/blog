@@ -34,9 +34,9 @@ category_colors:
   Longform: '#2ECA88'
   Weekly Roundup: '#D98759'
   Explainer: '#466993'
-  Opinion: '#57B8A6'
+  Opinion: '#E0AB4A'
   Company: '#58466D'
-  Guests: '#E0AB4A'
+  Guests: '#57B8A6'
   Product: '#EB4967'
 
 category_descriptions:
