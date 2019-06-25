@@ -23,17 +23,17 @@
 	
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website">
-		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 		<meta property="og:title" content="{{ page.title }}">
 		<meta property="og:description" content="{{ content | strip_html | truncatewords: 50 }}">
-		<meta property="og:image" content="{{ site.baseurl }}{{ page.socialImage }}">
+		<meta property="og:image" content="{{ site.url }}{{ page.socialImage }}">
 	
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary_large_image">
-		<meta property="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
+		<meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
 		<meta property="twitter:title" content="{{ page.title }}">
 		<meta property="twitter:description" content="{{ content | strip_html | truncatewords: 50 }}">
-		<meta property="twitter:image" content="{{ site.baseurl }}{{ page.socialImage }}">
+		<meta property="twitter:image" content="{{ site.url }}{{ page.socialImage }}">
 		<meta name="twitter:site" content="@metomic_">
 	
 		<!-- favicon -->
