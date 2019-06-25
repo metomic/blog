@@ -65,6 +65,9 @@
 				body[data-current-category="{{ name }}"] .header, body[data-current-category="{{ name }}"] .footer {
 					background: {{ color }};
 				}
+				a[data-category="{{ name }}"] .hover-indicator {
+					color: {{ color }};
+				}
 			{% endfor %}
 		</style>
 
@@ -120,6 +123,11 @@
 			<h5 id="category-title">Latest</h5>
 			{% for post in site.posts %}
 				<a class="post-summary" href="{{post.url}}" data-category="{{post.categories[0]}}">
+					<div class="hover-indicator">
+						<svg viewBox="0 0 6 214" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<rect width="6" height="214" rx="3" fill="currentColor"/>
+						</svg>
+					</div>
 					<h2>{{post.title}}</h2>
 					<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
 					<div class="metadata">

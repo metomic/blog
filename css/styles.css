@@ -376,7 +376,28 @@ figure figcaption {
 .post-summary .metadata span:last-child {
 	margin-right: 0;
 }
+.post-summary {
+	position: relative;
+}
 
+.post-summary .hover-indicator {
+	position: absolute;
+	left: -32px;
+	top: -16px;
+
+	height: calc(100% + 32px);
+	width: 6px;
+	overflow: hidden;
+	display: none;
+}
+
+.hover-indicator svg {
+	height: 100%;
+}
+
+.post-summary:hover .hover-indicator {
+	display: initial;
+}
 
 .home .header-block .meta {
 	max-width: 579px;
