@@ -32,21 +32,21 @@ defaults:
 
 category_colors:
   Longform: '#2ECA88'
-  Weekly Roundup: '#E89668'
+  Weekly Roundup: '#E0AB4A'
   Explainer: '#466993'
-  Opinion: '#F5BB5F'
-  Company: '#EB4967'
-  Guests: '#58466D'
-  Product: '#BCC077'
+  Opinion: '#57B8A6'
+  Company: '#58466D'
+  Guests: '#D98759'
+  Product: '#EB4967'
 
 category_descriptions:
   Longform: "Thought pieces about data ethics and technology; what's happening right now and what it could mean for the future."
   Weekly Roundup: "A weekly update of what's happening in the data privacy sphere, that anyone can digest. Updated on Monday mornings"
   Explainer: "Short, playful explanations of complex issues and technical things that are useful to know"
   Opinion: "Commentary on recent events in technology and data privacy"
-  Company: "What are we building at Metomic and what have we learned?"
+  Company: "Metomic's story; changes and growth"
   Guests: "Pieces by external authors who have different knowledge and expertise to us at Metomic"
-  Product: "Updates on our products; new features and bug fixes"
+  Product: "What we've built, and what we learned in the process"
 
 # Build settings
 markdown: kramdown
