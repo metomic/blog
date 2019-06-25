@@ -62,7 +62,7 @@
 				border-radius: 10px;
 			}
 
-			.pull-quote, h6 {
+			.pull-quote, h6, .content .code-container code {
 				color: {{color}};
 			}
 
@@ -109,7 +109,7 @@
 			</header>
 		</div>
 		<section class="content wide">
-			{{ content | replace: '<p><img', '<p class="img-container"><img' }}
+			{{ content | replace: '<p><img', '<p class="img-container"><img' | replace: '<p><code', '<p class="code-container"><code' }}
 
 			<div class="author">
 				<img src="{{ page.author_image | default: '/images/author.png' }}" alt="the author" />
@@ -117,6 +117,20 @@
 				<p>{{ page.author_description | default: 'Content Writer, Metomic' }}</p>
 			</div>
 		</section>
+		<script>
+			document.querySelectorAll('.code-container').forEach((ele, i) => {
+				switch (i % 3) {
+					case 0:
+						ele.classList.add('left')
+						break;
+					case 1:
+						ele.classList.add('right')
+						break;
+					default:
+						break;
+				}
+			})
+		</script>
 		{% include footer.html %}
 	</body>
 </html>
