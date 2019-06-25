@@ -31,13 +31,13 @@ defaults:
       layout: "category"
 
 category_colors:
-  Longform: '#E89668'
-  Weekly Roundup: '#58466D'
+  Longform: '#2ECA88'
+  Weekly Roundup: '#E89668'
   Explainer: '#466993'
   Opinion: '#F5BB5F'
-  Company: '#2ECA88'
-  Guests: '#E89668'
-  Product: '#EB4967'
+  Company: '#EB4967'
+  Guests: '#58466D'
+  Product: '#BCC077'
 
 category_descriptions:
   Longform: "Thought pieces about data ethics and technology; what's happening right now and what it could mean for the future."
