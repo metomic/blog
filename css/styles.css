@@ -449,6 +449,10 @@ a.meta:hover{
 	height: 100px;
 }
 
+em {
+	font-style: italic;
+}
+
 @media (max-width: 960px) {
 	.category-nav #responsive-nav {
 		display: block;
