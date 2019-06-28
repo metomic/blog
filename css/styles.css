@@ -67,13 +67,13 @@ body {
 	margin-right: auto;
 }
 
-.grid, .content > * {
+.grid, .content > *, .content .code-container {
 	max-width: 720px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.img-container {
+.img-container, .code-container {
 	max-width: 1204px;
 }
 
@@ -177,8 +177,13 @@ blockquote footer {
 	margin-top: 5px;
 }
 
-.pull-quote, h6 {
+strong {
+	font-weight: bold;
+}
+
+.pull-quote, h6, code {
 	display: block;
+	font-weight: 900;
 	border: none;
 	padding-left: 0;
 
@@ -186,6 +191,15 @@ blockquote footer {
 	line-height: 110%;
 
 	text-align: center;
+}
+
+.code-container.left {
+	margin-left: 0;
+	text-align: left;
+}
+.code-container.right {
+	margin-right: 0;
+	text-align: right;
 }
 
 .pull-quote.left {
@@ -198,27 +212,27 @@ blockquote footer {
 	text-align: right;
 }
 
-h6:nth-of-type(1) {
+h6:nth-of-type(1), code:nth-of-type(1) {
 	text-align: left;
 	margin-left: 0;
 }
-h6:nth-of-type(2) {
+h6:nth-of-type(2), code:nth-of-type(2) {
 	text-align: right;
 	margin-right: 0;
 }
-h6:nth-of-type(4) {
+h6:nth-of-type(4), code:nth-of-type(4) {
 	text-align: left;
 	margin-left: 0;
 }
-h6:nth-of-type(5) {
+h6:nth-of-type(5), code:nth-of-type(5)  {
 	text-align: right;
 	margin-right: 0;
 }
-h6:nth-of-type(7) {
+h6:nth-of-type(7), code:nth-of-type(7) {
 	text-align: left;
 	margin-left: 0;
 }
-h6:nth-of-type(8) {
+h6:nth-of-type(8), code:nth-of-type(8) {
 	text-align: right;
 	margin-right: 0;
 }
@@ -435,6 +449,10 @@ a.meta:hover{
 	height: 100px;
 }
 
+em {
+	font-style: italic;
+}
+
 @media (max-width: 960px) {
 	.category-nav #responsive-nav {
 		display: block;
@@ -466,7 +484,7 @@ a.meta:hover{
 	.nav .meta {
 		min-width: 110px;
 	}
-	.pull-quote {
+	.pull-quote, h6, code {
 		font-size: 48px;
 		text-align: left !important;
 	}
