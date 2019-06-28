@@ -3,6 +3,8 @@ layout: post
 title:  "An island of privacy in a sea of data-driven politics: Spain’s 'Friday List'"
 categories: ["Guests"]
 author: "Marina Valls Soler"
+author_description: 'LL.M,LL.B. Young professional thinking and writing about IP, data, privacy and surveillance'
+author_image: /images/marina.jpg
 socialImage: /images/islands.jpg
 themeColor: "#BCC077"
 date:   2019-05-20 13:18:00
@@ -71,4 +73,4 @@ The Friday List is an independent effort undertaken by scholars and lawyers, so 
 
 ---
 
-*[Marina](https://www.linkedin.com/in/marina-valls-soler-52ab9010a/) is working towards a certification at Ohio State University Moritz College of Law. Marina likes to look at the human side of technology, surveillance, privacy, and the governance of those things.*
+*[Marina](https://www.linkedin.com/in/marina-valls-soler-52ab9010a/) is working towards a LL.M certification at Ohio State University Moritz College of Law. Marina likes to look at the human side of technology, surveillance, privacy, and the governance of those things.*
