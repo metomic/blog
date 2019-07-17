@@ -8,7 +8,6 @@ author_image: /images/marina.jpg
 socialImage: /images/islands.jpg
 themeColor: "#BCC077"
 date:   2019-05-20 13:18:00
-
 ---
 Its general election season in Spain, and political parties want your data. As a citizen, The Friday List is a tool to re-vindicate your rights over your personal data — to tell lawmakers that they are not to be sold short.
 
