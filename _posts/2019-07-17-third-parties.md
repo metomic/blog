@@ -59,7 +59,7 @@ For example, a website might ask for several permissions such as remembering the
 
 This service has been a game changer for me and it’s beautifully designed!
 
-*this is not a paid or promoted review Metomic is just a fantastic tool*
+**this is not a paid or promoted review Metomic is just a fantastic tool*
 
 ### [Leave Me Alone](https://leavemealone.app/)
 
@@ -74,8 +74,9 @@ We never store the content of any emails on our servers, all email data is strea
 We don’t believe in collecting data that we don’t need to operate, we share everything we can including [how](https://blog.leavemealone.xyz/building-in-the-open/) we built the product and revenue [stats](https://leavemealone.app/open), and we are always looking for ways to improve our users privacy even more.
 
 ![](/images/leavemealone.jpg)
+*How you manage subscriptions in Leave Me Alone*
 
-# That’s all folks
+## That’s all folks
 
 When deciding which tools to use with data security in mind a good place to start is to choose and support products that value privacy and charge for their services. There seems to be a growing trend of users that, when given the option, choose products that are paid rather than free. Paid products have an established revenue stream so you can be *fairly* sure they will never need to sell your data to keep their lights on.
 
@@ -85,4 +86,5 @@ Next time you are deciding whether to use a product, check if they are an Open S
 
 Data security and privacy is a hot topic right now. There are many great privacy-focused alternatives popping up that it’s easier than ever to support the companies putting users first and avoid using a product which is going to be caught up in another scandal.
 
+### About Danielle
 *Danielle is a digital nomad and indie maker, with a background in web development. In 2016 she decided to change her lifestyle and co-founded web development agency [Squarecat](http://squarecat.io/) with her partner James. Together they travel the world writing software that helps people because it's rewarding and they love doing it, which they say is a good reason to do just about anything!*
