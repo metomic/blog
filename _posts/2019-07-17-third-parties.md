@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Not all third-party tools are evil'"
+title:  "Not all third-party tools are evil"
 categories: ["Guests"]
 author: "Danielle Johnson"
 author_description: 'Digital nomad and indie maker'
