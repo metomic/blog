@@ -19,9 +19,11 @@ Google have done something similar by insisting that privacy is simply something
 > For us, that means privacy cannot be a luxury good offered only to people who can afford to buy premium products and services. Privacy must be equally available to everyone in the world.
 *Sundar Pinchai, CEO of Google*
 
-So, three tech giants, three different approaches to privacy. Let's explore this...
+So, three tech giants, three different approaches to privacy. Jump to: 
 
-Jump to: [will put internal links in when published, can't do in Notion]
+- [Facebook's approach](#Facebook's approach)
+- [Apple's approach](#Apple's approach)
+- [Google's approach](#Google's approach)
 
 ## Facebook's approach
 
