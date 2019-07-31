@@ -3,7 +3,7 @@ layout: post
 title:  "The 'like' button is unlawful: is this the end of the Facebook Pixel?"
 categories: "Opinion"
 author: "Georgia Iacovou"
-socialImage: /images/applecard.jpg
+socialImage: /images/share-buttons.png
 themeColor: "#F5BB5F"
 date:   2019-07-31 13:18:00
 
