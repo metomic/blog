@@ -13,7 +13,7 @@ date:   2019-07-31 13:18:00
 
 Getting spam is not news. Practically every online activity, from shopping to liking a page on Facebook, leaves a substantial papertrail that data brokers (companies that buy and sell information about internet users from various sources) can easily tap into. Getting spam on your college email account, however, is a little more suspicious. Sure, “no harm” will come from me knowing the cafe across campus has a lunch special. But when I was confronted with the following, I have to admit I was a bit more surprised.
 
-![](images/studentdata1.png)
+![](/images/studentdata1.png)
 
 Military recruiters walking around in uniform on a U.S campus is a sight I’m still adjusting to. Who knew I would have to continue to adjust to it, after just finishing my last final. Would online military recruiters follow me, through my college email account, even after graduation?
 
@@ -23,7 +23,7 @@ Surely this was just a mistake. Big data analytics allows for all the scattered 
 
 The email I received is another example. For starters, I am not a U.S Citizen or permanent resident. How could I be getting targeted for Army Reserve jobs, when one of the key requirements is just that? Moreover, how did the “Army Career Opportunities Center” get ahold of my student email? Besides it being my official login to campus computers on a private network, I had not used it on any other platform. I probed around — maybe I had been more reckless than I remembered.
 
-![](images/studentdata2.png)
+![](/images/studentdata2.png)
 
 The jobsite platform with which my university had partnered was the only place I had ever used my student email as a login. Despite its passive-aggressive language, I had set up the most restrictive privacy settings.
 
@@ -31,7 +31,7 @@ The jobsite platform with which my university had partnered was the only place I
 
 This got me thinking — was the patchwork of privacy legislation scattered across all 51 states allowing this to fall through the cracks? Was a legal loophole responsible for my name and student email being up for grabs? Was the marketplace for student data regulated at all in the U.S? Turns out, yes and no.
 
-![](images/studentdata3.png)
+![](/images/studentdata3.png)
 
 ### **The legal framework**
 
@@ -57,7 +57,7 @@ However, emails from Scholarship.com, for example, where students can input a hu
 
 A lot of data brokers defend their collection and use of student data by pointing to the opt-out options in their privacy policy. That was certainly the case for the Army Careers Opportunity Center that reached out to me, as seen below:
 
-![](images/studentdata4.png)
+![](/images/studentdata4.png)
 
 The problem with the opt-out process, in some cases, is that it is ineffectively circular. As stated previously, data brokers have affiliate relationships — frequently merging, buying and selling data from one another. There is nothing in the law preventing data brokers from requesting that you opt out of their particular data collection ***each time*** your data changes hands. The case of military recruitment provides a clear example. You can opt-out at the registrar’s office at your school, but you cannot opt out of JAMRS.
 
