@@ -5,7 +5,7 @@ categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/pret.png
 themeColor: "#466993"
-date:   2019-07-02 13:16:00
+date:   2019-08-02 13:16:00
 
 ---
 ## This is a real-life application of 'legitimate interests' — read it and marvel at its disturbing flexibility
@@ -20,7 +20,6 @@ So while these comments are true, what they fail to grasp is nuance. The comment
 Then there were comments that said his consent was not necessary because handling the package like this was a legitimate interest. Just so we're all on the same page, 'legitimate interests' refers to article 6 of the GDPR which outlines the lawful ways in which you can process data. There is a way you can do it **without getting consent:**
 
 > [if] Processing is necessary for the purposes of the **legitimate interests** pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
-
 *Taken from the GDPR, read the full thing [here](https://gdpr-info.eu/art-6-gdpr/)*
 
 Cor, what an engaging read. In normal-speak what this means is the entity processing the data can do so **without** your consent as long as it has a **legitimate interest** to do so. The second part of it explains that the entity cannot do this if it somehow conflicts with your human rights (those are always getting in the way of data processing🙄). 
