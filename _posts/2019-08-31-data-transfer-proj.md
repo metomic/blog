@@ -26,6 +26,6 @@ Currently making data requests to use your data elsewhere [is not a thing](https
 
 This is not true data portability — the data is not universal. Sure you can switch all your Facebook photos over to Google photos in a flash, but this creates more problems than it solves. This ultimately give big tech more power and influence than it's ever had. Google are literally sitting there saying 'Gosh Facebook, I already have a lot of data but do you mind if I take a look at yours too?'
 
-Singapore have recently announced that data portability should be part of their Personal Data Protection Act. This would be a move to actually put data into standardised formats to be used universally by consumers. The Data Transfer Project is not a way of giving the user more control — it's a way of ensuring they all hold on to theirs. 
+Singapore have [recently announced](https://www.cpomagazine.com/data-protection/is-singapore-ready-for-data-portability/) that data portability should be part of their Personal Data Protection Act. This would be a move to actually put data into standardised formats to be used universally by consumers. The Data Transfer Project is not a way of giving the user more control — it's a way of ensuring they all hold on to theirs. 
 
 Read more about our thoughts on data portability [here](https://blog.metomic.io/main/2019/04/24/open-data.html)
