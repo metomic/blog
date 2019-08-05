@@ -69,4 +69,4 @@ What does this mean, then? Will I continue to know about the lunch special acros
 
 ---
 
-*[Marina](https://www.linkedin.com/in/marina-valls-soler-52ab9010a/) is working towards a LL.M certification at Ohio State University Moritz College of Law. Marina likes to look at the human side of technology, surveillance, privacy, and the governance of those things.*
+*[Marina](https://www.linkedin.com/in/marina-valls-soler-52ab9010a/) is has a LL.M certification at Ohio State University Moritz College of Law. Marina likes to look at the human side of technology, surveillance, privacy, and the governance of those things.*
