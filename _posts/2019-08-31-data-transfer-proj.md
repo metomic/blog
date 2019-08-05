@@ -5,7 +5,7 @@ categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/datatransferproject.png
 themeColor: "#F5BB5F"
-date:   2019-08-31 13:18:00
+date:   2019-08-02 13:18:00
 
 ---
 ## Apple have just joined a data portability project... what does this mean?
