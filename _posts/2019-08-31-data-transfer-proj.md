@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The opposite of breaking up: the Data Transfer Project"
+title:  "Apple join the Data Transfer Project"
 categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/datatransferproject.png
