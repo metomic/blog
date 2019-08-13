@@ -10,7 +10,7 @@ date:   2019-08-13 13:18:00
 
 ## What does this mean? On the surface the internet will be made available for communities who would otherwise go without
 
-This is a good thing, right? Yes. End of article. Just kidding, don't be silly. This new wave of connectivity provided to the world raises many questions: if big tech become the providers of **the internet, what does that mean for their control and influence over the data we produce for them?
+This is a good thing, right? Yes. End of article. Just kidding, don't be silly. This new wave of connectivity provided to the world raises many questions: if big tech become the providers of the internet, what does that mean for their control and influence over the data we produce for them?
 
 Facebook, Google, and Amazon are currently putting a lot of money and resources into projects to deliver internet to those they refer to as the 'under-bandwidthed' (that term is a Jeff Bezos original). The solutions coming out of this span from gargantuan subsea cables to constellations of low earth orbit satellites. It's all very futury, and it could lead to causing a mess in what is already a messy internet.
 
