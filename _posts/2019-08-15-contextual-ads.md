@@ -3,7 +3,7 @@ layout: post
 title:  "Targeted advertising is dead: a brief intro to contextual advertising"
 categories: ["Guests"]
 author: "Brianna Susnak"
-author_description: 'We’re a pro-privacy advertising network'
+author_description: 'Jacob Roschen, Corey Pitzo, and Brianna Susnak from ContextCue: We’re a pro-privacy advertising network'
 author_image: /images/contextcueicon.jpg
 socialImage: /images/contextcue.png
 themeColor: "#BCC077"
