@@ -9,7 +9,7 @@ socialImage: /images/contextcue.png
 themeColor: "#BCC077"
 date:   2019-08-15 13:18:00
 ---
-##How a pro-privacy, alternative ad network is bringing ethics to the advertising industry
+## How a pro-privacy, alternative ad network is bringing ethics to the advertising industry
 
 We’ve all been there: one moment, you’re buying a new product on Amazon. Then, as little as minutes or as long as months later, you’re scrolling through your Instagram feed and see an ad for the same exact thing. Sure, it’s unsettling to think that the internet has enough data on you to know exactly what you’ve bought and what you might buy next–but that’s really only one aspect of the internet privacy crisis.
 
