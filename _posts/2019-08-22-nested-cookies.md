@@ -4,7 +4,7 @@ title:  "Do other cookies have more cookies nested inside?"
 description: "a short explanation of how third-party cookies have their own third-parties. That makes them fourth-parties, which creates a complex problem easily solved by correctly managing consent"
 categories: "Explainer"
 author: "Georgia Iacovou"
-socialImage: /images/what-is-in-tag-manger.jpg
+socialImage: /images/consent-manager-example.png
 themeColor: "#466993"
 date:   2019-08-22 13:16:00
 ---
