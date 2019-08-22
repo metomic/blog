@@ -19,7 +19,7 @@
 		<!-- Primary Meta Tags -->
 		<title>{{ site.title }} - {{ page.title }}</title>
 		<meta name="title" content="{{ page.title }}">
-		<meta name="description" content="{{ page.title }}">
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}">
 	
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website">
@@ -74,7 +74,7 @@
 		<!-- RSS -->
 		{% feed_meta %}
 
-		<!-- consent manager -->
+		<!-- metomic consent manager -->
 		<script>
 			!function(p,r,i,v,a,c,y){p.Metomic={apiKey:i};p[i]||(p[i]=function(){
 			(p[i].q=p[i].q||[]).push(arguments)});p[i].l=+new Date;c=r.createElement(v);
