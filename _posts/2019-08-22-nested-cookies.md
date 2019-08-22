@@ -13,7 +13,7 @@ date:   2019-08-22 13:16:00
 
 As you may already know, if you run a site, you are responsible for getting consent for any cookies that are dropped by third-parties. So, if you use Intercom for live chat, you need to ask your users if they are okay with the Intercom cookies. So here is the chain of events:
 
-User visits **your site **→ user consents to cookies relating to **Intercom** → user is happy, you are happy, everyone has a happy party.
+User visits **your site** → user consents to cookies relating to **Intercom** → user is happy, you are happy, everyone has a happy party.
 
 Exactly, except... Intercom have **their own third-parties** at play here too. So it actually looks more like this:
 
