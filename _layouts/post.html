@@ -19,7 +19,7 @@
 		<!-- Primary Meta Tags -->
 		<title>{{ site.title }} - {{ page.title }}</title>
 		<meta name="title" content="{{ page.title }}">
-		<meta name="description" content="{{ page.title }}">
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}">
 	
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website">
