@@ -48,6 +48,11 @@ category_descriptions:
   Guests: "Pieces by external authors who have different knowledge and expertise to us at Metomic"
   Product: "What we've built, and what we learned in the process"
 
+# Hiding a category removes it from the navbar, so posts in hidden categories still show up in "Latest" and are still accessible from permalinks
+category_hidden: [
+  # "Weekly Roundup"
+]
+
 # Build settings
 markdown: kramdown
 theme: minima

@@ -106,7 +106,10 @@
 			{% for category in sortedCategories %}
 				{% assign name = category[0] %}
 				{% assign desc = site.category_descriptions[name] %}
-				<a href="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+				{% if site.category_hidden contains name %}
+				{% else %}
+					<a href="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+				{% endif %}
 			{% endfor %}
 
 			<select id="responsive-nav">
@@ -114,7 +117,10 @@
 				{% for category in sortedCategories %}
 					{% assign name = category[0] %}
 					{% assign desc = site.category_descriptions[name] %}
-					<option value="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+					{% if site.category_hidden contains name %}
+					{% else %}
+						<option value="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+					{% endif %}
 				{% endfor %}
 			</select>
 		</nav>
