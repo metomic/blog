@@ -16,7 +16,7 @@ Check out this diagram of revolutionary trust-based toilet cubicle. This toilet 
 
 The only way that this would work would be if you made yourself known both inside and outside of the cubicle every time — you can't see each other, so you have to make the effort to be **transparent.** Ah yes, transparency... a key player in the world of trust. This toilet is of course a very extreme model of trust (and I'm definitely having one installed in my house) but it gets us in the right head space.
 
-## Trusing a product
+## Trusting a product
 
 A couple of months back I wrote a piece outlining [how humans have harnessed the power of technology](https://blog.metomic.io/main/2019/06/05/tech-abuse.html), and subsequently abused that power. In it I talk about self-driving cars: the technology for fully automated vehicles already exists. But our trust in them does not. 
 
