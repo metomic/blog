@@ -29,7 +29,7 @@ What we've built at Metomic is a sort of unofficial trust framework for products
 - **Empowerment** for the user. That is to say, it puts control in the user's hands. Trusting a product is even easier if you have some kind of control over how it works for you.
 - **Transparency**: with every action the user takes, it should be clear what the product is doing with the user's data. E.g. our [Consent Manager](https://landing.metomic.io/) doesn't just block cookies, it informs you of what they are and gives you control over them
 
-![illustration of a pyramid outlining the building blocks of trust](/images/trustypyramid.jpg)
+![illustration of a pyramid outlining the building blocks of trust](/images/trustpyramid.jpg)
 
 So empowerment and transparency are two key things that lead to trust. But to get those you first need:
 
