@@ -7,7 +7,6 @@ author: "Georgia Iacovou"
 socialImage: /images/privacysandbox.jpg
 themeColor: "#F5BB5F"
 date:   2019-08-27 13:18:00
-
 ---
 
 ## What is Privacy Sandbox and is it even for real?
