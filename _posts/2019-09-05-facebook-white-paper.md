@@ -17,7 +17,6 @@ Data portability is where you can take any data you produce for one service, and
 
 - **Who's allowed to transfer what data?** E.g. photos of you may also contain other people — that's their data too.
 - A hint at understanding that the **data should be standardised**: they currently put data in JSON format, which is very commonly used across many platforms (but cannot really be called a standard).
-
 - **They question what data should be portable**. It's obvious that the data you, the user, produces by using the service should be what you can transfer. But, more data about you will exist, and what does it mean to 'produce' data anyway?
 
 These are fair questions and observations — we should all be thinking about how to solve these problems, of course. 
