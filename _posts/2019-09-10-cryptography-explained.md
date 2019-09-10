@@ -37,11 +37,11 @@ She has an amazing idea 💡
 6. Now Bob can unlock his own padlock, open the box, and see the message!
 7. So Alice and Bob can securely transmit a message without having to speak to each other. Amazing right?
 
-Obviously this is an over-simplified example — in reality, the box is a digitised code that only Alice and Bob can decipher.
 
 ![diagram that illustrates how cryptography works](/images/cryptography.png)
 
- 
+Obviously this is an over-simplified example — in reality, the box is a digitised code that only Alice and Bob can decipher.
+
 
 ## So how would this work digitally?
 
