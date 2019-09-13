@@ -129,7 +129,7 @@ The basic function of an ad network is to act as the connecting point for advert
 
 **Advertisers** have adverts that they would like to show people → they give those adverts to **ad networks** who have all the data and resources to serve ads to the correct audiences → ad networks then distribute ads to **publishers** who show the ads to just the right people.
 
-![](/images/ad-networks.jpg)
+![diagram showing how advertisers, ad networks, and publishers are connected](/images/ad-networks.jpg)
 *How ad networks facilitate behavioural ads*
 
 So ad networks have two key things that advertisers don't have:
@@ -140,7 +140,7 @@ So ad networks have two key things that advertisers don't have:
 
 So, all an advertiser has to do is tell the ad network what product they are trying to sell, and who they want to sell it to. So for example, Facebook's advertising tools include things like 'detailed targeting'. When they say detailed, they mean details you probably never would have considered.
 
-![](/images/facebook-ad-audiences.jpg)
+![](/images/facebook-ad-audiences.png)
 *Showing the drop down of subcategories under 'behaviours' in Facebooks ad targeting tools*
 
 With Facebook's tools, you can define your audience within three major categories: demographics, interests, and yes, **behaviours.** The latter includes looking at stuff that people have tended to do in the past, and using that to predict what they might do in the future.
