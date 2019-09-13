@@ -129,7 +129,7 @@ The basic function of an ad network is to act as the connecting point for advert
 
 **Advertisers** have adverts that they would like to show people → they give those adverts to **ad networks** who have all the data and resources to serve ads to the correct audiences → ad networks then distribute ads to **publishers** who show the ads to just the right people.
 
-![diagram showing how advertisers, ad networks, and publishers are connected](/images/ad-networks.jpg)
+![diagram showing how advertisers, ad networks, and publishers are connected](/images/evil-connector.jpg)
 *How ad networks facilitate behavioural ads*
 
 So ad networks have two key things that advertisers don't have:
