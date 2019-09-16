@@ -182,7 +182,7 @@ Some recommendations for having a little more control instead of just flat out b
 - Try a couple of add-ons such as [Privacy Badger](https://www.eff.org/privacybadger) which blocks trackers, and also **learns** what not to block, and [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) (do not confuse with 'ublock') which is much more than just an ad blocker
 - Use private browser windows where ever possible — every browser has this capability
 - There are [quite a few tools](https://blog.metomic.io/main/2019/04/15/9-Privacy-Tools-You-Should-Know-About.html) out there that can help with online experiences; from [understanding dark design patterns](https://humanebydesign.com/) to [understanding privacy policies](https://pribot.org/)
-- **Always question what is 'required' of you** when using products or services. E.g. anything that requires an app to 'set up' like these Bose headphones. Most of the time nothing 'needs' an app — it's just an excuse to have access to your phone or device.
+- **Always question what is 'required' of you** when using products or services. E.g. anything that requires an app to 'set up' like [these Bose headphones](https://www.reuters.com/article/us-bose-lawsuit-idUSKBN17L2BT). Most of the time nothing 'needs' an app — it's just an excuse to have access to your phone or device.
 
 **Most importantly:** free apps and services may not cost you any money, but your digital life will become easier as soon as you start to look at it as a trade. Reading the terms of service on any product you interact with will outline what you are trading in exchange.
 
