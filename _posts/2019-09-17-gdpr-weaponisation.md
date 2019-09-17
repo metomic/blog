@@ -21,11 +21,11 @@ A subject access request (SAR) is where you contact an organisation who may have
 
 Imagine you run an e-commerce store with just a few thousand customers. You may only get five SARs a week. You'd need to make sure you get every inch of data about those users (and , package it up in a readable format, and send it back to them within 30 days). This all takes up a lot of resources — it could put an entire department out of action for a day or more.
 
-That baddest of bad actors that we've come across are [Ship Your Enemies GDPR](https://shipyourenemiesgdpr.com) who's site is designed to spam enemies with subject access requests. Firstly: who, besides Bond villains, actually has 'enemies'? Secondly: this is exactly the gross misjudgement that I was talking about. In their FAQ, under why they built this site, the answer is **"because GDPR is f*cking stupid".**
+That baddest of bad actors that we've come across are [Ship Your Enemies GDPR](https://shipyourenemiesgdpr.com) who's site is designed to spam enemies with subject access requests. Firstly: who, besides Bond villains, actually has 'enemies'? Secondly: this is exactly the gross misjudgement that I was talking about. In their FAQ, under why they built this site, the answer is **"because GDPR is fucking stupid".**
 
 ![meme from The Big Lebowski](/images/lebowski-opinion.jpg)
 
-*Mr Lebowski is correct: 'GDPR is f*cking stupid' is just an opinion...*
+*Mr Lebowski is correct: 'GDPR is fucking stupid' is just an opinion...*
 
 Interesting opinion, **but here's a fact**: even if it's not perfect right now, GDPR was put in place to help create a world in which user data is handled more ethically.
 
