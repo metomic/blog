@@ -34,7 +34,7 @@ It's been around for over half century but it's only in the last couple of years
 
 Companies are starting to brag about their privacy features — even Facebook!
 
-![](images/fb-newspaper.jpg)
+![](/images/fb-newspaper.jpg)
 
 A light has been shone on technology's repercussions on our privacy. It started with Cambridge Analytica but now we're seeing more unfairness exposed every single today.
 
