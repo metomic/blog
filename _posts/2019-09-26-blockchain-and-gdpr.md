@@ -9,7 +9,7 @@ themeColor: "#466993"
 date:   2019-09-26 13:16:00
 ---
 
-##Blockchain is an interesting storage solution for data... but should you do it?
+## Blockchain is an interesting storage solution for data... but should you do it?
 
 A few months ago I [wrote an article](https://blog.metomic.io/main/2019/04/24/open-data.html) about a fictional person called April who lived in a world where all of the data she had ever produced was freely available for her to access whenever she needed to. She could also **control who else had access to it.**
 
