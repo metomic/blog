@@ -4,7 +4,7 @@ title:  "EU court of justice make pivotal cookie ruling"
 description: "quick summary of recent EU court ruling. Pre-checked boxes for cookie consent are now unlawful"
 categories: "Opinion"
 author: "Georgia Iacovou"
-socialImage: /images/essential-cookies.png
+socialImage: /images/essential-cookies.jpg
 themeColor: "#F5BB5F"
 date:   2019-10-01 13:18:00
 ---
@@ -17,7 +17,7 @@ Today, the EU's highest court said this:
 
 This is a game-changer for cookie consent. At the moment most websites will present you with a cookie notice that is designed to make you click 'accept' just to make it go away. 
 
-![](/images/essential-cookies.png)
+![](/images/essential-cookies.jpg)
 
 *The GDPR says that you can only drop cookies without consent if they are [essential](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) to make your site work.*
 
