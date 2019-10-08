@@ -54,7 +54,7 @@ Headphones and cameras did not emerge at the same time, but they are both two pi
 
 That had never been done before, so the idea of the solitary, private enjoyment of music became extremely popular. Headphones were a way to be alone — even in a public space.
 
-![screenshot of Don't Hug Me I'm Scared](/images/private-headphones.png)
+![person on a train with headphones](/images/private-headphones.jpg)
 *Noise cancelling headphones suddenly make the metro an okay thing to be on*
 
 📸 **The first cameras actually surfaced in 1839** right at the end of the revolution. Like headphones, no one 'needed' cameras — but when they appeared, they were amazing. The inventors of cameras and the photograph described the processes as an automatic drawing. People (again, wealthy) paid these professionals to take portraits. Why get a painter to spend hours over several days when a photographer can take your portrait in minutes?
