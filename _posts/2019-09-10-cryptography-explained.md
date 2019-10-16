@@ -16,7 +16,7 @@ Sending information over the internet is often encrypted — that means it is on
 
 But how does it actually work?
 
-[This explanation](https://www.youtube.com/watch?v=PtsrAw1LR3E&t=1694s) I found from Terrance Tao is the best I've seen, so thought I would share it here.
+[This explanation](https://www.youtube.com/watch?v=PtsrAw1LR3E&t=1694s) I found from Terence Tao is the best I've seen, so thought I would share it here.
 
 ## Alice wants to send a very secret message to Bob who's on the other side of the world.
 
