@@ -24,7 +24,7 @@ We hear this a lot. However, cookie banners do not guarantee compliance — no o
 
 ✅ **You need informed consent**. You must allow users to understand what they are consenting to before they hit the accept/decline button. It's important to strike a balance; simply saying 'we want to set this cookie for user insights' is not informative enough. However, stuffing your banner full of all possible cookie information does not help inform your users — this is just an overload of text and information that is irrelevant, and not clear:
 
-![Forbes extensive cookie list](/images/forbes-cookies.png)
+![Forbes extensive cookie list](/images/forbes-cookies.gif)
 *Preview of some of the cookies Forbes drops — ah yes, AAX Media... so helpful.*
 
 This is why at Metomic, we've grouped cookies by type and third-party — a user can then read specific privacy policies for each cookie type, and opt in and out as they wish. This creates a clear, but explicit, user journey.
@@ -38,10 +38,10 @@ You don't need active consent for [essential cookies](https://blog.metomic.io/ma
 
 For example, you may set cookies to keep your users logged in. You don't need consent for these because they are essential for your site — having to log in every time you visit a new page makes the site seem broken.
 
-☝️ Key question: **do you *only* drop essential **cookies?** Very few sites only have essential cookies. For example [this site](https://georgia.thebestsh.it/) uses a few third-parties to provide content such as live chat and a gif (provided by Giphy). Giphy alone drops 12 tracking cookies — these are non-essential, as they're for advertising.
+☝️ Key question: **do you *only* drop essential cookies?** Very few sites only have essential cookies. For example [this site](https://georgia.thebestsh.it/) uses a few third-parties to provide content such as live chat and a gif (provided by Giphy). Giphy alone drops 12 tracking cookies — these are non-essential, as they're for advertising.
 
 ![screenshot of TrackerTracker by Metomic](/images/pretend-site-trackertracker.png)
-[*TrackerTracker](https://trackertracker.io/) results from our [example website](https://georgia.thebestsh.it/) which uses only seven third-party providers to help the site function, yet drops over 30 non-essential cookies.*
+*[TrackerTracker](https://trackertracker.io/) results from our [example website](https://georgia.thebestsh.it/) which uses only seven third-party providers to help the site function, yet drops over 30 non-essential cookies.*
 
 We've built a public tool, [TrackerTracker](https://trackertracker.io/), which reveals what cookies are dropped as a site loads. If you're unsure of what your site might be dropping, run it through TrackerTracker — you may be surprised by what you find. As we've learned, [social sharing buttons, maps, and embedded videos all drop cookies that require consent](https://blog.metomic.io/main/2019/09/25/unlawful-website.html).
 
