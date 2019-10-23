@@ -58,7 +58,7 @@ Targeted behavioural ads don't exist online anymore. They were expensive to make
 
 Websites have completely transformed the way they monetise — ad publishing is over, subscriptions are king now. People much prefer to pay for good content. Any adverts you do see are entirely contextual: e.g. looking at football scores may result in an ad for football boots.
 
-`Before the (completely free) site [dictionary.com](http://dictionary.com) existed, people simply bought dictionaries.`
+`Before the (completely free) site dictionary.com existed, people simply bought dictionaries.`
 
 Free services are also a thing of the past — the services haven't disappeared, you just have to pay for them. Before the (completely free) site [dictionary.com](http://dictionary.com) existed, people simply bought dictionaries. We now have digitised versions of that same model.
 
