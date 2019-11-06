@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How websites with free content make money"
-description: "A look at how free websites make their money. Mostly, they do not charge users, but run ads -- they get paid to display the ads as long as there are impressions. These ads are somewhat measured by how many cookies a site drops."
+description: "A look at how free websites make their money. Mostly, they do not charge users, but run ads -- they get paid to display the ads as long as there are impressions. These ads are somewhat measured by how many cookies a site drops, so we used trackertracker to see how many cookies dictionary sites drop."
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/dictionary-cookies.png
