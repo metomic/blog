@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Living in a Panopticon"
+description: "The internet is like a panopticon in that anything you post can be seen at any time. Behavioural advertising is based on data on a user type"
 categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/panopticon.jpg
@@ -67,7 +68,7 @@ So yes, on the whole, a 'lack of privacy' (e.g. being watched all the time like 
 
 We actually did a Twitter poll about this recently and it turned out that those who voted just found targeted ads plain creepy. So does this mean the intrusiveness of a targeted ad out-weighs the benefit of being advertised a product that you might actually want to buy?
 
-![](/images/twitterpoll.jpg)
+![A Twitter poll showing that majority find targeted ads creepy](/images/twitterpoll.jpg)
 
 Perhaps it's the very idea that an abstract, virtual, cluster of networks somehow knows that one of your closest friends has a birthday coming up and really likes Batman doesn't sit well. Also, your [behavioural and personal data](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html) being processed and compared with other similar data manifesting as a shockingly accurate targeted ad can make you feel like you've been tricked, in a way.
 
@@ -75,7 +76,7 @@ So what I'm saying here is that the need to 'be private' is purely an emotional 
 
 This nonsense was perfectly illustrated in Mad Men when Betty Draper unwittingly fell into a marketing trap set up by her own husband. Don Draper, advertising extraordinaire, decided that the US citizens who were most likely going to buy Heineken (fancy imported beer), were housewives from rich families. So his wife was the market and he targeted her with ads. [She threw a dinner party and bought the beer](https://www.youtube.com/watch?v=deXGXYJo4-0) and had no idea what was going on, which in turn made her feel silly and embarrassed.
 
-![](/images/betty.jpg)
+![Betty Draper Heineken Behavioural Advertising](/images/betty.jpg)
 *Betty Draper planning a dinner party*
 
 This marketing experiment would not have worked if Don told Betty about it beforehand — she's not going to buy Heineken just because someone flat out asks her to buy Heineken. She's going to buy Heineken because she (thinks) that *she* wants to buy it. She had no idea that she had been identified as a viable market for Heineken, so had no chance to change her behaviour in any way.

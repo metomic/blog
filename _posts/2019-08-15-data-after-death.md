@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What happens to your data after you die?"
+description: "what happens to user data after the death of the user. Memorialised accounts on Facebook. Should you delete data after death"
 categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/inherit-insta.png
@@ -22,7 +23,7 @@ But is it okay? Now that Will is dead, his data turns into something else entire
 
 Physical possessions are so easy to handle. Not only can you pick them up, but you can throw them away too. When I'm dead, you can have my PS4. Then it goes from being my PS4 to being your PS4. Data is absolutely nothing like that. Just look at the kinds of data you can leave behind...
 
-![](/images/inherit-insta.png)
+![Inheriting Instagram account](/images/inherit-insta.png)
 
 Note: For the purpose of this article I will not talk much about [medical data](https://www.nhs.uk/common-health-questions/nhs-services-and-treatments/can-i-access-the-medical-records-health-records-of-someone-who-has-died/) and [financial data](https://www.moneyadviceservice.org.uk/en/articles/what-to-do-when-someone-dies#notify-insurers-and-creditors) — the protocol around these kinds of data is fairly well established, the only more recent differences would be that a lot of it is digitised.
 
@@ -54,7 +55,7 @@ So there is access to the data, but it is limited. Your legacy contact can also 
 
 However the whole thing falls flat at step one. What if you never identify a legacy contact? According to [Elaine Kasket](https://twitter.com/elainekasket?lang=en), who's done a [study on this exact thing](https://www.theguardian.com/technology/2019/apr/27/elaine-kasket-what-happens-to-data-when-we-die-ghosts-in-the-machine), Facebook will not let go of a deceased loved one's data in the name of protecting their privacy. That means, without a legacy contact, Facebook have the most access to your data after you die. Not sure that seems right 🤔
 
-![](/images/vern.png)
+![Tweet from SleepyEntropy declaring he doesn't care what happens to his data after death](/images/vern.png)
  *@SleepyEntropy recently asked the post-death data question on Twitter — here is a very apt response.*
 
 Arguing that it's to protect an individual's privacy doesn't really hold up — do you still need privacy when you're dead? Also, if it was truly for privacy reasons, would Facebook not simply delete it all permanently? Now, it's very hard to control and protect the data of your dead friends and relatives if you don't have access to it, which is something you may want for very valid reasons.
@@ -149,7 +150,7 @@ As an alive person, you're online behaviours are carefully woven into the fabric
 
 As a dead person, all that data about you that you produce while you were alive does not simply disappear from the internet. So what happens to it? Nothing. It's still there and it still helps companies rake in ad revenue, which begs the question: do you have to be alive to be served a targeted ad?
 
-![](/images/venn.jpg)
+![Venn diagram showing your data after death](/images/venn.jpg)
 *Very accurate diagram based on a real research that we actually did...*
 
 I'm now imagining my inbox slowly fill up with spam from every company and service I've ever interacted with, meekly saying to no one, "we haven't heard from you in a while". Lol, it's because I'm dead — finally, an effective way to escape marketing emails. 

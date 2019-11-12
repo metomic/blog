@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to execute a successful Product Hunt launch 🚀"
+description: "A best practice guide on how to successfully launch on Product Hunt from creating upcoming page to launch day"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/producthunt.jpg
@@ -13,7 +14,7 @@ date:   2019-08-05 13:16:00
 
 Yes, that's right... *could.* You can't very well bring forth change if no one knows who you are or what your cool new thing is. [Product Hunt](https://www.producthunt.com/) is an excellent way to shout about it. If you get to the top spot for a day, or even the top three, it gives you and the thing you made a juicy and valuable boost. 
 
-![](/images/frontpage.png)
+![Screenshot of the front page of Product Hunt](/images/frontpage.png)
 *The front page of Product Hunt at the time of writing — lots of cool, useful, little things. And Buttssssss...?*
 
 Our [Consent Manager](https://landing.metomic.io/) was number 2 a couple of months ago — it gave us a nice growth spurt but it wouldn't have happened if we didn't follow these steps.
@@ -56,7 +57,7 @@ By now you've hopefully built up a bit of a following, and you're ready with a f
 
 Remember Product Hunt is best for launching singular and easy-to-understand products, not an entire company. So having a landing page that quickly and concisely explains your product is a good idea 👌. For our Consent Manager, we [made this](https://landing.metomic.io/). It shows how the product works and let's people sign up to start using it. Something like this under 'website' is better than your actual website.
 
-![](/images/landingpage.png)
+![Landing page for Metomic cookie widget](/images/landingpage.png)
 *The landing page for the Consent Manager — still useful to this day.*
 
 Depending on who you are and what kind of product you're launching, the various details you need to get together for the launch will be different. But, here are some tips about certain elements: 
@@ -111,7 +112,7 @@ This is why you cleared your calendar. You will get all kinds of things coming a
 
 *"I don't see the point in this product [no further detail]":* comments which don't offer anything constructive are actually very rare, but we saw a couple. Best thing is to ignore them. The last thing you want is an argument...
 
-![](/images/producthunt.jpg)
+![An infographic of what happens of Product Hunt launch day](/images/producthunt.jpg)
 *The absolute rollercoaster of launch day — it could happen to you*
 
 ## Phew, you did it 🥳

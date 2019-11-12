@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Crypto is fair and balanced ⚖️"
+description: "Stanford receives 3 million dollar grant to build Almond, an Alexa alternative that decentralises data as a concept"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/libra2.jpg
@@ -13,7 +14,7 @@ date:   2019-06-24 13:18:00
 
 An interesting take on consent: when you buy a new piece of hardware and do not quite notice that it means you have Alexa now. As we all know, handling consent is tough but I'm not sure this is  a good approach...? 
 
-![](/images/alexa.png)
+![screenshot of a Tweet talking about Firestick turning TV into Alexa](/images/alexa.png)
 
 ## For a better virtual assistant, have an Almond
 
@@ -42,13 +43,13 @@ It's finally happened: Facebook have done their own currency and yes, it's on **
 
 Okay all the ideas make sense: why not have a global currency? But it's hard to imagine the execution seeing as no one trusts Facebook anymore. As you may have seen, the logo for Libra is a bunch of waves 🌊 let's just hope we don't wipe out.
 
-![](https://media.giphy.com/media/bIENP8zCKeNIA/giphy.gif)
+![Gif of a surfer falling into the waves](https://media.giphy.com/media/bIENP8zCKeNIA/giphy.gif)
 
 ## Even the regulator can't handle GDPR 🤷🏻‍♀️
 
 So what do we do when the body responsible for enforcing the rules — [the ICO](https://ico.org.uk/) themselves — can't understand the language used in the GDPR? Nothing. We just keep trying. The part they failed on was consent — probably the hardest part. Below is an email from the DPO in response to [Adam Rose's](https://twitter.com/adam_rose/status/1140151337834962944) complaint.
 
-![](/images/ico.jpg)
+![Email from ICO admitting that their cookie consent is not GDPR compliant](/images/ico.jpg)
 
 At the very least, the ICO admitted their mistake and say that it should be all fixed **as of today.** Haven't seen any changes yet but let's hope they come soon and they are good. Don't lose hope over this; all this does is demonstrate how hard it is to be GDPR compliant.
 

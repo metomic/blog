@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A story about legitimate interests"
+description: "What does legitimate interest mean. Where does your data go beyond third parties without explicit consent"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/pret.png
@@ -11,7 +12,7 @@ date:   2019-08-02 13:16:00
 ## This is a real-life application of 'legitimate interests' — read it and marvel at its disturbing flexibility
 A couple of months ago our CEO  Rich had an amazon package delivered while he was out. The delivery person decided to leave it with the Pret A Manger across the road. Therefore, Pret now have his name and address without his consent. But, one could argue, this was necessary for his package to get get delivered. It was a **legitimate** **interest.** 
 
-![](/images/pret.png)
+![Tweet from CEO Rich about how Amazon package ended up at Pret without consent](/images/pret.png)
 
 The comments under this post range from talking about legitimate interests and saying things like 'I hate to break it to you Richard but all I did was Google you and now I know everything about you and any business that you've ever interacted with knows the same 🤷🏻‍♀️'.
 
@@ -41,7 +42,7 @@ You can see where these guidelines would clarify things in certain situations, b
 
 Don't forget that we have third-parties at play here. Amazon have used MyHermes to get the package delivered. That means they have put their trust in MyHermes to do the right thing.  **Rich** put his trust in **Amazon** and now he's somehow expected to also trust the Pret A Manger employees from across the road with his personal details. 
 
-![](/images/data-journey.jpg)
+![How a user's data travels from one third party to another without consent](/images/data-journey.jpg)
 *The Journey of Rich's data — no consent necessary*
 
 ## Rich has his own legitimate interests

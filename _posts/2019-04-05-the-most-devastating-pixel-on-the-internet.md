@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Most Devastating Pixel on The Internet"
+description: "How Facebook Pixels work. Cookie is dropped then advertisements are optimised to your user profile. No longer anonymous if you use Facebook"
 categories: "Explainer"
 author: "Richard Vibert"
 author_description: 'Cofounder & CEO, Metomic'

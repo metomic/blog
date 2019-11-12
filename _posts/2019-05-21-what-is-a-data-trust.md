@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is a data trust?"
+description: "Data trust can exist to govern who and how data is used. Data portability can be achieved through proper management" 
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/socialnetwork.png
@@ -22,7 +23,7 @@ Just to put things in perspective, last quarter Facebook announced revenue of ar
 
 So yes, the value that we as individuals get out of Facebook is the equivalent of a sad little maraschino cherry, while they get to eat a million sundaes. And do you know what's cooler than a million sundaes? A **billion** sundaes — to paraphrase an atrocious quote from a terrible movie.
 
-![](/images/socialnetwork.png)
+![Quote from movie Social Network about sundaes](/images/socialnetwork.png)
 
 ## Data isn't just for adverts; you also use it to make stuff...
 
@@ -46,7 +47,7 @@ What sort of data is needed for this app to work?
 
 As a maker of apps in our current reality, you'd probably get a lot of this info from Google. If data trusts existed, you'd get **all this stuff** from one of them. Confused yet? Just look at this cool diagram I drew:
 
-![](/images/geodatatrust.jpg)
+![Illustration of how data trust would operate](/images/geodatatrust.jpg)
 
 So the data trust decides what data is used, and how it's used. But whose interests does the data trust protect? Ideally, everyone within the cycle in my diagram above, which is:
 
@@ -64,7 +65,7 @@ Yes, good question. If we are using all these apps and services to produce the d
 
 Currently, when you post something on Facebook, that gets stored in one of Facebook's data centres (somewhere cold like Sweden). What Anouk is saying is that under a data trust model, when you post something on Facebook, it zips straight over to the data trust and Facebook actually have to *ask for it back.* Please look at this other nifty diagram that I crafted to illustrate what I mean (why conceptualise when you can visualise, amirite?)
 
-![](/images/fbrequest.jpg)
+![Facebook requestion data from Data Trust](/images/fbrequest.jpg)
 
 As Anouk mentioned, this also means that the data needs to be structured in a specific way; for example, some kind of universal format. This is so that [data portability](https://blog.metomic.io/main/2019/04/02/How-To-Make-A-Data-Request.html) can be achieved. And what that means is, when/if someone who *isn't* Facebook asks for this Facebook-related data, they will be able to read and process it. In other words: it has potential to be useful for **everyone,** not just Facebook (or whatever platform was used to produce the data). 
 

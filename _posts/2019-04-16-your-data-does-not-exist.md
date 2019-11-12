@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "'Your data' does not exist"
+description: "You cannot own your data as much of it is behavioural data. A powerful resource that helps companies infer and guess information about you"
 categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/april.png
@@ -55,7 +56,7 @@ Let's take some of the other stuff about April that we learned earlier. She play
 
 Okay, so, here's the thing - the majority of these people like April who: play football on Sundays, go out in Dalston, are a woman, and are under 30... are also gay. Therefore, if you are a computery thing (technical term) looking at data about April, it would be very easy to infer that April is also gay.
 
-![](/images/april.png)
+![chart showing how behavioural data helps companies infer customer preference](/images/april.png)
 
 BONK. Oh, ha there's that sound again. Must be something important. The important thing that happened is that I just *inferred* something about April. There's nothing out there to suggest that she is gay - that was literally just a guess, based on the piles of behavioural data out there about her (and people like her).
 
@@ -108,7 +109,7 @@ What I'm getting at here is the next step in our wholesome journey of demystific
 
 So one of the issues we have here is that we do not value the data that we produce in the same way that big business does. Makes sense, why would you? There's nothing you can do with it, and everything about you, you already know. 
 
-![](/images/datavalue.jpg)
+![image showing that Facebook uses data as a valuable resource](/images/datavalue.jpg)
 
 UNBONK. What was that? That was the sound of a hammer NOT hitting a nail on the head (sorry, I don't know what sound that makes, if any. 'Unbonk' will have to do). The notion that you can't do anything with the behavioural data that you produce is inaccurate. Individuals can actually extract value from this data, but business are making it really hard.  This is because controlling **access** to the data also controls the **value**.
 

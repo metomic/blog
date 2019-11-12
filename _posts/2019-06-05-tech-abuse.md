@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "'Oh no, technology is getting out of control'"
+description: "Amazon drones scared people because humans run on emotions. Technology can seem scary because of human emotive responses"
 categories: "Longform"
 author: "Georgia Iacovou"
 socialImage: /images/blimp.png
@@ -12,7 +13,7 @@ date:   2019-06-05 13:16:00
 
 A few weeks ago, this blimp happened
 
-![](/images/blimp.png)
+![Illustration of Amazon blimp with drones](/images/blimp.png)
 
 [And everyone was scared of it](https://twitter.com/jimrossignol/status/1113056476732493824), even though it poses absolutely no threat whatsoever. All I can see is a fairly efficient way of delivering Amazon packages without polluting the earth even more. All anyone else could see was the beginning of the end of the world. Why? Because, it seems, there is a strange unreasonable fear of 'technology getting out of control'. No. *Humans* are getting out of control.
 
@@ -42,7 +43,7 @@ Before we dive in, consider any time you feel like you've been 'manipulated' by 
 
 Example: Advertisements have always manipulated us in one way or another, and at one point those were just static images in magazines. Now we have [all kinds of technology](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html) which makes adverts happen in a really fast and efficient way. Adverts still exist to achieve the same thing as they always have — they're just 'better'. And that makes us feel worse. Like Betty Draper in this recent article about [living in a panopticon](https://blog.metomic.io/main/2019/05/14/panopticon.html).
 
-![](/images/emotions.png)
+![Word art technology is scary because humans have emotions](/images/emotions.png)
 
 ## Drones are scary aren't they? Ban drones, I think.
 
@@ -68,7 +69,7 @@ As you can see this is quite a mixed bag. There are so many cases where new dron
 
 Gonna have to do a hard pass on banning drones, they’re too useful. Banning improper use of drones? Sounds difficult. No idea how we achieve that because I have not put years of research into why people commit crimes or do bad things. We've definitely banned stabbing each other with knives, but that hasn't fully stopped people from stabbing each other with knives. Do you see?
 
-![](/images/knife.jpg)
+![Metaphor of the internet as a knife](/images/knife.jpg)
 
 ## Technology = power. Power = thing that can be abused
 
@@ -86,7 +87,7 @@ Now, a common element of smart homes is a special doorbell that is hooked up to 
 
 Training machines to trust and/or suspect humans is a pretty odd thing to do; trust is messy and difficult and often based on — once again — **emotions.** Humans have not yet even come close to mastering trust, and yet humans are the ones teaching machines how to trust. We all rationally understand (I hope) that every single stranger at your door is not there to attack you or steal your possessions. Equally, it's surely possible that any one of your neighbours *could* steal from you or hurt you.
 
-![](/images/trustface.jpg)
+![Grimacing smiley face balloon](/images/trustface.jpg)
 *The face of a trustworthy neighbour*
 
 So, your smart home security system is a good idea, but it's quite possibly poorly executed. Putting aside the fact that they may not even be an effective security tool, there is also a lot of scope to mess with this technology and use it to do bad. Here are some cases of misuse by various parties:
@@ -126,7 +127,7 @@ The difference is, AI is kind of everywhere. Who remembers life before Citymappe
 
 Automation is an important word here, because AI enables a lot of it. The fear of automation, machines, and AI is not new. This is obvious from how long it's been present in popular culture: the first depiction of a robot (and essentially AI) in film was in *Metropolis*, and that came out nearly a hundred years ago. 
 
-![](/images/metropolis.jpg)
+![The False Maria from film Metropolis](/images/metropolis.jpg)
 *The False Maria in Metropolis*
 
 Human fear of AI and automation can be boiled down to these things:
@@ -153,7 +154,7 @@ One particularly scary use of AI (which was touched on when I was talking about 
 
 Now, I'm aware that I have not yet addressed point three, which is the fear that AI will get 'too smart' and try to kill or enslave us or whatever. That is because, when I asked one of our devs at Metomic what he thought about the possibility of a machine uprising, the response I got was this:
 
-![](/images/bong.png)
+![Photo of girl hitting a bong](/images/bong.png)
 *Yes, readers, this is how I 'do research'*
 
 I expect that my question was not taken seriously because it seems so completely ridiculous. That could just be because we are very far from it being possible. But, it's not impossible. If machines start to learn in the same way we do, and even start to **reason,** they could end up being like humans **without emotions**. Eek. Don't think about it too much.
@@ -172,7 +173,7 @@ What comes out of this is paralysing inability to deal with actual problems. In 
 
 The whole thing smacks of the same energy as *The Thick Of It* which was once a fictional comedy, but is now more of a disturbingly accurate depiction of the lives of policy makers.
 
-![](/images/mannion.jpg)
+![Peter Mannion from The Thick of It](/images/mannion.jpg)
 *Peter Mannion from The Thick Of It coming up with a cool app idea*
 
 If those in charge actually knew how to harness the power of technology, we may be able to prevent drones from terrorising Gatwick, and awful, ill-thought out [propositions for internet regulation](https://www.theverge.com/interface/2019/4/9/18301330/uk-online-harms-white-paper-dcms-regulation-free-speech). The lack of nuance and the overuse of the word 'troll' in this white paper has made me feel very uncomfortable.
@@ -185,7 +186,7 @@ This abuse of technology is arguably worse; those in power seem to either have a
 
 ...and remember that Scientologists exist. Did you know that the way in which Scientologists get rational humans to convert to Scientology, is by using a piece of 'technology'? It's called an E-meter and it's covered with dials and buttons so it almost looks legit. Almost. In actuality it looks like this:
 
-![](/images/emeter.jpg)
+![E-meter as used by scientologists](/images/emeter.jpg)
 *An E-meter; totally legit piece of kit*
 
 Yes it's ugly and it looks like it can't really do anything. That would be correct. The church of Scientology has been ordered by the federal courts to make clear that this thing 'does nothing'. In previous times, Scientologists were claiming the E-meter could be used to perform certain kinds of therapy. It can't.

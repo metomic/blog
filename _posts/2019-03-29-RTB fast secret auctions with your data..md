@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "RTB: fast, secret auctions with your data."
+description: "real time bidding uses cookies and data to serve you targeted adverts. Advertisers bid to publishers to serve you ads based on your preference"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png
@@ -39,6 +40,6 @@ RTB is something made possible by the IAB (the Interactive Advertising Bureau). 
 
 Naturally, all those media outlets and advertising platforms that we know and love (or fear and hate?) fall in line and that's how RTB has become so prominent. Remember, it's a chance for *everyone* in the chain to make money, just look at this whiteboard:
 
-![](/images/rtb.png)
+![real time bidding illustrated with advertiser and publisher serving targeted ads](/images/rtb.png)
 
 There has recently been some [controversy surrounding RTB](https://www.notion.so/metomic/Real-time-ad-bidding-7442f7c32d8b4d6f9a1395a3b1657f9a). What we're getting down to here is that the IAB have done nothing to ensure that anyone using RTB couldn't share data about say, your religious or political beliefs. You know, the kinds of things that could be used to infer **how you might vote in elections.** Interesting.

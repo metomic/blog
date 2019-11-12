@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I spoke to over 50 DPOs, here's what I learned..."
+description: "DPOs and cookie consent problems. Third parties cause big GDPR issues. Data subject the consumer is not discussed"
 categories: "Explainer"
 author: "Richard Vibert"
 author_description: 'Cofounder & CEO, Metomic'

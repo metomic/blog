@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The 'like' button is unlawful: is this the end of the Facebook Pixel?"
+description: "EU Court of Justice rules Facebook's button is unlawful as it tracks users without consent. Implication for Facebook Pixel"
 categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/share-buttons.png
@@ -14,7 +15,7 @@ At the moment if you read any blog or news website (not this one, of course) it 
 
 What may not be clear to every user — and what is certainly the case when it comes to Facebook — is that visiting a website with a Facebook like button embedded is nearly as good as visiting Facebook itself. Facebook knows you've been there, and Facebook now knows what you're reading — even if you never touched a social icon. Just like me yesterday when I read a Tech Crunch article about this very story:
 
-![](/images/share-buttons.png)
+![Facebook Share buttons at footer of Tech Crunch](/images/share-buttons.png)
 *Seen at the footer of every Tech Crunch article and every other article everywhere...*
 
 What the EU Court of Justice ruled is that if a website has such buttons embedded, they too are responsible for the data that gets shared with Facebook. They also ruled (confusingly) that the website is not necessarily the **controller** of that data. So it's like this:

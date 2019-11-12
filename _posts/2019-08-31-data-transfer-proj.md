@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Apple join the Data Transfer Project"
+description: "Apple joins Data Transfer Project which allows data portability between companies. Does this mean big tech will have even more data on you?"
 categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/datatransferproject.png
@@ -12,7 +13,7 @@ date:   2019-08-02 13:18:00
 
 [The Data Transfer Project](https://datatransferproject.dev/) was set up so that internet users can move their data easily between services, if they wish to do so. Main players are Facebook, Google, Microsoft, Twitter, and now Apple. 
 
-![](/images/datatransferproject.png)
+![screenshot of introduction on data transfer project website](/images/datatransferproject.png)
 
 ## Why this is good
 

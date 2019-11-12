@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How Facebook Have Built Up Your Trust Over The Years"
+description: "History of Facebook and how they tried to build consumer trust. Can Facebook be private and transparent, sharing data with third parties"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png

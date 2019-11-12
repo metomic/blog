@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Looks like we broke the world — to the moon!"
+description: "Jeff Bezos announces that people should move to the moon and live with trillion people"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/moon.png
@@ -22,7 +23,7 @@ Wow, Jeff, the moon, you say? Please, tell me why this is a good idea. The gist 
 
 Not gonna lie, Jeff... that makes a lot of sense. Cannot wait for [Blue Origin](https://www.geekwire.com/2019/blue-moon-beyond-jeff-bezos-plans-take-civilization-space-starting-lunar-colony/)
 
-![](/images/moon.png)
+![image showing solution is moving to the moon](/images/moon.png)
 
 ## Chris Hughs also agrees that Facebook is like, not that great
 
@@ -40,7 +41,7 @@ Anyway, unlike Elizabeth Warren, Chris Hughs actually has some ideas about how b
 
 Chris Hughs mentions that he also regrets not saying anything sooner. You know, now that he's sold all his shares and hating Facebook is in this season.
 
-![](https://media.giphy.com/media/12Jn9VzD9Tz89W/giphy.gif)
+![tell me more gif](https://media.giphy.com/media/12Jn9VzD9Tz89W/giphy.gif)
 
 ## Dev conferences: over. Future: predicted
 

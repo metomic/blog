@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Customer-Centric Dilemma"
+description: "How big corporates like Amazon relies on advertising revenue which requires consumer data and consent which users are reluctant to give"
 categories: "Longform"
 author: "Richard Vibert"
 author_description: 'Cofounder & CEO, Metomic'

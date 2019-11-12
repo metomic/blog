@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A love letter"
+description: "a narrative of the history of the internet becoming integrated, accessible, but now becoming disgusting with awful cookie consent, pop-ups"
 categories: ["Company"]
 author: "Shad Jahangir"
 author_description: "Designer at Metomic"
@@ -17,7 +18,7 @@ When I was 4, my dad bought a computer on finance. It cost him £1200 over a two
 
 Every day after school I would boot up the machine, and *surf the web*.
 
-![](/images/online.png)
+![A retro image of a woman surfing the internet on her desktop](/images/online.png)
 
 Every time I would boot up this machine I was preparing for an adventure. What would I learn on YouTube that evening? Which Wikipedia rabbit-hole would I wind up in? What software would I torrent? (spoilers: it was Photoshop, thanks Adobe!)
 
@@ -86,15 +87,15 @@ If my house caught fire and I could only take one thing, I'd take the book ['Uni
 
 Fortunately for me though, the bar isn't very high.
 
-![](/images/verge.png)
+![example of a cookie banner on Verge website](/images/verge.png)
 
-![](/images/lush.png)
+![example of a cookie banner on Lush website](/images/lush.png)
 
 50% of screen real-estate spent on this shit. Acknowledge me. Please.
 
 We took a simpler approach. Stop trying to be funny with your copy, stop overwhelming the user, give them a tl;dr and some options:
 
-![](/images/consentmanager.png)
+![Example of Metomic cookie consent widget on educategirls website](/images/consentmanager.png)
 
 No. It's not a cookie banner. And it's going to become so much more.
 
@@ -108,9 +109,9 @@ In design we call these dark patterns.
 
 Dark patterns are ways by which some asshole designer or developer somewhere might design an interface that tricks you into making a decision. Scroll to consent probably takes the cake as my least favourite, but if a business needs it... Who am I to say no? Gotta keep feeding the machine, right?
 
-I don't think I have a problem with this kind of shitty practice, if you want scroll to consent, go for it - but if you're going to use our product, we'll for sure let the user know.
+I don't think I have a problem with this kind of practice, if you want scroll to consent, go for it — but if you're going to use our product, we'll for sure let the user know. Our version of scroll to consent is transparent, and obvious:
 
-![](/images/scroll.png)
+![Metomic scroll to consent example](/images/scroll.png)
 
 The ball is going to drop on businesses using dark patterns. An example of how you'll lose trust by deploying these dark arts is Facebook. Only recently Facebook began prompting users to increase their account security using 2FA. To set up 2-factor authentication, they needed your phone number. Awesome. Account on lock. 
 

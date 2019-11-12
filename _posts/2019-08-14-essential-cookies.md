@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What are essential cookies?"
+description: "differences between essential and non-essential cookies. Session cookies, persistent cookies, what is essential for functionality of website"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/essential-cookies.jpg
@@ -54,7 +55,7 @@ For example, your cool t-shirt shop has a Youtube video embedded from your Youtu
 
 That means, technically, you should block Youtube embeds from loading until the user has consented to the Youtube cookies. That will effectively make your site 'look broken'. But it will not behave in a broken way — you can still create, buy, and save customised t-shirts.
 
-![](/images/essential-cookies.jpg)
+![Consenting to essential cookies](/images/essential-cookies.jpg)
 *A lawful online experience realised as a nice time on the beach*
 
 ## What about marketing and analytics and all that stuff?

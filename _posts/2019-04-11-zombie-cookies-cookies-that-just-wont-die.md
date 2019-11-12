@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Zombie cookies: cookies that just won't die"
+description: "Zombie cookies are tracking technologies that can be recreated even after deletion by a user."
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png

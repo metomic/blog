@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Making your business ethical with data: harder than you think"
+description: "It is difficult to make businesses data ethical because most technology and softwares are embedded with data harvesting technologies"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/buffer.jpg
@@ -15,7 +16,7 @@ Because it's hard, okay. Even for us at Metomic. If you want to achieve true dat
 
 At Metomic, because we are 'with it', we schedule our tweets via [Buffer](http://buffer.com/). Without even thinking about it, we routinely used Buffer's built-in link shortener when tweeting; shorter links make for longer tweet content... I read that in a special marketing book once 😉. But then one day, someone from the privacy sphere [responded like this](https://twitter.com/safepress/status/1121025278266966016).
 
-![](/images/trackinglink.png)
+![Metomic tweet using Buffer link shortener that has tracking technology](/images/trackinglink.png)
 
 Please appreciate how crippling the irony is: the article we were sharing was written by me (Georgia, Metomic's main word person) and was about the many different sorts of tracking technologies that exist.
 
@@ -27,7 +28,7 @@ We responded with an unshortened link, in it's purest form, as link-god always i
 
 A link shortener is such a basic, every day thing — we searched around for any that don't track you when you click and struggled finding anything (if anyone knows of a clean link shortener out there, please tell us on Twitter @metomic_). So, what do we do? Well for a while we just didn't shorten links. But, luckily we're a company full of **cool software developers** who love hacking around with side projects, so we went and made our own link shortener at [priv.sh](http://priv.sh) 😏
 
-![](/images/buffer.jpg)
+![Illustration of how link shorteners and tracking works](/images/buffer.jpg)
 *The tracking journey after clicking on a shortened link*
 
 Now, link shorteners are just the beginning. Think about how many small tools and third-party services that business and individuals use every day — I expect they are not exercising awfully high levels of data hygiene. Strapping trackers onto everything doesn't look like it's going out of fashion at all, and this makes it really hard to focus on data privacy in a meaningful way.

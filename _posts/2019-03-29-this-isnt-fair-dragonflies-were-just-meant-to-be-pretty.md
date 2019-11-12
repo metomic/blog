@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "This isn't fair, Dragonflies were just meant to be pretty"
+description: "Apple Card first card to be transparent and private. Uses one-time unique dynamic code no CSV. Secure credit card"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/dragonfly.png
@@ -36,7 +37,7 @@ A kickstarter campaign has just begun for PreShow - an app where you watch 15-20
 
 ❌ Do not underestimate the power of anonymised data - that can still be used to infer things about you as a user of the app depending on what movies you saw and liked, and what your eyes are doing during certain ads, etc. Ultimately this could be very invasive, but as usual it depends what they decide to do with the data
 
-![](/images/dragonfly.png)
+![dragonflies same name as Google's China operation](/images/dragonfly.png)
 
 ## Google, but in China
 

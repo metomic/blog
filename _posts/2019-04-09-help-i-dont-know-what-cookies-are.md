@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Help, I don't know what cookies are"
+description: "Explanation of cookies covering session persistent and third-party, and what cookie consent notices are referring to"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/social-icons.png
@@ -115,7 +116,7 @@ This means that companies actually *rely* on third-party cookies to get parts of
 
 This is why websites [like the BBC](https://www.bbc.co.uk/usingthebbc/cookies/what-happens-if-third-party-cookies-are-disabled-on-my-browser/) urge you not to disable third-party cookies; because they actually add *functional features* which the BBC have deemed 'necessary'. Forbes list all the 'functional cookies' that they serve you on every visit. Oh look, they're all from third parties. 
 
-![](/images/forbes.png)
+![a list of all the third party cookies Forbes drops on a user every visit](/images/forbes.png)
 
 Avoiding cookies is like trying to not make direct skin contact with your own clothes - it's... really hard. Every time you see social media buttons in the corner of any website, those social channels - as well as a bunch of other third-parties you've never even heard of - are tracking your browsing. In other words, cookies are nothing more than a 21st Century brand of surveillance. Cookies give a much better picture of you than a nanny-cam ever will.
 

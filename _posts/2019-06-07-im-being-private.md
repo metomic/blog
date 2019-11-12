@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sorry I can't talk, I'm being private"
+description: "round up of WWDC19 week, using Apple ID for sign-in and making location tracking more transparent and needing consent"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 author_image: /images/author.png
@@ -20,7 +21,7 @@ The type of advertising I'm talking about is where ominous tech giants such as F
 
 Does that seem worth it? Paying through the nose to upset all of us with incessant targeted advertising when all we want is to get some extension cables on next day delivery? I mean really now...
 
-![](/images/money-from-datas.jpg)
+![Generating money from using data-driven ads](/images/money-from-datas.jpg)
 
 ## "Oh no, they wont let me be a teacher because I used to use Tinder to establish fleeting, but perfectly healthy, sexual relationships..."
 
@@ -46,4 +47,4 @@ My only qualm with the Apple sign-in is how it will inevitably cause even *more*
 
 One year on and where are we? Over 200,000 reported breaches and 56m Euros in fines. Don't get your cookie banners in a twist over that fine total — 50m of it is from one single fine to Google, [earlier this year](https://www.theregister.co.uk/2019/01/21/google_50m_cnil_gdpr/). Gosh, just imagine if Google didn't exist...
 
-![](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Gif of man doing maths](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)

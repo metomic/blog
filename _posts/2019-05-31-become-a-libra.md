@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Did you know you can solve your problems with Cryptocurrency?"
+description: "Facebook announces new cryptocurrency project titled Libra. Can people trust Facebook with financial information?"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/libra.png
@@ -15,7 +16,7 @@ Facebook are doing this thing where they 'pivot to privacy'. Some of us think th
 
 Your friendly neighbourhood technocrat, Mark Zuckerberg, has realised that providing free products without doing advertising will... not make any money. Haha, woops, better invent a [cryptocurrency](https://www.bbc.co.uk/news/business-48383460?utm_source=morning_brew), I guess!
 
-![](/images/libra.png)
+![Illustration of a scale and GlobalCoin](/images/libra.png)
 
 So, 'Libra' is the project code name for Facebook's own cryptocurrency, which they seem to be calling GlobalCoin. An ambitious title, but I guess you get to be this ambitious if you're friggin Facebook. The point of GlobalCoin is to easily allow payments internally via Facebook's platforms (whatsapp, messenger, etc), to anyone from anyone. Simply convert your IRL money into GlobalCoin and ride the wave of 'disrupting mainstream finance'.
 
@@ -61,7 +62,7 @@ Quantcast makes these banners for a living. They're tracking technologies curren
 
 So now when you catch a ride with Uber, you can let the driver know that you don't feel like chatting [with the press of a button](https://www.engadget.com/2019/05/14/uber-black-quiet-mode-ride-preferences/). Lot's of people are up in arms about this, saying that it dehumanises the drivers. Yes, it does. If you're a dick about it. 
 
-![](https://media.giphy.com/media/ZWbeEcbeo0cKI/source.gif)
+![Gif of Start Stop button](https://media.giphy.com/media/ZWbeEcbeo0cKI/source.gif)
 
 **Here are just some reasons why you might want a quiet ride:**
 

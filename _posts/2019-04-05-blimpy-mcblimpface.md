@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Blimpy McBlimpface"
+description: "540 million Facebook profiles stored unsecurely by Cultura Colectiva." 
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/feedads.png

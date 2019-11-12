@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AOC quits Facebook, Facebook quits privacy"
+description: "Facebook required your email passwords and used the data to access your email contacts. They hadn't fixed code"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/unintentional.png

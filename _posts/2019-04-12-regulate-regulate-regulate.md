@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Regulate, regulate, regulate"
+description: "Lush UK are closing their social media pages as anti-marketing."
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/deeper.jpg

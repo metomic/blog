@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How Google, Facebook, and Amazon are bringing the internet to the rest of the world"
+description: "Google Facebook and Amazon are investing in projects to bring internet to underprivileged communities globally. Loon, Project Kuiper and Simba"
 categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/dunant.jpg
@@ -28,7 +29,7 @@ Earlier this year Google got a [hefty cash injection](https://www.bloomberg.com/
 - **They are solar powered:** the sun keeps the balloons going during the day, and charges a battery for night time usage. They stay up for over 100 days before returning to the ground in a soft, cushiony landing
 - **They live above the clouds**: and planes, and weather. In the stratosphere, basically. High up enough that planes don't crash into them and low down enough that they don't float out into space.
 
-![](/images/loon.jpg)
+![Photo of a Loon balloon](/images/loon.jpg)
 *A Loon ballon. It's actually the size of a tennis court :o*
 
 ### International subsea fibre-optic cables
@@ -39,7 +40,7 @@ By 2021 Google will have three private cables running around the world. The poin
 
 **Curie** was completed earlier this year and connects California and Chile. This won't be as fast as Dunant but it's the first new cable they've had in Chile in twenty years. It will be the main data pipe for that region.
 
-![](/images/dunant.jpg)
+![Illustration of Google Dunant connected between Virginia and France](/images/dunant.jpg)
 
 **Equiano** will go from Portugal to South Africa and will be complete by 2021. This one will very much be serving the unconnected — there will be many branching units along the way, the first being in Nigeria. 
 
@@ -51,7 +52,7 @@ Now it's important to bare in mind that all these cables are private: they are e
 
 Amazon have nothing concrete yet, but have announced **project Kuiper** which will launch over 3,000 satellites into low Earth orbit. The details are not yet clear but the reasoning is the same as Loon: give internet to those who don't have it yet. They want their satellites to span from the southern-most point of South America, to the top of Scotland. That should theoretically cover 95% of the population.
 
-![](/images/kuiper.jpg)
+![Space showing how Amazon is providing internet from space](/images/kuiper.jpg)
 
 This is also more cost-effective way of doing it. Believe it or not, a constellation of satellites in the stratosphere is cheaper to execute than traditional ground-based satellites, and even has lower latency. For these to work, however, you of course need a network of stations on the ground for the orbiting satellites to talk to. Luckily, [Amazon already have this](https://aws.amazon.com/ground-station/) and will not have to outsource, like Google is with Loon.
 

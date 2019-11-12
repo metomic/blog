@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fun coupons"
+description: "Bavaria rules that Facebook Custom Audience is illegal because sharing contact information without consent with third party is"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/blackforest.jpg
@@ -21,7 +22,7 @@ Anyway, people who want to sell you things (known as 'shops') use Facebook to ta
 
 Hopefully you can see where the potentially unlawful part is. Everything before step 4 is actually fine, really. It's okay to advertise your business; it's okay to want your ads to reach relevant audiences. But... can you not just ask first? Transparency can't be that hard, surely.
 
-![](/images/blackforest.jpg)
+![The Black Forest in Bavaria](/images/blackforest.jpg)
 *The Black Forest, Bavaria*
 
 ## Cut them off at the source - or just cut everything off?
@@ -53,7 +54,7 @@ The two parties are currently negotiating this fine, but Facebook have estimated
 - This fine is perfect for both FTC and Facebook. The former can look like it's doing it's job and the latter can look like it's being held accountable for it's actions.
 - 💸Again, Facebook have... sooooo much money💸
 
-![](https://media.giphy.com/media/HgRCL6irM8unm/giphy.gif)
+![Leonardo DiCaprio in Wolf of Wall Street throwing money into the ocean](https://media.giphy.com/media/HgRCL6irM8unm/giphy.gif)
 
 This whole thing begs another question: how do you even decide what to fine? What magical large sum of money is 'enough' to deliver justice? Dunno, pretty sure the FTC spend all day pulling numbers out of thin air.
 

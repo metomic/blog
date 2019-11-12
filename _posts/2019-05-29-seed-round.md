@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Metomic's £1.4M Seed Round & Other Stories"
+description: "Metomic raises £1.4M seed round in 2019 from Connect Ventures, Saatchi, Samos"
 categories: ["Company"]
 author: "Richard Vibert & Ben van Enckevort"
 author_description: 'Cofounders, Metomic'
@@ -20,7 +21,7 @@ Now, almost half way through the year, we want to share with you a few updates a
 
 We now have some great investors onboard, including [Connect Ventures](http://www.connectventures.co/), [SAATCHiNVEST](http://www.saatchinvest.com/), and [Samos](http://samos.vc/). These three funds now join our first investor, [Entrepreneur First](https://www.joinef.com/), which is where the journey began one year ago.
 
-![](/images/investors.png)
+![Logos of Connect Ventures, Saatchi, Samos, EF](/images/investors.png)
 
 It's humbling to have such great investors that believe in our vision and trust that we're the right team to make it become a reality.
 
@@ -28,12 +29,12 @@ It's humbling to have such great investors that believe in our vision and trust 
 
 We felt our old brand didn't represent the monumental mission we're undertaking. It also had too many similarities with Google's gmail - which certainly isn't a company or business model we're trying to replicate...
 
-![](/images/oldlogo.png)
+![Old logo of Metomic](/images/oldlogo.png)
 *The old Metomic logo*
 
 To signify the next stage of Metomic, a fresh look was in order. After months of pondering, exploring and testing (alongside the brilliant [Together](https://istogether.com/)), the new Metomic emerged:
 
-![](/images/newlogo.png)
+![New pink Metomic logo](/images/newlogo.png)
 *The new Metomic logo*
 
 We wanted the brand to be fresh, different, clean, light, and not blue. It stands for something which is changing. And it allows "privacy" to finally transcend compliance into the world of transparency and control of data. Going from boring, costly and burdensome to refreshing, natural and contemporary.
@@ -46,7 +47,7 @@ It took time. Along the way we turned down some incredible people and some incre
 
 It's extremely humbling to spend the majority of your time around such terrific people, all motivated by a single mission, and who push each other every single day.
 
-![](/images/team.png)
+![Photos of Metomic team](/images/team.png)
 *We have fun together; you're welcome to join :)*
 
 One of the best things about Metomic is that data ethics runs through the veins of our business, not just the product we are building. We are revolutionising how designers design products, how devs build them, how marketing teams market them, how product managers manage them, and how customer service teams service them.
@@ -73,7 +74,7 @@ There just aren't enough people discovering and deliberating the more interestin
 
 We started the Metomic blog to ignite conversations like these. It's a place where we at Metomic and others talk about the hard questions surrounding data ethics and the new digital world we're heading into.
 
-![](/images/blog.png)
+![Screenshot of Metomic blog](/images/blog.png)
 [*blog.metomic.io*](http://blog.metomic.io)
 
 We're always welcoming guest writers, so get in touch if you have something interesting to share with the world! For notifications on new articles and other interesting stories, follow us on [twitter](https://twitter.com/Metomic_).

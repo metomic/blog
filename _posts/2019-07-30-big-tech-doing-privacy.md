@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How Facebook, Google, and Apple are doing privacy"
+description: "Discussing different approaches to privacy in Facebook, Google and Apple. What does future of privacy look like"
 categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/applecard.jpg
@@ -33,7 +34,7 @@ What we've had so far is Zuckerberg's love-letter to privacy (the blog post anno
 
 One of the issues isn't really Mark Zuckerberg's fault — he is essentially a public figure now, and cannot talk about his own company with as much candour as Chris Hughs did in his [confessional piece in the New York Times](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html). People love to hate Mark Zuckerberg, so he has to fight against that while convincing people that "likes" and "life updates" are still important and cool. Oh and... he also needs to get people to trust him (the hardest part).
 
-![](/images/newfb.jpg)
+![Facebook's updated news feed](/images/newfb.jpg)
 *Facebook's new look. But what does it have to do with privacy?*
 
 Baring all that in mind, at F8 this year and many times in before and since, Facebook have highlighted some key new approaches to privacy. The most repeated line is that they will now put "emphasis on groups and private interactions". This is a great idea, but it's all about how they execute. And remember: celebrating **private interactions** is not the same as **maintaining the privacy of your users.** 
@@ -42,7 +43,7 @@ Baring all that in mind, at F8 this year and many times in before and since, Fac
 
 It's unclear how these will look, but enhancements for specific groups such as gamers, merchants, and other professionals will be rolling out soon. This is a cool idea but will it be better than [Discord](https://medium.com/@imsubjectx/top-7-best-public-discord-servers-to-join-9a9db3813631) or [Slack](https://slofile.com/) or [dev.to](http://dev.to) or [really specific subreddits](https://www.reddit.com/r/BreadStapledToTrees/)? Back in 2006, Facebook was the hip cool place where you could grow communities. There are so many other places to do that now — these so called group enhancements have a lot of competition. 
 
-![](/images/facebook-groups.png)
+![Facebook's updated group tab](/images/facebook-groups.png)
 *The new Facebook Groups tab*
 
 Posting to groups will also be easier, with it's own dedicated tab and timeline. With the new Facebook, you could solely spend your time on a newsfeed that only shows posts from groups that you are in. This is indeed an emphasis on that 'living room' feel as opposed to the 'town square', but what does it actually have to do with privacy?
@@ -82,7 +83,7 @@ Secondly, as we can see from the Apple Card and the Apple Watch, they want to mo
 
 Yikes, this one is exciting, I must say. The Apple card is so sleek and cool that it's made out of metal, and the only piece of information about you on it is your name. To quote myself from [another article](https://blog.metomic.io/main/2019/03/29/this-isnt-fair-dragonflies-were-just-meant-to-be-pretty.html): what future magic is this??
 
-![](/images/applecard.jpg)
+![Photo of Apple Card from conference](/images/applecard.jpg)
 *The Apple card and companion app — I want one*
 
 Here's how it works:
@@ -102,7 +103,7 @@ There are two extremely valuable parts to this. One is an alternative to signing
 
 Coming soon, if Apple developers use those single tap sign-ins for social accounts that we all know and begrudgingly use, they also *must* include a button for Apple too. Signing in with Apple simply means using **TouchID or FaceID** instead of handing over piles of data for the sake of using an app you might delete anyway. Personally, I'd much rather sign in to anything with just my fingerprint instead of a Facebook profile which contains over a decade of data about me.
 
-![](/images/applerelay.jpg)
+![Photo of what Apple relay address](/images/applerelay.jpg)
 *Auto-generated relay address from Apple — so needed that I can't believe no one else thought of this first*
 
 Another part of Apple sign-in is auto-generated relay addresses. Countless times I've downloaded an app and signed up to their services with my email knowing full well it was going to be a one-time thing. This is where relay addresses come in handy; they are used to sign you up, and everything is forwarded to your real address. If you start getting spam, you simply remove the relay. It's smart and it's private and it stops your email from being spread around the digital sphere like thick swathes of moreish mushroom paté. 
@@ -124,7 +125,7 @@ Google sit in a weird grey area for me; on the one hand they provide really usef
 
 Like Facebook with Stories, Google have understood the value in temporal data — your digital footprint need not follow you around for your entire life. It's also about having more control. Being able to have your location, web, and app activity wipe itself away at regular intervals just feels cleaner and safer. 
 
-![](/images/googlehistory.gif)
+![Gif of Google's Web and App Activity feature](/images/googlehistory.gif)
 
 I used to work as a search engine evaluator for Google and what I learned from that job is that Google really are all about giving the best and most accurate results, all without judgement. Anyone should be able to search for anything and get a good answer — bare in mind Google is a tool that people use when they are too embarrassed to ask certain questions out loud. There's comfort in knowing your search history is not permanent. 
 

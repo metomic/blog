@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Let's take to the skies!"
+description: "Google and Loon partnership to bring internet into the stratosphere"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/newfb.jpg
@@ -20,7 +21,7 @@ date:   2019-05-03 13:18:00
 
 Facebook did a conference and [announced their new design](https://www.nytimes.com/2019/04/30/technology/facebook-private-communication-groups.html). They've finally moved away from that gross shade of blue they had before (good, because it was yuk). But more importantly, it has stronger emphasis on groups and stories - more private and temporary kinds of communication. Understandably, people are already shitting all over this. I think this is fine; Facebook are very hard to trust. Facebook are also, quite obviously, not just going to disappear. So any attempts they make to improve should not be immediately shot down. [This tweet](https://twitter.com/systemantix/status/1123522453597229056) contains different arguments surrounding this issue, and I recommend you read it.
 
-![](/images/newfb.jpg)
+![screenshot of Facebook's new design for newsfeed](/images/newfb.jpg)
 
 ## More investigations, more unscathed multinational tech giants
 

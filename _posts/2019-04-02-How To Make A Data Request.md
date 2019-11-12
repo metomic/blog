@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How To Make A Data Request"
+description: "Making subject access requests means you retrieve a lot of data you can't use. Users don't own data. Users don't control data."
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/default.png

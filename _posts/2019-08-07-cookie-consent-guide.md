@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A quick guide to cookie consent for startups"
+descriptions: "Tips on what startups should consider in regards to cookie consent. Explicit consent, legitimate interests, consent wall, and informed consent"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/consent-journey.jpg
@@ -23,7 +24,7 @@ Getting explicit consent means the user has to perform some kind of non-passive 
 
 I'm sure you picked number 2. Have a taco 🌮. If you didn't: congratulations, you just learned something. You simply cannot serve the user cookies without asking first. The flow of consensual cookie-setting goes like this:
 
-![](/images/consent-journey.jpg)
+![Infographic showing the flow of a user's cookie consent journey](/images/consent-journey.jpg)
 
 **To clarify what non-essential cookies are:** we could argue about this until we all pass out, but the guidelines are quite clear now. The ICO describe **essential** cookies as ones that "are essential to providing the service requested by the user". Just like when you need to set a cookie to remember a user's preferences when they login.
 
@@ -48,7 +49,7 @@ This one's a head-scratcher. You can't set your cookies before consent, so surel
 
 Asking for consent for everything at once does not adhere to the GDPR standard. It's not reasonable to expect users to decide on what cookies they are okay with all in one go — they will likely just say yes to everything. And that is not in the spirit of **informed** **consent.**
 
-![](/images/banners.gif)
+![Screengrab no cookie wall showing you can't access website until you consent](/images/banners.gif)
 
 Asking for consent as and when you need it is actually better — if someone is using feature A  of your service, why on earth would you need to set a cookie for feature B? You don't, so just ask only when they request feature B. This may sound like a fiddly headache, but there are solutions these problems... please remember where you are reading this 😉
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The New Vocabulary: how we're wrong about 'consent'"
+description: "Explaining difference between consent and permission. Does opt out imply consent" 
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/opting.png
@@ -52,7 +53,7 @@ In other cases, handing a piece of data over could be a simple acknowledgement o
 
 Language about how data is processed by organisations has become shady and gross. 'Opting in' used to be reserved for pension schemes. Now It's for marketing emails and other crap which is notoriously **difficult to opt out of.** This sneaky repurposing of language has become an accepted new vocabulary for both businesses and consumers.
 
-![](/images/opting.png)
+![Screenshot showing how difficult it is to opt out all](/images/opting.png)
 
 And this new vocabulary has made it possible for organisations to 'opt out' of being GDPR compliant while you, the user, unwittingly 'opts in' to the data you share being monetised and spread across ad networks.
 

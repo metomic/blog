@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Metomic retro"
+description: "A retrospective look into the launch of Metomic's cookie consent widget, a privacy-by-design solution"
 categories: ["Company"]
 author: "Dom Aits"
 author_description: "ex Strategy at Metomic"

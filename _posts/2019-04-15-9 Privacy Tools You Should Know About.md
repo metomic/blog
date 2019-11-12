@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "9 Privacy Tools You Should Know About"
+description: A list of top recommended privacy tools including Privacy Patterns, Humane by Design, Yubi Keys, Privacy Badger" 
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/humane.png
@@ -29,7 +30,7 @@ It's possible that they've just started out, because at the moment they only hav
 
 A really simple site that outlines some design principles which should be used if you want your business/site/app to be transparent, avoid [dark design patterns](https://darkpatterns.org/), and all round be much less evil (and still be well designed).
 
-![](/images/humane.png)
+![example of Humane by Design's website showing respecful, thoughtful, transparent sections](/images/humane.png)
 
 ### Why is this useful?
 
@@ -91,7 +92,7 @@ I mean... just don't lose it.
 
 On Pribot you'll find a tool called Polisis, which uses AI to simplify privacy policies for you in order to make them easier to understand. It offers a generated infographic which can give you an idea of what a site is collecting at a glance. Pribot is also a chat bot who you use to ask questions about a given policy.
 
-![](/images/polisis.png)
+![example of Pribot infographic showing what sort of information a site is collecting](/images/polisis.png)
 
 
 ### Why is this useful?
@@ -118,7 +119,7 @@ Only if you'd rather not use a tool that uses blockchain technology.
 
 Tells you if any email you receive contains trackers, and also blocks those trackers if you open the email.
 
-![](/images/ugly.png)
+![screenshot showing how Ugly Email works by alerting you to emails with trackers](/images/ugly.png)
 
 ### Why is this useful?
 

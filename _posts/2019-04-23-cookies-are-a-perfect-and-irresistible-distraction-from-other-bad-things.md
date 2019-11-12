@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cookies are a perfect and irresistible distraction from other bad things"
+description: "explaining website cache, hashing images, canvas fingerprinting, and navigator objects. You are being tracked even without cookies"
 categories: "Explainer"
 author: "Georgia Iacovou"
 socialImage: /images/cachedimage.jpg
@@ -74,7 +75,7 @@ So, with hashing just remember: slight changes result in a completely different 
 
 As we get to this point, we realise that this whole thing is actually a complex series of fairly simple steps.  The below image is the one that treerank.bark randomly generated for you in order to identify you later:
 
-![](/images/cachedimage.jpg)
+![visualisation of a cached image before hashing](/images/cachedimage.jpg)
 
 It's utter nonsense, and it isn't clear how someone would hash this considering hashing appears to be reserved for strings of letters and numbers. Well my friend, in computer-land, colours are just letters and numbers. When coding the web, people tend to use hex codes and RGB values.
 
@@ -108,7 +109,7 @@ Now think about how many colours exist on your randomly generated image that was
 
 Exactly... a hash. Something short and sweet that can be stored easily on a server next to a user ID or something. Your friend Margaret also uses treerank.bark. Here's the image they secretly forced into her cache:
 
-![](/images/cachedimage2.jpg)
+![another visualisation of a cached image before hashing slighlty different hex code](/images/cachedimage2.jpg)
 
 Sort of the same... but a bit different. This of course results in an entirely different hash. Something that might be otherwise indistinguishable by the human eye is totally unique to the computer gods. You know, a bit like *fingerprints*. Hmm...
 
@@ -126,7 +127,7 @@ Great so... what is this canvas we've been talking about? Sounds like a place yo
 
 [The canvas is a HTML element](https://www.w3schools.com/html/html5_canvas.asp), so that means every website that exists has the ability to render a canvas image. I touched on how to write colours in code, so just apply that concept to other things such as text, drop shadows, gradients, and anything else you can think of for making cool graphics. Using the canvas, you could easily render an image like this:
 
-![](/images/canvas.png)
+![word art of internet tracking users without consent](/images/canvas.png)
 
 This fairly antagonistic - but secret - image, was embedded in the code necessary for buystuff.shop to run. This image is not unique to you. Every visitor of buystuff.shop gets the same canvas code as you. So how to extract uniqueness from this?
 
@@ -209,7 +210,7 @@ Not to sound cynical, but not much. The tools and features used in these sophist
 
 You could disable other things, like perhaps Javascript, but that would also mean disabling the 'cool' filter of the internet and everything would just look like this:
 
-![](/images/nofrills.png)
+![example of what internet text would look without javascript](/images/nofrills.png)
 
 Using privacy tools in tandem such as [Privacy Badger](https://www.eff.org/privacybadger) and [Ublock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) have known to be fairly effective. For instance, Privacy Badger will disable canvas rendering, but only on sites that try to render a canvas from a **third party.** In other words, it takes a smarter approach to blocking things. These tools also have manual controls that you can fine tune to your liking. Also, consider switching to more secure browsers such as Firefox or Brave.
 

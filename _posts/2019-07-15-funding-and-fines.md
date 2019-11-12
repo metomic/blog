@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Funding and fines, breaches and spies"
+description: "Marriott got fined for Starwood's data breach. Marriott should've practiced due dilligence before the acquisition"
 categories: ["Weekly Roundup"]
 author: "Georgia Iacovou"
 socialImage: /images/libra2.jpg
@@ -13,7 +14,7 @@ date:   2019-07-15 13:18:00
 
 Have you heard of the **bystander effect**? Where someone is in trouble in public, and people just stand and watch instead of helping. Apparently, that is what humans are famous for. But a [widespread study of camera footage](https://www.citylab.com/life/2019/07/bystander-effect-stranger-danger-crime-public-safety-video/593755/) shows the opposite: people are actually happy to intervene and help. See? Anyone can be a hero...
 
-![](https://media.giphy.com/media/EaMTsoYxfPpuw/giphy.gif)
+![Gif of Batman and Robin running](https://media.giphy.com/media/EaMTsoYxfPpuw/giphy.gif)
 
 ## Privacy is important, give us money
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Data Ethics: the unsexiest cult ever?"
+description: "Data privacy is difficult because third parties also handle your user data. Metomic is bring data ethics to the digital world."
 categories: "Longform"
 author: "Richard Vibert"
 author_description: 'Cofounder & CEO, Metomic'

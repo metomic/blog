@@ -2,6 +2,7 @@
 layout: post
 title:  "Someone else is in charge of your memories"
 categories: "Opinion"
+description: "The risks of storing data online is that companies can lose your data. Myspace recently lost a lot of data in migration"
 author: "Georgia Iacovou"
 socialImage: /images/cloud.jpg
 themeColor: "#F5BB5F"
@@ -18,7 +19,7 @@ Okay sure, this seems unimportant on the surface, but Myspace is a key part of i
 
 But now, because of a 'mistake' it basically could be gone. Your Myspace profile was in many ways yours - you created it, you uploaded photos, you decorated it with disgusting, laggy, animated backgrounds. So yeah, it was yours. But not entirely, because the ones 'looking after it' went and lost it. Cool, great.
 
-![](/images/cloud.jpg)
+![Image of a leaking data cloud](/images/cloud.jpg)
 
 I mean, this is a nowadays equivalent of losing all your possessions in a house fire... Except, they aren't *possessions*. It's definitely more complicated than that. Old online profiles are special. They're weird little scrap books of who you once were. Intangible relics that cannot be reproduced; impressions of your past self that exist only online.
 
@@ -32,7 +33,7 @@ What does this mean? Many accounts were suspended or removed resulting in the hu
 
 If you don't believe me, please look at this [fan blog about a cartoon you've never heard of](https://the-kittens-of-voltron.tumblr.com/post/160213684763/klangst-slave-au-prompt), full of short non-canonical prose, prompted by the blog's fans (screenshot below for convenience). The line between 'adult content' and all other content is extremely blurry, and that was extremely problematic for many users (luckily not for The Kittens Of Voltron - it's still there, thank god). But a place like Tumblr was more than just somewhere you could watch Elsa from Frozen and Spiderman have a baby*, it was a platform to people to share their work.
 
-![](/images/voltron.png)
+![Screenshot of a suspended Tumblr account](/images/voltron.png)
 
 Many Tumblr accounts were suspended without warning, making the purge feel the same as 'accidental data loss' but meaner, because it was entirely on purpose. Similarly unjust is this artist who got [banned from their own subreddit](https://twitter.com/jephjacques/status/1124005047078203392?s=21). Seems that the trade-in for having a platform on which to share your work is leaving that work to the mercy of the platform itself.
 

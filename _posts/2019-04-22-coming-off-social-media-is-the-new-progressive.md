@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Coming off social media is the new progressive"
+description: "Many brands are deleting their social media accounts as tech giants are seen as evil. Still difficult as companies rely on social media like Facebook"
 categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/lemon.png
