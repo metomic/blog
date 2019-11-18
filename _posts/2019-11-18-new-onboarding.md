@@ -21,7 +21,7 @@ Firstly, when you sign up you can tell us more about the organisation you are re
 
 Then while scanning your domain to find what cookies it sets, you can do some visual customisation on the widget. This saves a bunch of time because while you wait for the scan to complete you can change the colour, language, and position of the widget.
 
-![customise while scanning](https://www.notion.so/a43e563002214889a5f96b4326077731#96a4424f3db3424fa88940c57a0d379f)
+![customise while scanning](/images/scanning-screen.png)
 
 This gives you stronger ownership over the widget at this very early stage of onboarding; it's already in the right language, and the dominant colour of your website. The intention here is to remove any of those gross feelings of abstraction, such like "okay but what am I actually setting up here?"
 
@@ -31,7 +31,7 @@ Once the scan is done you get a list of results and categorise them into Micropo
 
 And then, waddya know, we're already at the final step. Just as before, here's where you grab the code to get the widget on your site. The one key difference is that if your site is on Wordpress, you've got a link to take you straight to our plugin page.
 
-![final screen where you instal widget](https://www.notion.so/a43e563002214889a5f96b4326077731#4f2376112e4546aba552da4abdcdc711)
+![final screen where you instal widget](/images/instalation-screen.png)
 
 Imagining this onboarding flow as a gantt chart helped us understand how to make it as smooth as possible; if your dominant website colours can be retrieved instantly, then why not surface those for customisation while the main scan runs in the background?
 
