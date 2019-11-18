@@ -50,7 +50,7 @@ category_descriptions:
 
 # Hiding a category removes it from the navbar, so posts in hidden categories still show up in "Latest" and are still accessible from permalinks
 category_hidden: [
-  # "Weekly Roundup"
+  "Weekly Roundup"
 ]
 
 # Build settings
