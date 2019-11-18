@@ -9,7 +9,6 @@ author_image: /images/rich-profile.jpg
 socialImage: /images/cryptography.png
 themeColor: "#466993"
 date:   2019-09-10 13:16:00
-
 ---
 
 Sending information over the internet is often encrypted — that means it is only readable to the **sender** and **recipient**. So when you send a message to a friend over WhatsApp, the only devices the message is visible in are your phone and your friend's phone. Asymmetric cryptography is a common method for achieving this
