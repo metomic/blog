@@ -41,7 +41,7 @@ Bloggy could, however, be dropping numerous cookies from **third-parties** [with
 
 **In other words:** if Bloggy were a **house** and you were a guest there, the owners are saying Facebook, Twitter and LinkedIn are welcome to come in and do whatever they want — including forcing you to eat some cookies. 
 
-![diagram showing how share buttons are actually just cookies](/images/share-buttons.jpg)
+![diagram showing how share buttons are actually just cookies](/images/share-buttons-bloggy.jpg)
 *How innocent share buttons on Bloggy produce cookies... with eyes*
 
 Whether or not you have an account with any of those platforms is actually irrelevant — they will put persistent cookies in your browser via Bloggy either way. Just like cookies that keep you logged in, these cookies contain unique identifiers. This is how companies build and maintain **advertising profiles.**
