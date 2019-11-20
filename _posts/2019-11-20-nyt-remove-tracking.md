@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "New York Times removes Facebook pixel"
@@ -7,8 +6,9 @@ categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/canvas.png
 themeColor: "#F5BB5F"
-date:   2019-11-20 13:19:00
+date:   2019-11-20 10:19:00
 ---
+
 ## They'd rather make money from subscriptions, instead of paying for tracking technology
 
 A bold move from the New York Times: they are going to stop using [tracking pixels](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) from Facebook and Twitter, and use their own marketing tool instead.
