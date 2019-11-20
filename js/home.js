@@ -53,3 +53,25 @@ document.getElementById('responsive-nav')
 
 filter()
 window.addEventListener('hashchange', filter, false)
+
+const toTop = document.getElementById('to-top')
+
+let showToTop = false
+
+window.onscroll = function() {
+	const scrollTop = document.documentElement.scrollTop
+
+	if (scrollTop > 140) {
+		showToTop = true
+	} else {
+		showToTop = false
+	}
+}
+
+setInterval(() => {
+	if (showToTop) {
+		toTop.setAttribute('style', "opacity: 0.8")
+	} else {
+		toTop.setAttribute('style', "opacity: 0")
+	}
+}, 50)
