@@ -24,7 +24,7 @@ Actually, this kind of advertising sounds pretty standard, and — even though i
 
 ### What this actually means for the New York times
 
-They save money that they would otherwise spend on tracking technologies — tracking users is expensive, and arguably [not that fruitful](https://www.wsj.com/articles/behavioral-ad-targeting-not-paying-off-for-publishers-study-suggests-11559167195?redirect=amp#click=https://t.co/ai1PWrLffM). 
+They save money that they would otherwise spend on tracking technologies — tracking users is expensive, and arguably [not that fruitful](https://www.wsj.com/articles/behavioral-ad-targeting-not-paying-off-for-publishers-study-suggests-11559167195?redirect=amp#click=https://t.co/ai1PWrLffM). The times even [stopped using ad exchanges for their European pages](https://digiday.com/media/gumgumtest-new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/) after the GDPR came into effect, and still made money.
 
 They will also greatly lessen their participation in [behavioural targeting](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html), a method used all over the internet to understand how people behave, so that advertisers can guess (or even change) what they might do next. This kind of digital advertising is used on a mass scale, and [many argue it takes away our autonomy](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook). 
 
