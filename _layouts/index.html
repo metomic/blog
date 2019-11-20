@@ -65,6 +65,9 @@
 				body[data-current-category="{{ name }}"] .header, body[data-current-category="{{ name }}"] .footer {
 					background: {{ color }};
 				}
+				body[data-current-category="{{ name }}"] #to-top {
+					background: {{ color }};
+				}
 				a[data-category="{{ name }}"] .hover-indicator {
 					color: {{ color }};
 				}
@@ -99,7 +102,7 @@
 			</header>
 		</div>
 
-		<nav class="category-nav">
+		<nav class="category-nav" id="top">
 			<a href="#">latest</a>
 			{% assign sortedCategories = site.categories | sort %}
 
@@ -146,7 +149,7 @@
 				</a>
 			{% endfor %}
 		</section>
-
+		<button title="to top" id="to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">⬆</button>
 		{% include footer.html %}
 		<script>
 			window.categories = {{ site.category_descriptions | jsonify }}
