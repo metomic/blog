@@ -1,0 +1,60 @@
+﻿Name,Tags,Short Description
+Big data,"AI,Industry Terms,data","Extremely large data sets — usually used for analysis and even @Machine learning "
+Data governance,"Industry Terms,data","How entities might control, or govern, data; e.g. an organisation might govern it's data by choosing to never sell it."
+Data ownership,"Industry Terms,data","The idea of owning data became popularised after the GDPR came into effect — it's a misleading idea, because no one can really 'own' data, but they can have unfettered access to it."
+Data portability,"GDPR,Industry Terms,data","The ability to move data between apps and services freely, ideally in a standardised format. E.g. take all of your data out of Spotify, and put it into another music streaming service."
+Data stewards,"Industry Terms,data",Individuals who work within some kind of @Data trust model and are responsible for ensuring the data fed into the trust is used for the right things.
+Data trust,"Industry Terms,data","An institution who's sole purpose is to store data, and make it accessible for those who want to use it. E.g. to do research, to build an app, etc."
+Personal data,data,"A term with open interpretation: usually refers to data that identifies you in some way such as your name, age, or address. @Biometrics could even fall under this"
+Biometrics,"Security,Tracking & Surveillance,data","Data captured from your physical body. E.g. finger print, iris, gait, eye movement, posture, facial expressions, your face itself."
+Encryption,Security,"The method used to keep information secure: if you're sending data over the internet, encryption ensures that only you and the recipient of the data can access it."
+Hashing,Security,Disguising a piece of data with a string of random characters — the most common way of storing passwords
+Two-factor authentication,Security,"Using two 'factors' to verify who you are, where a factor is either something you have, something you are, or something you know. E.g. you have your phone, you know your password, you are your fingerprint."
+Bluetooth beacons,Tracking & Surveillance,"Low-energy beacons that can be placed in public spaces such as museums and airports, and transmit/receive data to and from personal devices such as your phone."
+Cookies,"GDPR,Tracking & Surveillance",Small bits of information that get stored in your browser as you surf the web. Can be used for things like remembering what's in your shopping basket to tracking your browsing behaviours.
+Device fingerprinting,Tracking & Surveillance,"The act of recording device information such as hardware, operating system, browser type, and installed fonts to create a kind of 'user profile' out of data that would otherwise be anonymised."
+Facebook pixel,Tracking & Surveillance,"Facebook 'loads a pixel' onto any website that uses this, and therefore Facebook can see that you have visited any site with the Facebook pixel on it (which is many)."
+Real time bidding,Tracking & Surveillance,"Procedurally loaded ads: in the milliseconds it takes to load a webpage, @Ad networks will find adverts based on your @Advertising profile , and show them on the page."
+Targeted advertising,Tracking & Surveillance,"Using data about you, very often @Behavioural data, to show you ads for products you're most likely to want/be told that you need."
+Facial recognition,"AI,Tracking & Surveillance","The act of using your face as your identifier, like using your face to unlock your phone"
+Federated learning,AI,"A @Machine learning technique done across many devices: the algorithm learns from the local data on each device, without sharing that data between devices or to some central server"
+Machine learning,AI,The branch of AI where you teach a machine by feeding it data: e.g. a Twitter bot produces tweets that look and sound like yours by analysing your existing tweets.
+Rekognition,"AI,Tools","Amazon's controversial @Facial recognition software used in smart doorbells and police departments in the USA. Hass been used to build up a database of suspicious people. "
+Inferred data,"AI,Tracking & Surveillance,data","Data about a person that is entirely synthetic — it is information that exists based on conclusions drawn from data that already exists about a person, or people similar to that person."
+Behavioural data,"Industry Terms,Tracking & Surveillance","Data gathered based on someone's behaviours, such as where they usually go, watch stuff they like to watch on TV. This is usually used to predict behaviour and make better @Targeted advertising "
+Active consent,"GDPR,Industry Terms","The explicit act of saying yes or no to something, for instance by checking a box and clicking 'save', or simply by clicking a button that clearly says 'yes'. "
+Data controller,"GDPR,Industry Terms","The entity or organisation who actually collects, and then controls your data. E.g. if you fill in a form on Company X's website, Company X are the controller of that data."
+"Data processing ","GDPR,Industry Terms","What is done with data after it's collected — the @Data controller could store it somewhere, analyse it, or send it to any number of third-parties."
+Data subject,"GDPR,Industry Terms",
+,,
+eprivacy directive,"Industry Terms,Regulations",
+GDPR,"GDPR,Industry Terms",
+Subject access request,"GDPR,Industry Terms",
+Surveillance Capitalism,Industry Terms,"Term coined by Shoshana Zuboff, meaning the commodification of our private experiences and the data we produce. This is perpetuated by free online services: when the product is free, you are the product."
+Ad network,"Industry Terms,Tracking & Surveillance",
+Advertising profile,"Industry Terms,Tracking & Surveillance",
+CCPA,Regulations,The California Consumer Privacy Act. Goes into effect on 1st January 2020 and affords Californians new data rights that no other US citizens have.
+BIPA,Regulations,Biometric Information Privacy Act. An Illinois state law that regulates the use of @Biometrics .
+Act to Protect the Privacy of Online Consumer Information,Regulations,Maine's privacy regulation
+Nevada Senate Bill 220,Regulations,
+Jeff Bezos,People,
+Mark Zuckerberg,People,
+Peter Thiel,People,
+Shoshana Zuboff,People,
+Sundar Pichai,People,
+Tim Cook,People,
+Cambridge Analytica,Organisations,
+Crimson Hexagon,Organisations,
+EFF,Organisations,
+Palantir,Organisations,
+The IAB,Organisations,
+The ICO,Organisations,
+The ODI,Organisations,
+The Open Rights Group,Organisations,
+"The Panoptykon Society ",Organisations,Organisation set up to protect people's right to privacy
+Pirvacy badger,Tools,blah blah
+Panoptoclick,Tools,https://panopticlick.eff.org/
+Hyperface,"AI,Tools",https://ahprojects.com/hyperface/ (facial recognition obfuscation)
+Jumbo,Tools,https://www.jumboprivacy.com/
+Trackthis.link,Tools,https://trackthis.link/
+,,

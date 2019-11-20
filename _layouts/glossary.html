@@ -1,0 +1,148 @@
+<!--
+  
+                     _                         _                
+  _ __ ___     ___  | |_    ___    _ __ ___   (_)   ___         
+ | '_ ` _ \   / _ \ | __|  / _ \  | '_ ` _ \  | |  / __|        
+ | | | | | | |  __/ | |_  | (_) | | | | | | | | | | (__   _____       
+ |_| |_| |_|  \___|  \__|  \___/  |_| |_| |_| |_|  \___| |_____| 
+
+ help us fix the internet
+ https://metomic.io/careers
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="content-language" content="en">
+
+		<!-- Primary Meta Tags -->
+		<title>{{ page.title }}</title>
+		<meta name="title" content="{{ page.title }}">
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}">
+	
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+		<meta property="og:title" content="{{ page.title }}">
+		<meta property="og:description" content="{{ content | strip_html | truncatewords: 50 }}">
+		<meta property="og:image" content="{{ site.url }}{{ page.socialImage }}">
+	
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+		<meta property="twitter:title" content="{{ page.title }}">
+		<meta property="twitter:description" content="{{ content | strip_html | truncatewords: 50 }}">
+		<meta property="twitter:image" content="{{ site.url }}{{ page.socialImage }}">
+		<meta name="twitter:site" content="@metomic_">
+	
+		<!-- favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+		<meta name="msapplication-TileColor" content="#000000">
+		<meta name="theme-color" content="#000000">
+
+		<link rel="stylesheet" href="https://use.typekit.net/odr3ahh.css">
+		<link rel="stylesheet" href="/css/reset.css" />
+		<link rel="stylesheet" href="/css/styles.css" />
+
+		<!-- post specific theme -->
+		{% assign color = "#252525" %}
+		<style>
+			.header, .footer {
+				background: {{color}};
+			}
+
+			.content blockquote {
+				border-left-color: {{color}};
+				border-radius: 10px;
+			}
+
+			.pull-quote, h6, .content .code-container code {
+				color: {{color}};
+			}
+
+			a {
+				color: {{color}};
+			}
+		</style>
+
+		<!-- RSS -->
+		{% feed_meta %}
+
+		<!-- metomic consent manager -->
+		<script>
+			!(function(p,r,i,v,a,c,y){p['MetomicObject']=a;p[a]=p[a]||function(){
+			(p[a].q=p[a].q||[]).push(arguments)},p[a].l=1*new Date();c=r.createElement(i),
+			y=r.getElementsByTagName(i)[0];c.async=1;c.src=v+'?d='+r.location.host;y.parentNode.insertBefore(c,y)
+			})(window, document, 'script', 'https://consent-manager.metomic.io/embed.js', 'Metomic');
+			Metomic('load', { projectId: 'prj:7e2d5d70-af4a-43f3-9370-fa0fd3a78819' });
+			Metomic('configure', { theme: { primaryColor: '{{color}}' } });
+		</script>
+
+		<!-- analytics -->
+		<script type="text/x-metomic" data-metomic-policy="statistics" async  src="https://cdn.simpleanalytics.io/hello.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<nav class="nav">
+				<div class="wide">
+					<a href="/" class="meta">Go back</a>
+					<span class="meta">{{ page.categories[0] }}</span>
+					<span class="meta"></span>
+				</div>
+			</nav>
+			<header class="header-block">
+				<div class="grid">
+					<h1>Reference Library</h1>
+					<p class="meta read-length">A resource on data ethics and privacy, built by Metomic. Search for stuff you want to know more about, such as the GDPR or AI. Or find some interesting privacy tools and organisations.</p>
+				</div>
+			</header>
+		</div>
+		<section class="content wide">
+			<table class="glossary">
+				<thead>
+					<th>Name</th>
+					<th>Tags</th>
+					<th>Short Description</th>
+				</thead>
+				<tbody>
+					{% for entry in site.data.reference %}
+						{% assign name = entry | first %}
+						<tr>
+							<td>{{ name[1] }}</td>
+							<td>
+								<ul class="tags">
+									{% assign tags = entry.Tags | split: "," %}
+									{% for tag in tags %}
+										<li class="tag">{{ tag }}</li>
+									{% endfor %}
+								</ul>
+							</td>
+							<td>{{ entry["Short Description"] }}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+		</section>
+		<script>
+			document.querySelectorAll('.code-container').forEach((ele, i) => {
+				switch (i % 3) {
+					case 0:
+						ele.classList.add('left')
+						break;
+					case 1:
+						ele.classList.add('right')
+						break;
+					default:
+						break;
+				}
+			})
+		</script>
+		{% include footer.html %}
+	</body>
+</html>

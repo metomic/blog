@@ -494,6 +494,41 @@ em {
 	opacity: 1 !important;
 }
 
+.glossary {
+	width: 100%;
+	max-width: unset;
+	font-size: 22px;
+}
+
+.tags {
+	padding-inline-start: 0;
+	list-style: none;
+}
+
+th {
+	text-align: left;
+	font-weight: bold;
+}
+
+.glossary .tag {
+	list-style: none;
+	margin: 4px;
+	display: inline-flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	font-size: 16px;
+	padding: 6px 8px;
+	background: rgba(0, 0, 0, 0.29);
+	border-radius: 16px;
+	line-height: normal;
+	text-indent: unset;
+}
+
+.tag:before {
+	display: none;
+}
+
 @media (max-width: 960px) {
 	#to-top {
 		display: none;
