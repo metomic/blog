@@ -289,6 +289,7 @@ ul.emoji li:before {
 	max-width: 1204px;
     max-height: 560px;
 	margin: auto;
+	width: 100%;
 }
 
 .content hr {
