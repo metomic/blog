@@ -199,50 +199,6 @@ strong {
 	text-align: center;
 }
 
-.code-container.left {
-	margin-left: 0;
-	text-align: left;
-}
-.code-container.right {
-	margin-right: 0;
-	text-align: right;
-}
-
-.pull-quote.left {
-	margin-left: 0;
-	text-align: left;
-}
-
-.pull-quote.right {
-	margin-right: 0;
-	text-align: right;
-}
-
-h6:nth-of-type(1), code:nth-of-type(1) {
-	text-align: left;
-	margin-left: 0;
-}
-h6:nth-of-type(2), code:nth-of-type(2) {
-	text-align: right;
-	margin-right: 0;
-}
-h6:nth-of-type(4), code:nth-of-type(4) {
-	text-align: left;
-	margin-left: 0;
-}
-h6:nth-of-type(5), code:nth-of-type(5)  {
-	text-align: right;
-	margin-right: 0;
-}
-h6:nth-of-type(7), code:nth-of-type(7) {
-	text-align: left;
-	margin-left: 0;
-}
-h6:nth-of-type(8), code:nth-of-type(8) {
-	text-align: right;
-	margin-right: 0;
-}
-
 ul, ol {
 	list-style: none;
 	margin-top: 0;
