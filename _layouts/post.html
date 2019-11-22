@@ -50,6 +50,9 @@
 		<link rel="stylesheet" href="/css/reset.css" />
 		<link rel="stylesheet" href="/css/styles.css" />
 
+		<script src="https://unpkg.com/popper.js"></script>
+		<script src="https://unpkg.com/tooltip.js"></script>
+
 		<!-- post specific theme -->
 		{% assign category_name = page.categories[0] %}
 		{% assign color = site.category_colors[category_name] %}
@@ -111,7 +114,7 @@
 				</div>
 			</header>
 		</div>
-		<section class="content wide">
+		<section class="content wide" id="content">
 			{{ content | replace: '<p><img', '<p class="img-container"><img' | replace: '<p><code', '<p class="code-container"><code' }}
 
 			<div class="author">
@@ -121,18 +124,25 @@
 			</div>
 		</section>
 		<script>
-			document.querySelectorAll('.code-container').forEach((ele, i) => {
-				switch (i % 3) {
-					case 0:
-						ele.classList.add('left')
-						break;
-					case 1:
-						ele.classList.add('right')
-						break;
-					default:
-						break;
-				}
+			const tooltips = []
+		</script>
+		{% for entry in site.data.reference %}
+			{% assign name = entry | first %}
+			{% if name[1] %}
+				{% if content contains name[1] %}
+					<script>tooltips.push({{ entry | jsonify }})</script>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		<script>
+			const content = document.getElementById('content')
+			tooltips.forEach(tooltip => {
+				content.innerHTML = content.innerHTML.split(tooltip.Name).join(`
+					<span class="tooltip" data-tooltip="${JSON.stringify(tooltip)}">${tooltip.Name}</span>
+				`)
 			})
+		</script>
+		<script>
 		</script>
 		{% include footer.html %}
 	</body>
