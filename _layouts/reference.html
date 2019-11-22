@@ -86,6 +86,11 @@
 
 		<!-- analytics -->
 		<script type="text/x-metomic" data-metomic-policy="statistics" async  src="https://cdn.simpleanalytics.io/hello.js"></script>
+
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+
 	</head>
 	<body>
 		<div class="header">
@@ -103,8 +108,8 @@
 				</div>
 			</header>
 		</div>
-		<section class="content wide">
-			<table class="glossary">
+		<section class="wide glossary-container">
+			<table id="glossary" class="glossary">
 				<thead>
 					<th>Name</th>
 					<th>Tags</th>
@@ -113,35 +118,91 @@
 				<tbody>
 					{% for entry in site.data.reference %}
 						{% assign name = entry | first %}
-						<tr>
-							<td>{{ name[1] }}</td>
-							<td>
-								<ul class="tags">
-									{% assign tags = entry.Tags | split: "," %}
-									{% for tag in tags %}
-										<li class="tag">{{ tag }}</li>
-									{% endfor %}
-								</ul>
-							</td>
-							<td>{{ entry["Short Description"] }}</td>
-						</tr>
+						{% if name[1] %}
+							<tr>
+								<td>{{ name[1] }}</td>
+								<td>
+									<ul class="tags">
+										{% assign tags = entry.Tags | split: "," %}
+										{% for tag in tags %}
+											<li class="tag" data-tag="{{ tag }}">{{ tag }}</li>
+										{% endfor %}
+									</ul>
+								</td>
+								<td class="mtm-description">{{ entry["Short Description"] }}</td>
+							</tr>
+						{% endif %}
 					{% endfor %}
 				</tbody>
 			</table>
 		</section>
+		{% assign tags = site.data.reference | map: 'Tags' | join: ',' | join: ',' | split: ',' | uniq | where_exp: "tag", "tag != ''" | sort %}
 		<script>
-			document.querySelectorAll('.code-container').forEach((ele, i) => {
-				switch (i % 3) {
-					case 0:
-						ele.classList.add('left')
-						break;
-					case 1:
-						ele.classList.add('right')
-						break;
-					default:
-						break;
-				}
+			const hexToRgb = (hex) => {
+				const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex) || []
+				return result.map(i => parseInt(i, 16)).filter(a => !isNaN(a))
+			}
+
+			const colors = [
+				'#2ECA88',
+				'#D98759',
+				'#466993',
+				'#E0AB4A',
+				'#58466D',
+				'#57B8A6',
+				'#EB4967',
+				'#0065a9',
+				'#f65026',
+				'#447c2b',
+				'#420d42',
+				'#ea1068',
+				'#7fcdcd',
+				'#cc99a2',
+				'#420d42',
+				'#ffc428',
+				'#660066',
+				'#c3061f',
+				'#fd5a18',
+			].map(hexToRgb)
+
+			const tags = {{ tags | jsonify }}
+			tags.forEach((tag, i) => {
+				const color = colors[i % colors.length]
+				const badges = document.querySelectorAll(`.tag[data-tag="${tag}"]`)
+				badges.forEach(ele => {
+					ele.style.backgroundColor = `rgba(${color.join(',')}, 0.45)`
+				})
 			})
+		</script>
+
+		<script>
+			function linkify(text) {
+				var urlRegex =/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
+				return text.replace(urlRegex, function(url) {
+					return '<a href="' + url + '">' + url + '</a>';
+				});
+			}
+
+			document.querySelectorAll('.mtm-description')
+				.forEach(ele => {
+					ele.innerHTML = linkify(ele.innerHTML)
+				})
+		</script>
+	
+		<script>
+			$(document).ready(function () {
+				const urlParams = new URLSearchParams(window.location.search)
+				const opts = {
+					dom: 'frtlip',
+				}
+				const search = urlParams.get('search')
+				if (search) {
+					opts.search = {
+						search: search,
+					}
+				}
+				$('#glossary').DataTable(opts);
+			});
 		</script>
 		{% include footer.html %}
 	</body>
