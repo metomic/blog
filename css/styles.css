@@ -556,6 +556,33 @@ th {
 	}
 }
 
+table.dataTable thead .sorting {
+	background-image: none !important;
+}
+
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+	background-image: none !important;
+	position: relative;
+}
+
+table.dataTable thead .sorting_asc:after {
+	position: absolute;
+	right: 0;
+	top: 5px;
+	font-size: 26px;
+
+	content: '⌄';
+}
+
+table.dataTable thead .sorting_desc:after {
+	position: absolute;
+	right: 0;
+	top: 15px;
+	font-weight: bold;
+	font-size: 16px;
+	content: '⌃';
+}
 
 @media (max-width: 560px) {
 
