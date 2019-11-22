@@ -496,6 +496,8 @@ th {
 	border-radius: 16px;
 	line-height: normal;
 	text-indent: unset;
+
+	cursor: pointer;
 }
 
 .tag:before {

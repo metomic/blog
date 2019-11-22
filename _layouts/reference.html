@@ -171,6 +171,9 @@
 				const badges = document.querySelectorAll(`.tag[data-tag="${tag}"]`)
 				badges.forEach(ele => {
 					ele.style.backgroundColor = `rgba(${color.join(',')}, 0.45)`
+					ele.onclick = () => {
+						window.refDT.search(tag).draw()
+					}
 				})
 			})
 		</script>
@@ -201,7 +204,7 @@
 						search: search,
 					}
 				}
-				$('#glossary').DataTable(opts);
+				window.refDT = $('#glossary').DataTable(opts);
 			});
 		</script>
 		{% include footer.html %}
