@@ -644,3 +644,5 @@ table.dataTable thead .sorting_desc:after {
 		margin-top: 16px;
 	}
 }
+
+a[href="/reference.html"]{visibility: hidden;}
