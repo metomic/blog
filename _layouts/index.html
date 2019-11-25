@@ -11,9 +11,11 @@
 
 -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
+		<meta http-equiv="content-language" content="en">
+
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Primary Meta Tags -->
@@ -65,6 +67,9 @@
 				body[data-current-category="{{ name }}"] .header, body[data-current-category="{{ name }}"] .footer {
 					background: {{ color }};
 				}
+				body[data-current-category="{{ name }}"] #to-top {
+					background: {{ color }};
+				}
 				a[data-category="{{ name }}"] .hover-indicator {
 					color: {{ color }};
 				}
@@ -73,10 +78,11 @@
 
 		<!-- consent manager -->
 		<script>
-			!function(p,r,i,v,a,c,y){p.Metomic={apiKey:i};p[i]||(p[i]=function(){
-			(p[i].q=p[i].q||[]).push(arguments)});p[i].l=+new Date;c=r.createElement(v);
-			y=r.getElementsByTagName(v)[0];p.Metomic.script=c;c.src=a;y.parentNode.insertBefore(c,y)}
-			(window,document,'prj:7e2d5d70-af4a-43f3-9370-fa0fd3a78819','script','https://consent-manager.metomic.io/embed.js');
+			!(function(p,r,i,v,a,c,y){p['MetomicObject']=a;p[a]=p[a]||function(){
+			(p[a].q=p[a].q||[]).push(arguments)},p[a].l=1*new Date();c=r.createElement(i),
+			y=r.getElementsByTagName(i)[0];c.async=1;c.src=v+'?d='+r.location.host;y.parentNode.insertBefore(c,y)
+			})(window, document, 'script', 'https://consent-manager.metomic.io/embed.js', 'Metomic');
+			Metomic('load', { projectId: 'prj:7e2d5d70-af4a-43f3-9370-fa0fd3a78819' });
 		</script>
 
 		<!-- analytics -->
@@ -88,7 +94,7 @@
 				<div class="wide">
 					<a href="https://metomic.io" class="meta" id="back">Back to Metomic</a>
 					<span class="meta logo">{{ site.name }}</span>
-					<span class="meta"></span>
+					<a href="/reference.html" class="meta" id="back">Reference Library</a>
 				</div>
 			</nav>
 			<header class="header-block">
@@ -99,16 +105,22 @@
 			</header>
 		</div>
 
-		<nav class="category-nav">
-			<a href="#">latest</a>
+		<nav class="category-nav" id="top">
+			<a href="#" onclick="Metomic('configure', { theme: { primaryColor: '#252525' } });">latest</a>
 			{% assign sortedCategories = site.categories | sort %}
 
 			{% for category in sortedCategories %}
 				{% assign name = category[0] %}
+				{% assign color = site.category_colors[name] %}
 				{% assign desc = site.category_descriptions[name] %}
 				{% if site.category_hidden contains name %}
 				{% else %}
-					<a href="#{{name}}" data-category="{{ name }}" data-category-desc="{{ desc }}">{{ name }}</a>
+					<a 
+						href="#{{name}}" 
+						data-category="{{ name }}" 
+						data-category-desc="{{ desc }}" 
+						onclick="Metomic('configure', { theme: { primaryColor: '{{ color }}' } });"
+					>{{ name }}</a>
 				{% endif %}
 			{% endfor %}
 
@@ -146,7 +158,7 @@
 				</a>
 			{% endfor %}
 		</section>
-
+		<button title="to top" id="to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">⬆</button>
 		{% include footer.html %}
 		<script>
 			window.categories = {{ site.category_descriptions | jsonify }}
