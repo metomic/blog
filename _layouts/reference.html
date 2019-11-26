@@ -129,7 +129,7 @@
 										{% endfor %}
 									</ul>
 								</td>
-								<td class="mtm-description">{{ entry["Short Description"] }}</td>
+								<td class="mtm-description">{{ entry["Short Description"] | remove: "@" }}</td>
 							</tr>
 						{% endif %}
 					{% endfor %}
