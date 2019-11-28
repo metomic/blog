@@ -75,7 +75,7 @@ There just aren't enough people discovering and deliberating the more interestin
 We started the Metomic blog to ignite conversations like these. It's a place where we at Metomic and others talk about the hard questions surrounding data ethics and the new digital world we're heading into.
 
 ![Screenshot of Metomic blog](/images/blog.png)
-[*blog.metomic.io*](http://blog.metomic.io)
+[*metomic.io/blog*](http://metomic.io/blog)
 
 We're always welcoming guest writers, so get in touch if you have something interesting to share with the world! For notifications on new articles and other interesting stories, follow us on [twitter](https://twitter.com/Metomic_).
 

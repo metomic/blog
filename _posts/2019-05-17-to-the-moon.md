@@ -45,7 +45,7 @@ Chris Hughs mentions that he also regrets not saying anything sooner. You know, 
 
 ## Dev conferences: over. Future: predicted
 
-Before we start to lose our shit over what the Facebook 'privacy pivot' might actually look like, I think it's a good idea to remember that this pivot wouldn't be necessary if they hadn't been so terrible up until now. F8 was over a while ago, so I did cover a wee bit about it [here](https://blog.metomic.io/main/2019/05/03/take-to-the-skies.html), but let's just break it down a bit more:
+Before we start to lose our shit over what the Facebook 'privacy pivot' might actually look like, I think it's a good idea to remember that this pivot wouldn't be necessary if they hadn't been so terrible up until now. F8 was over a while ago, so I did cover a wee bit about it [here](https://metomic.io/blog/main/2019/05/03/take-to-the-skies.html), but let's just break it down a bit more:
 
 ### Facebook's F8 key points:
 

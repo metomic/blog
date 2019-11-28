@@ -25,7 +25,7 @@ If you look at [this tweet](https://twitter.com/jolyonmaugham/status/11716886836
 
 ![](/images/cookie-tweet-replies.png)
 
-People, no... cookies are just one tiny facet of the problem. Many of us will have [gov.uk](http://gov.uk) accounts already, so clearing cookies really doesn't cut it. There are many devastating brands of online surveillance such as [tracking pixels](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) and [browser fingerprinting](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html). The issue we have here is not only companies and governments exercising their power to perform **shady data practices**, but a profound lack of understanding from the general public.
+People, no... cookies are just one tiny facet of the problem. Many of us will have [gov.uk](http://gov.uk) accounts already, so clearing cookies really doesn't cut it. There are many devastating brands of online surveillance such as [tracking pixels](https://metomic.io/blog/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) and [browser fingerprinting](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html). The issue we have here is not only companies and governments exercising their power to perform **shady data practices**, but a profound lack of understanding from the general public.
 
 Watching The Great Hack on Netflix teaches you more about Brittany Kaiser than it does about nuances of data privacy issues — education around this is vitally important, because more of us need to be questioning why the government want to urgently centralise this data.
 

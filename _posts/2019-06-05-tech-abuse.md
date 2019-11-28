@@ -41,7 +41,7 @@ If you don't understand, just look again at the tweet I linked above; all the re
 
 Before we dive in, consider any time you feel like you've been 'manipulated' by technology. That is, technology controlling you instead of you controlling it. That technology was still developed by humans. Humans are experts at manipulating other humans. It's just that doing it with technology somehow feels wrong, and this is where our emotions come in. 
 
-Example: Advertisements have always manipulated us in one way or another, and at one point those were just static images in magazines. Now we have [all kinds of technology](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html) which makes adverts happen in a really fast and efficient way. Adverts still exist to achieve the same thing as they always have — they're just 'better'. And that makes us feel worse. Like Betty Draper in this recent article about [living in a panopticon](https://blog.metomic.io/main/2019/05/14/panopticon.html).
+Example: Advertisements have always manipulated us in one way or another, and at one point those were just static images in magazines. Now we have [all kinds of technology](https://metomic.io/blog/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html) which makes adverts happen in a really fast and efficient way. Adverts still exist to achieve the same thing as they always have — they're just 'better'. And that makes us feel worse. Like Betty Draper in this recent article about [living in a panopticon](https://metomic.io/blog/main/2019/05/14/panopticon.html).
 
 ![Word art technology is scary because humans have emotions](/images/emotions.png)
 
@@ -75,7 +75,7 @@ Gonna have to do a hard pass on banning drones, they’re too useful. Banning im
 
 Okay: Facebook (*exhales...* been holding that word in for a while). They could choose to NOT use all that data they have on us for gross intrusions on our personal lives, couldn't they? But they did choose that, so I guess that's them.
 
-When starting out, before he'd amassed terrifying levels of power, Mark Zuckerberg may never have had any bad intentions. But who cares because that is impossible to know, and good intentions are meaningless when they result in [this many damaging mistakes](https://blog.metomic.io/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html). 
+When starting out, before he'd amassed terrifying levels of power, Mark Zuckerberg may never have had any bad intentions. But who cares because that is impossible to know, and good intentions are meaningless when they result in [this many damaging mistakes](https://metomic.io/blog/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html). 
 
 The other issue with Facebook is that unpacking how it and Mark Zuckerberg have abused power and technology would be like trying to understand a Trump tweet. It’s just not worth it right now. Instead, I want to look at something that's starting to get used more and more, and uses different kinds of **technology** to attribute different kinds of **power** to multiple parties. And that thing is: smart homes.
 
@@ -98,7 +98,7 @@ Further to this, these companies don't need to watch actual footage of you mastu
 
 > "Details about the type of device (which can include unique device identifying numbers), its operating system, the browser you use and applications on the device that connect to our products and services. It can also include details of your internet service provider, mobile network and your IP address."
 
-That's a lot of stuff that can very easily be used to [narrow down who you are](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) and what you like doing. This helps Hive and other companies chase you around the internet with even more advertising.
+That's a lot of stuff that can very easily be used to [narrow down who you are](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) and what you like doing. This helps Hive and other companies chase you around the internet with even more advertising.
 
 Another misuse case on the part of the **makers of the technology** are in tandem with those who **use the technology.** Ring have a social network side to their app creating a sort of digitised neighbourhood watch. Ring users can share images of who they deem 'suspicious persons', and these get put onto an official [database that Amazon is building](https://www.washingtonpost.com/technology/2018/12/13/this-patent-shows-amazon-may-seek-create-database-suspicious-persons-using-facial-recognition-technology/?utm_term=.b8d4d70dc546). Then, whenever someone turns up at a Ring doorstep, the camera uses facial recognition and sees if that person matches anyone on the database. There a bunch of problems here...
 

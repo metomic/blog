@@ -13,7 +13,7 @@ date:   2019-08-14 13:16:00
 
 'Essential cookies' is not a codified term at all — it's simply about understanding, and therefore not misidentifying, what 'essential' means in this context. It's fairly simple: anything that sits outside of what is needed to deliver your services to your users is **not essential**. Once you know what is not essential, it's then really obvious what the essential stuff is. 
 
-Why is it important to know the difference between your essential and non-essential cookies? Because, GDPR. You need to ask for consent for any non-essential cookies that you set. We recently released another article explaining [how to tackle cookie consent](https://blog.metomic.io/main/2019/08/07/cookie-consent-guide.html) so give that a read if you are still (understandably) baffled by all that stuff.
+Why is it important to know the difference between your essential and non-essential cookies? Because, GDPR. You need to ask for consent for any non-essential cookies that you set. We recently released another article explaining [how to tackle cookie consent](https://metomic.io/blog/main/2019/08/07/cookie-consent-guide.html) so give that a read if you are still (understandably) baffled by all that stuff.
 
 ## TL;DR: some examples of essential and non-essential cookies
 

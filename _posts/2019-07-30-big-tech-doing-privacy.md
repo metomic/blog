@@ -28,7 +28,7 @@ So, three tech giants, three different approaches to privacy. Jump to:
 
 ## Facebook's approach
 
-What we've had so far is Zuckerberg's love-letter to privacy (the blog post announcing their privacy pivot) and F8, where new 'more private' products were showcased. It's really hard for me, and the cynical masses, to see all of this as anything but superficial, especially given [Facebook's track record](https://blog.metomic.io/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html).
+What we've had so far is Zuckerberg's love-letter to privacy (the blog post announcing their privacy pivot) and F8, where new 'more private' products were showcased. It's really hard for me, and the cynical masses, to see all of this as anything but superficial, especially given [Facebook's track record](https://metomic.io/blog/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html).
 
 `Celebrating private interactions is not the same as maintaining the privacy of your users`
 
@@ -81,7 +81,7 @@ Secondly, as we can see from the Apple Card and the Apple Watch, they want to mo
 
 ### The Apple credit card
 
-Yikes, this one is exciting, I must say. The Apple card is so sleek and cool that it's made out of metal, and the only piece of information about you on it is your name. To quote myself from [another article](https://blog.metomic.io/main/2019/03/29/this-isnt-fair-dragonflies-were-just-meant-to-be-pretty.html): what future magic is this??
+Yikes, this one is exciting, I must say. The Apple card is so sleek and cool that it's made out of metal, and the only piece of information about you on it is your name. To quote myself from [another article](https://metomic.io/blog/main/2019/03/29/this-isnt-fair-dragonflies-were-just-meant-to-be-pretty.html): what future magic is this??
 
 ![Photo of Apple Card from conference](/images/applecard.jpg)
 *The Apple card and companion app — I want one*
@@ -133,11 +133,11 @@ I used to work as a search engine evaluator for Google and what I learned from t
 
 ### Incognito for Google Maps
 
-Just like in your browser, now anything you do with a map can be totally private. In incognito, it won't remember your searches or where you've been. [As I've said before](https://blog.metomic.io/main/2019/05/17/to-the-moon.html), I'm not exactly fizzing with gratitude over this because while it was possible to restrict location tracking before, it was never this easy or comprehensive, and it really should have been. However, it is a tangible step towards more privacy.
+Just like in your browser, now anything you do with a map can be totally private. In incognito, it won't remember your searches or where you've been. [As I've said before](https://metomic.io/blog/main/2019/05/17/to-the-moon.html), I'm not exactly fizzing with gratitude over this because while it was possible to restrict location tracking before, it was never this easy or comprehensive, and it really should have been. However, it is a tangible step towards more privacy.
 
 ### Doing more with less data
 
-Google products work well because they are full of data. Google Photos 'knows' what a tree looks like because it has been trained on photos of trees that all of us have taken. Before we start shuddering with fear over machine learning, please read my recent [piece on how AI is actually great](https://blog.metomic.io/main/2019/06/05/tech-abuse.html).
+Google products work well because they are full of data. Google Photos 'knows' what a tree looks like because it has been trained on photos of trees that all of us have taken. Before we start shuddering with fear over machine learning, please read my recent [piece on how AI is actually great](https://metomic.io/blog/main/2019/06/05/tech-abuse.html).
 
 Pinchai himself has announced that they are now questioning if this is the best way, and has started talking about federated learning. 
 

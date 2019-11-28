@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mv _site _siteData
+mkdir _site
+mv _siteData _site/blog
+mv _site/blog/_redirects _site/

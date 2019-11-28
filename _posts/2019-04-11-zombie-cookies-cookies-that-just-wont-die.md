@@ -10,7 +10,7 @@ date:   2019-04-11 13:17:00
 
 ---
 
-You may already know a decent amount about what cookies are [because of this other article](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html) that we wrote. If you haven't read it yet and don't have time, there are two simple facts about cookies that you should know:
+You may already know a decent amount about what cookies are [because of this other article](https://metomic.io/blog/main/2019/04/09/help-i-dont-know-what-cookies-are.html) that we wrote. If you haven't read it yet and don't have time, there are two simple facts about cookies that you should know:
 
 - First simple fact: cookies track your browsing habits so that companies can serve you targeted ads and sell you things
 - Second simple fact: you can delete them if you want

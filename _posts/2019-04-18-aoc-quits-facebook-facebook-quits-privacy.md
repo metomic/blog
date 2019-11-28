@@ -14,7 +14,7 @@ date:   2019-04-18 13:18:00
 
 The other day, Alexandria Ocasio-Cortez [decided to quit Facebook](http://www.calnewport.com/blog/2019/04/17/aoc-quit-facebook-the-media-bungled-the-story/). You may ask, "why is this any different to any other person who decides to stop using Facebook?" Duh, because she's a *politician*. And as non-politicians, we are meant to keep detailed notes on everything the politicians do. 
 
-The reason I linked the above blog post specifically is because it notes that the media assumed AOC's reasons for doing this were about data privacy. As much as I consider the media to be terrible, it was fair for them to assume that. [Facebook have done nothing to convince us](https://blog.metomic.io/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html) that they are looking after our data. That, coupled with their terrifying power and influence has made this whole 'data privacy thing' (a basic right) into a politicised issue (fun game for powerful adults).
+The reason I linked the above blog post specifically is because it notes that the media assumed AOC's reasons for doing this were about data privacy. As much as I consider the media to be terrible, it was fair for them to assume that. [Facebook have done nothing to convince us](https://metomic.io/blog/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html) that they are looking after our data. That, coupled with their terrifying power and influence has made this whole 'data privacy thing' (a basic right) into a politicised issue (fun game for powerful adults).
 
 AOC quit Facebook because she just doesn't like it - it's actually nothing to do with politics this time. Except it is, and it always will be as long as Facebook have this much power.
 

@@ -27,16 +27,16 @@ Cookies are not a recent thing by any means, and they were not invented to annoy
 
 🍪 Cookies are quite literally part of the foundational fabric that makes websites function correctly: they are the very thing that you need to make a shopping basket 'remember' what you've put in it, for instance.
 
-🍪 A pair of binoculars can be used to do some wholesome bird-watching. The same pair of binoculars can also be used to spy on your neighbours. Cookies have a similar energy — [just like other tech](https://blog.metomic.io/main/2019/06/05/tech-abuse.html), they can be used as amazing and devastating brands of online surveillance. This is what has brought forth [aggressive tracking techniques](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) in the name of [targeted advertising](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html).
+🍪 A pair of binoculars can be used to do some wholesome bird-watching. The same pair of binoculars can also be used to spy on your neighbours. Cookies have a similar energy — [just like other tech](https://metomic.io/blog/main/2019/06/05/tech-abuse.html), they can be used as amazing and devastating brands of online surveillance. This is what has brought forth [aggressive tracking techniques](https://metomic.io/blog/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) in the name of [targeted advertising](https://metomic.io/blog/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html).
 
-What GDPR has done for cookies is both give them a bad name, and make them worse. The GDPR is very long, but the interpretation that publishers have jumped all over is the bit that says you need to get consent for [non-essential cookies](https://blog.metomic.io/main/2019/08/14/essential-cookies.html). **I'll cover how we've misunderstood 'consent' below,** so put that bit aside for now. 
+What GDPR has done for cookies is both give them a bad name, and make them worse. The GDPR is very long, but the interpretation that publishers have jumped all over is the bit that says you need to get consent for [non-essential cookies](https://metomic.io/blog/main/2019/08/14/essential-cookies.html). **I'll cover how we've misunderstood 'consent' below,** so put that bit aside for now. 
 
 The consequences relating to cookies are the unsightly cookie banners that both mess up your user experience, and **don't even work**. At the moment, a cookie banner will ask you whether or not you accept cookies, but the site you're visiting would have already dropped them — that means **other companies** (third-parties) have an insight on your browsing without you even knowing about it.
 
 So what we have now is a strange and distracting **consumer fear of cookies.** This series of misconceptions has led to these problems:
 
 - Companies can continue to use cookie banners that do not work, to signal that they are doing something about this whole 'cookie problem'
-- A  blanket, unintelligent blocking of cookies leading to the rise of [many other tracking technologies](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) that replicate what cookies do, and can't really be blocked.
+- A  blanket, unintelligent blocking of cookies leading to the rise of [many other tracking technologies](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) that replicate what cookies do, and can't really be blocked.
 - A very damaging distraction from all the other problems, such as...
 
 ## 2. You do not need explicit consent for most things
@@ -65,7 +65,7 @@ Things that **do not** count as explicit consent are:
 
 ![](/images/forbes.png)
 
-**Mistake #5 is not taking into account the chain of third-parties:** the most unfortunate thing about this mistake is that there is no clear way to avoid it right now. [As I explained here](https://blog.metomic.io/main/2019/08/22/nested-cookies.html) there is no straightforward way of managing consent for the third-parties of third-parties (otherwise known as... fourth-parties 😳)
+**Mistake #5 is not taking into account the chain of third-parties:** the most unfortunate thing about this mistake is that there is no clear way to avoid it right now. [As I explained here](https://metomic.io/blog/main/2019/08/22/nested-cookies.html) there is no straightforward way of managing consent for the third-parties of third-parties (otherwise known as... fourth-parties 😳)
 
 E.g. if you use Intercom on your site you need to ask your users if they are okay with that. However, Intercom use Google Analytics. So **Intercom** need to also need to ask **your users** if they are okay with that. How do they do that inside a tiny chat widget?
 
@@ -85,9 +85,9 @@ So full GDPR compliance is a tough thing to achieve — mostly because it will b
 
 ## 4. Your users own their data
 
-['Owning' data is not a thing](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html) — users produce data by using products and services. Those products and services then use the data in a number of ways. So how can the data really **belong** to anyone? 
+['Owning' data is not a thing](https://metomic.io/blog/main/2019/04/16/your-data-does-not-exist.html) — users produce data by using products and services. Those products and services then use the data in a number of ways. So how can the data really **belong** to anyone? 
 
-**Nobody owns data**; but different people have [different levels of access to data](https://blog.metomic.io/main/2019/04/24/open-data.html), sometimes regardless of who produced it. Having access to a lot of data gives you a lot of power.
+**Nobody owns data**; but different people have [different levels of access to data](https://metomic.io/blog/main/2019/04/24/open-data.html), sometimes regardless of who produced it. Having access to a lot of data gives you a lot of power.
 
 **You create data for Facebook all the time** — they have full access to that data, and that of every other Facebook user. They use this to generate quite a lot of ad revenue, and to amass more power and influence. All through data that **they did not produce.**
 

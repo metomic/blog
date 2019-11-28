@@ -93,7 +93,7 @@ For example, imagine ASOS asking you your sexual orientation before checking out
 
 Duh, because we **gave it to them.** It's really quite simple; every time you use Facebook or Twitter or ANYTHING you, sort of, 'implicitly agree' that they can share the data you generate with whoever they want, and as a result our society is under constant surveillance which means- 
 
-Oh yeah wait it's actually **devastatingly and unnecessarily complex**. What a world. The large collections of behavioural data out there are fed in a number of ways - cookies are one big way. I won't go into detail about that here, because there are [other articles](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html) that cover it.
+Oh yeah wait it's actually **devastatingly and unnecessarily complex**. What a world. The large collections of behavioural data out there are fed in a number of ways - cookies are one big way. I won't go into detail about that here, because there are [other articles](https://metomic.io/blog/main/2019/04/09/help-i-dont-know-what-cookies-are.html) that cover it.
 
 ## Behavioural data is a valuable resource.
 
@@ -172,4 +172,4 @@ Cool idea. If data wasn't constantly being used to sell us more crap, maybe we'd
 
 What if we lived in a world where data was a bit more open and accessible? What would that look like? What if we lived in a world where all of this data was in one central place and we could get to it whenever we wanted?
 
-Great questions, great questions. These are questions asked by everyone who wants to read [part 2 of this article](https://blog.metomic.io/main/2019/04/24/open-data-never-mind-ownership-what-about-access.html), where April slips into an alternate universe and we explore these ideas.
+Great questions, great questions. These are questions asked by everyone who wants to read [part 2 of this article](https://metomic.io/blog/main/2019/04/24/open-data-never-mind-ownership-what-about-access.html), where April slips into an alternate universe and we explore these ideas.

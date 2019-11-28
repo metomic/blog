@@ -10,7 +10,7 @@ date:   2019-09-19 13:18:00
 ---
 ## At the moment the majority of publishers and content creators need to make their money from collecting user data
 
-It turns out it doesn't have to be that way. [Grant for the Web](https://www.grantfortheweb.org/) is a fat $100M fund to boost and promote alternative monetisation standards. The models we have right now rely very heavily on [behavioural advertising](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html), which eats away at two things:
+It turns out it doesn't have to be that way. [Grant for the Web](https://www.grantfortheweb.org/) is a fat $100M fund to boost and promote alternative monetisation standards. The models we have right now rely very heavily on [behavioural advertising](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html), which eats away at two things:
 
 1. The privacy of everyone who uses the internet
 2. A key part of what the internet once was: a place to interact, and make things.

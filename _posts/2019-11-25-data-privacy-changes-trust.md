@@ -35,4 +35,4 @@ Browsing the web nowadays feels like a constant fight to make cookie banners and
 
 The aggressive employment of cookie banners have taught us to trust less: seeing one every time you want to read an article about why millennials can't afford houses is just an annoying reminder that we don't really know what's going on.
 
-And this is exactly why, when Buzzfeed tell me that they "value my privacy", I simply do not believe them. Knowledge of all the big data scandals, and the creepy reality of [targeted behavioural advertising](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html) does not go away because a private company is asking me to trust them via their yucky cookie banner. You don't ask for trust... **you earn it.**
+And this is exactly why, when Buzzfeed tell me that they "value my privacy", I simply do not believe them. Knowledge of all the big data scandals, and the creepy reality of [targeted behavioural advertising](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html) does not go away because a private company is asking me to trust them via their yucky cookie banner. You don't ask for trust... **you earn it.**

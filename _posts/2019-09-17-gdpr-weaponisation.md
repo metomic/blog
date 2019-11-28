@@ -15,7 +15,7 @@ Yes, as if GDPR was not hard enough, we have a few bad actors out there making i
 
 ## Subject access requests: how they went from  'what's one of them?' to 'how can I use them to irritate you?'
 
-A subject access request (SAR) is where you contact an organisation who may have data about you, and ask to see it, delete it, change it, or any other number of things which I go into more detail about in [this other article](https://blog.metomic.io/main/2019/09/05/data-privacy-misconceptions.html). Essentially, a SAR is a way for you to exercise your data rights.
+A subject access request (SAR) is where you contact an organisation who may have data about you, and ask to see it, delete it, change it, or any other number of things which I go into more detail about in [this other article](https://metomic.io/blog/main/2019/09/05/data-privacy-misconceptions.html). Essentially, a SAR is a way for you to exercise your data rights.
 
 **The two main issues with SARs right now are** that they have a terrible, non-descriptive name that the average user may not understand. The other issue is that many organisations, even this long after the GDPR was put in place, are not equipped to handle them. And it's via this latter issue through which they are being weaponised.
 
@@ -40,7 +40,7 @@ The ideas that Tap and Rightly are selling are about seeing **who** has **what**
 
 💭 **Is making a bunch of SARs even useful?** Does the average consumer even care about this? Most of the information you 'get back' from an organisation could be stuff you already knew (because it's about you) or stuff that is totally useless. It's possible that other makers may find this data interesting to play around with and use to build things but these services are certainly not aimed at engineers.
 
-🧩 **In facilitating SARs, is there some stuff they could be missing?** Individual control is great, and making sure people are aware of their data rights is a good idea. But these methods do not foster trust, which is what we need if we want to really start thinking about things like  [data portability](https://blog.metomic.io/main/2019/09/05/facebook-white-paper.html) and [open data platforms](https://blog.metomic.io/main/2019/05/21/what-is-a-data-trust.html).
+🧩 **In facilitating SARs, is there some stuff they could be missing?** Individual control is great, and making sure people are aware of their data rights is a good idea. But these methods do not foster trust, which is what we need if we want to really start thinking about things like  [data portability](https://metomic.io/blog/main/2019/09/05/facebook-white-paper.html) and [open data platforms](https://metomic.io/blog/main/2019/05/21/what-is-a-data-trust.html).
 
 **The takeaway:** organisations should be more prepared to respond to SARs, but is flooding them with SARs the right way around this?
 
@@ -61,7 +61,7 @@ Datacoup are right, and data regulations such as the GDPR have really brought th
 
 Saying we should 'earn more than a free service' only crystallises user data as a financial product — the data we produce has so much more value to it than just money (one value is to make the 'free' services better). 
 
-Datacoup's model solves one problem — it helps you get more value out of your data — but if this trend caught on, it would inadvertently make it harder to explore more solutions that make data a [collective source of value for everyone](https://blog.metomic.io/main/2019/05/21/what-is-a-data-trust.html).
+Datacoup's model solves one problem — it helps you get more value out of your data — but if this trend caught on, it would inadvertently make it harder to explore more solutions that make data a [collective source of value for everyone](https://metomic.io/blog/main/2019/05/21/what-is-a-data-trust.html).
 
 ## So even the GDPR itself can be abused
 

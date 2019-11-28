@@ -17,7 +17,7 @@ Navigating the world of cookie consent is super hard. We've come across common m
 
 We hear this a lot. However, cookie banners do not guarantee compliance — no one solution does. A banner must block non-essential cookies until users give active and informed consent.
 
-✅ **You need active consent** from your users regarding any cookies that are not [essential](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) for your site to run. The EU Court of Justice recently ruled that a [pre-checked box does not count as active consent](https://blog.metomic.io/main/2019/10/01/eu-cookie-consent-ruling.html). You must provide a way for the user to **actively opt-in** — instead of leaving them to dig around to find a way of opting out. 
+✅ **You need active consent** from your users regarding any cookies that are not [essential](https://metomic.io/blog/main/2019/08/14/essential-cookies.html) for your site to run. The EU Court of Justice recently ruled that a [pre-checked box does not count as active consent](https://metomic.io/blog/main/2019/10/01/eu-cookie-consent-ruling.html). You must provide a way for the user to **actively opt-in** — instead of leaving them to dig around to find a way of opting out. 
 
 ![buzzfeeds cookie preferences](/images/buzzfeed-banner.png)
 *This banner has a lot of pre-checked providers here, and it took a while to even find this list to uncheck them.*
@@ -34,7 +34,7 @@ This is why at Metomic, we've grouped cookies by type and third-party — a user
 
 ## My small business only uses essential cookies so I don’t need a banner
 
-You don't need active consent for [essential cookies](https://blog.metomic.io/main/2019/08/14/essential-cookies.html). But whether it's a banner or widget, you need to *inform* your users that these cookies are getting set. Transparency is key.
+You don't need active consent for [essential cookies](https://metomic.io/blog/main/2019/08/14/essential-cookies.html). But whether it's a banner or widget, you need to *inform* your users that these cookies are getting set. Transparency is key.
 
 For example, you may set cookies to keep your users logged in. You don't need consent for these because they are essential for your site — having to log in every time you visit a new page makes the site seem broken.
 
@@ -43,7 +43,7 @@ For example, you may set cookies to keep your users logged in. You don't need co
 ![screenshot of TrackerTracker by Metomic](/images/pretend-site-trackertracker.png)
 *[TrackerTracker](https://trackertracker.io/) results from our [example website](https://georgia.thebestsh.it/) which uses only seven third-party providers to help the site function, yet drops over 30 non-essential cookies.*
 
-We've built a public tool, [TrackerTracker](https://trackertracker.io/), which reveals what cookies are dropped as a site loads. If you're unsure of what your site might be dropping, run it through TrackerTracker — you may be surprised by what you find. As we've learned, [social sharing buttons, maps, and embedded videos all drop cookies that require consent](https://blog.metomic.io/main/2019/09/25/unlawful-website.html).
+We've built a public tool, [TrackerTracker](https://trackertracker.io/), which reveals what cookies are dropped as a site loads. If you're unsure of what your site might be dropping, run it through TrackerTracker — you may be surprised by what you find. As we've learned, [social sharing buttons, maps, and embedded videos all drop cookies that require consent](https://metomic.io/blog/main/2019/09/25/unlawful-website.html).
 
 ## Getting consent for dropping cookies is a one-off thing
 
@@ -55,7 +55,7 @@ Make it easy for users to change their minds with whatever cookie solution your 
 
 ## User data is only accessed by my business and my third-parties.
 
-You cannot assume that only you and your providers have access to your user's data. [Third-parties can have their own third-party providers](https://blog.metomic.io/main/2019/08/22/nested-cookies.html) — and you can't control this since you don't dictate what third-parties your providers use.
+You cannot assume that only you and your providers have access to your user's data. [Third-parties can have their own third-party providers](https://metomic.io/blog/main/2019/08/22/nested-cookies.html) — and you can't control this since you don't dictate what third-parties your providers use.
 
 ![metomic widget on metomic website](/images/consent-manager-example.png)
 *This is our cookie widget on the [Metomic homepage](http://metomic.io) — we use Intercom, but they too may have their own third-parties.*

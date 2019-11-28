@@ -51,9 +51,9 @@ Getting all these providers on my site was incredibly easy — and it should be.
 
 ## Sites like this already exist everywhere
 
-Which is why the EU Court of Justice [ruling in July](https://blog.metomic.io/main/2019/07/31/share-buttons-illegal.html) came as a bit of a shock to publishers world-wide. This ruling focused on the social media sharing buttons that you find on millions of websites — if you use these, you are responsible for the data that those social media sites may collect.
+Which is why the EU Court of Justice [ruling in July](https://metomic.io/blog/main/2019/07/31/share-buttons-illegal.html) came as a bit of a shock to publishers world-wide. This ruling focused on the social media sharing buttons that you find on millions of websites — if you use these, you are responsible for the data that those social media sites may collect.
 
-This of course is already part of GDPR: as the owner of a site, [you are responsible](https://blog.metomic.io/main/2019/08/07/cookie-consent-guide.html) for getting consent for any data that is collected by third-parties. So that means, any site with social sharing buttons (which is... a lot of sites) have to explicitly ask, "is it okay if I send your data to Facebook, Twitter, and LinkedIn?"
+This of course is already part of GDPR: as the owner of a site, [you are responsible](https://metomic.io/blog/main/2019/08/07/cookie-consent-guide.html) for getting consent for any data that is collected by third-parties. So that means, any site with social sharing buttons (which is... a lot of sites) have to explicitly ask, "is it okay if I send your data to Facebook, Twitter, and LinkedIn?"
 
 ![screenshot of social media share buttons on Tech Crunch](/images/share-buttons.png)
 *The social media buttons found on every Tech Crunch article*
@@ -71,7 +71,7 @@ So all you need to do is *visit* my site for all seven of those providers to kno
 ![diagram of how a blog site makes requests to social media sites](/images/share-buttons-bloggy.jpg)
 *"Oh yes please come in, stay as long as you like; make long distance phone calls; eat all my food. Whatever, it's fine"*
 
-☝️ **The issue here is not that this is unlawful or in breach of certain regulations,** it's that this eats away at a fair and transparent internet: receiving this many tracking cookies just by casually browsing the internet only perpetuates unmanageable problems that we are just ignoring, such as [behavioural advertising](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html).
+☝️ **The issue here is not that this is unlawful or in breach of certain regulations,** it's that this eats away at a fair and transparent internet: receiving this many tracking cookies just by casually browsing the internet only perpetuates unmanageable problems that we are just ignoring, such as [behavioural advertising](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html).
 
 ## Sites like this are not malicious — they are the norm
 
@@ -79,7 +79,7 @@ There is nothing wrong with a site or organisation that uses third-parties to ad
 
 Setting up my site was way too easy — all I did was copy and paste a few bits of code into a HTML file and boom: I've welcomed seven or more bad actors into my house; and I don't have any control over what they do.
 
-A few weeks ago I wrote a piece about how your third-parties have [their own third-parties](https://blog.metomic.io/main/2019/08/22/nested-cookies.html). This makes sense — if I made a chat widget, I'd want some analytics on how people are interacting with it. But the question is, as a website publisher, how do you even control this?
+A few weeks ago I wrote a piece about how your third-parties have [their own third-parties](https://metomic.io/blog/main/2019/08/22/nested-cookies.html). This makes sense — if I made a chat widget, I'd want some analytics on how people are interacting with it. But the question is, as a website publisher, how do you even control this?
 
 ![screenshot of the Metomic dashboard showing what cookies are contained within my site](/images/pretend-site-scan.png)
 *Jeez Giphy give it a rest... is all this stuff worth the Power Rangers gif?*

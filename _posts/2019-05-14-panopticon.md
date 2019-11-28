@@ -70,7 +70,7 @@ We actually did a Twitter poll about this recently and it turned out that those 
 
 ![A Twitter poll showing that majority find targeted ads creepy](/images/twitterpoll.jpg)
 
-Perhaps it's the very idea that an abstract, virtual, cluster of networks somehow knows that one of your closest friends has a birthday coming up and really likes Batman doesn't sit well. Also, your [behavioural and personal data](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html) being processed and compared with other similar data manifesting as a shockingly accurate targeted ad can make you feel like you've been tricked, in a way.
+Perhaps it's the very idea that an abstract, virtual, cluster of networks somehow knows that one of your closest friends has a birthday coming up and really likes Batman doesn't sit well. Also, your [behavioural and personal data](https://metomic.io/blog/main/2019/04/16/your-data-does-not-exist.html) being processed and compared with other similar data manifesting as a shockingly accurate targeted ad can make you feel like you've been tricked, in a way.
 
 So what I'm saying here is that the need to 'be private' is purely an emotional reaction to something that we cannot control. I'm already resigned to the fact that there are faceless, powerful, entities that know a lot about me and what I might do next. I do not feel intruded on anymore — I'm just mad that they are constantly profiting off of it and, thanks to a blinding level of opaqueness, there's no clear way to stop it.
 

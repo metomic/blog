@@ -18,7 +18,7 @@ The only way that this would work would be if you made yourself known both insid
 
 ## Trusting a product
 
-A couple of months back I wrote a piece outlining [how humans have harnessed the power of technology](https://blog.metomic.io/main/2019/06/05/tech-abuse.html), and subsequently abused that power. In it I talk about self-driving cars: the technology for fully automated vehicles already exists. But our trust in them does not. 
+A couple of months back I wrote a piece outlining [how humans have harnessed the power of technology](https://metomic.io/blog/main/2019/06/05/tech-abuse.html), and subsequently abused that power. In it I talk about self-driving cars: the technology for fully automated vehicles already exists. But our trust in them does not. 
 
 So despite the fact that humans crash into each other all the time, we put less trust in vehicles that are literally designed to do the opposite. This is where trust overlaps with a fear of the unknown. If you don't know whether something will work because you've never seen it before, it's very hard to trust it. And that is exactly why trust needs to be earned.
 

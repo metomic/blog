@@ -14,7 +14,7 @@ Everyday you browse the web and (theoretically) manage consent relating to how y
 
 But first, it's important to get one thing straight: 'anonymous' in the digital sphere does not necessarily mean the same thing as what it means in the real world. Sure, your username has no relation to your real name but powers of the internet don't care about that. What they do care about is stuff like your device ID, what browser you're using, your IP, your location, and more stuff like that.
 
-This information does not technically identify you, but when used together (which it routinely is) it's enough to stray away from what we have, until now, considered true anonymity. [There are lots of ways](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) 'anonymous' information can be used to paint a sort of abstract picture of who you are online. So when reading this article, please remember that digital anonymity is not the same as IRL anonymity.
+This information does not technically identify you, but when used together (which it routinely is) it's enough to stray away from what we have, until now, considered true anonymity. [There are lots of ways](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) 'anonymous' information can be used to paint a sort of abstract picture of who you are online. So when reading this article, please remember that digital anonymity is not the same as IRL anonymity.
 
 ## Anonymous consent
 
@@ -22,7 +22,7 @@ Okay, so you are a user of the internet — you use social media, you watch funn
 
 From the point of view of newsagent.io, what they've seen is that a user (without knowing who it is) has set their cookie preferences now. What they need to do is somehow remember that so they don't ask you again next time you visit. They do this by either...
 
-🍪 **Dropping a cookie.** Oh yes, the irony. But the fact is storing a cookie in your browser is how they remember that **that browser** does not want any marketing cookies from them. This would count as an [essential cookie](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) and therefore no consent is required. Otherwise we'd just be getting into a stupid consent loop.
+🍪 **Dropping a cookie.** Oh yes, the irony. But the fact is storing a cookie in your browser is how they remember that **that browser** does not want any marketing cookies from them. This would count as an [essential cookie](https://metomic.io/blog/main/2019/08/14/essential-cookies.html) and therefore no consent is required. Otherwise we'd just be getting into a stupid consent loop.
 
 OR
 
