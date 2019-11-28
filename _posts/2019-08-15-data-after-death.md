@@ -27,7 +27,7 @@ Physical possessions are so easy to handle. Not only can you pick them up, but y
 
 Note: For the purpose of this article I will not talk much about [medical data](https://www.nhs.uk/common-health-questions/nhs-services-and-treatments/can-i-access-the-medical-records-health-records-of-someone-who-has-died/) and [financial data](https://www.moneyadviceservice.org.uk/en/articles/what-to-do-when-someone-dies#notify-insurers-and-creditors) — the protocol around these kinds of data is fairly well established, the only more recent differences would be that a lot of it is digitised.
 
-👩‍💻 **Behavioural data:** what you produce simply by being a living, clicking human on the internet. This is what companies use to serve you [targeted ads](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html); it's exactly the kind of data that nowadays get's [compared to a resource](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html) more valuable than oil. Oil will run out one day. Data will not. We are producing it all the time by buying things, searching for things, making voice commands, getting married, walking to the shops — almost anything. 
+👩‍💻 **Behavioural data:** what you produce simply by being a living, clicking human on the internet. This is what companies use to serve you [targeted ads](https://metomic.io/blog/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html); it's exactly the kind of data that nowadays get's [compared to a resource](https://metomic.io/blog/main/2019/04/16/your-data-does-not-exist.html) more valuable than oil. Oil will run out one day. Data will not. We are producing it all the time by buying things, searching for things, making voice commands, getting married, walking to the shops — almost anything. 
 
 🎬 **Music, movies and other media:** these are probably as close to physical possessions that we're going to get. What I'm referring to here are actual media files sitting on a local machine. E.g. music that you bought and downloaded (because I guess it was 2005). This was never really yours to begin with — you simply had the license to listen to it. Those rights die with you. If a loved one accesses such media after you die it's technically piracy 🤦🏻‍♀️
 
@@ -39,7 +39,7 @@ Note: For the purpose of this article I will not talk much about [medical data](
 
 🌮 **Miscellaneous online accounts:** Spotify, Deliveroo, Amazon, Netflix. Apps and services that require subscription or regular payments. The kinds of things that no one but you would have any use for. If you're dead, your loved ones will probably want to just delete these accounts. But how do they do that if you're the only one who can access them?
 
-The first question that comes to mind is this: now that you're dead, who owns all of 👆 this? The answer to this question helps us understand something very important about this kind of data: even when you were alive, no one ([including you](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html)) every really owned it. But only certain people had **[access to it](https://blog.metomic.io/main/2019/04/24/open-data.html)**. And that is what has changed. 
+The first question that comes to mind is this: now that you're dead, who owns all of 👆 this? The answer to this question helps us understand something very important about this kind of data: even when you were alive, no one ([including you](https://metomic.io/blog/main/2019/04/16/your-data-does-not-exist.html)) every really owned it. But only certain people had **[access to it](https://metomic.io/blog/main/2019/04/24/open-data.html)**. And that is what has changed. 
 
 ## ⚰️ Facebook's graveyard
 
@@ -107,7 +107,7 @@ In other words: Instagram can do whatever they want with your intellectual prope
 
 `Not only do Instagram govern your memories, but the way in which you are remembered. You could be one botched server migration project away from being entirely forgotten.`
 
-Ultimately you have very little control over the data you produce for Instagram and indeed for any other platform. Sure, you've gone, but your Instagram profile is still there. As long as Instagram want it on their servers. Not only do they [govern your memories](https://blog.metomic.io/main/2019/05/08/someone-else-is-in-charge-of-your-memories.html), but the way in which you are remembered. You could be one  botched server migration project away from being entirely forgotten.
+Ultimately you have very little control over the data you produce for Instagram and indeed for any other platform. Sure, you've gone, but your Instagram profile is still there. As long as Instagram want it on their servers. Not only do they [govern your memories](https://metomic.io/blog/main/2019/05/08/someone-else-is-in-charge-of-your-memories.html), but the way in which you are remembered. You could be one  botched server migration project away from being entirely forgotten.
 
 What's more, the law doesn't really recognise social accounts as having any tangible value, even if they do make you money. So if you're a famous Youtuber there isn't much you can leave behind. However, there's so much more that can be done with your data...
 
@@ -146,7 +146,7 @@ Haha yes of course, that's life. And also... death? Consider this: the data you 
 
 `The data you produce online puts you into a demographic — or advertising profile —  that you cannot escape. Even if you die.`
 
-As an alive person, you're online behaviours are carefully woven into the fabric of your web experience (either that or clumsily sprayed out everywhere like a child with a water gun), and in turn you are targeted with ads. This is why, sometimes, Facebook ads (and others), seem to [just know what you want](https://www.nytimes.com/interactive/2019/04/30/opinion/privacy-targeted-advertising.html) and who you are. There are [many ways to surveil your browsing](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html), and stuff you (and every other internet user) into very specific and granular categories.
+As an alive person, you're online behaviours are carefully woven into the fabric of your web experience (either that or clumsily sprayed out everywhere like a child with a water gun), and in turn you are targeted with ads. This is why, sometimes, Facebook ads (and others), seem to [just know what you want](https://www.nytimes.com/interactive/2019/04/30/opinion/privacy-targeted-advertising.html) and who you are. There are [many ways to surveil your browsing](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html), and stuff you (and every other internet user) into very specific and granular categories.
 
 As a dead person, all that data about you that you produce while you were alive does not simply disappear from the internet. So what happens to it? Nothing. It's still there and it still helps companies rake in ad revenue, which begs the question: do you have to be alive to be served a targeted ad?
 
@@ -155,7 +155,7 @@ As a dead person, all that data about you that you produce while you were alive 
 
 I'm now imagining my inbox slowly fill up with spam from every company and service I've ever interacted with, meekly saying to no one, "we haven't heard from you in a while". Lol, it's because I'm dead — finally, an effective way to escape marketing emails. 
 
-Okay but, what about the overlap? The data you and I and everyone else have ever produced all overlap each other. You don't receive targeted ads for dog food because you like dogs; you receive those ads because enough people similar to you also like dogs. You may never have to explicitly tell the internet that you like dogs: that data can simply be inferred. [As I've said before](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html), behavioural data is just a computery guessing game.
+Okay but, what about the overlap? The data you and I and everyone else have ever produced all overlap each other. You don't receive targeted ads for dog food because you like dogs; you receive those ads because enough people similar to you also like dogs. You may never have to explicitly tell the internet that you like dogs: that data can simply be inferred. [As I've said before](https://metomic.io/blog/main/2019/04/16/your-data-does-not-exist.html), behavioural data is just a computery guessing game.
 
 `After you die you may not get served ads anymore, but the living certainly will, and it will be based on your data.`
 

@@ -17,9 +17,9 @@ name: Incognito
 title: Incognito
 email: incognito@metomic.io
 description: Demystifying data ethics, privacy, and technology
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.metomic.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://metomic.io" # the base hostname & protocol for your site, e.g. http://example.com
+include: [_redirects]
 permalink: /main/:year/:month/:day/:title:output_ext
 
 defaults:

@@ -22,7 +22,7 @@ This is where users first visit your site, or sign up to your web app and start 
 😬**The challenges this stage presents:** many organisations fall down right at the beginning — they fail to get proper consent from users when it comes to collecting data. How is this?
 
 - Many cookie banners/notices simply do not work: whatever cookies they are asking you to accept haven't even been blocked.
-- A common misunderstanding of what [essential cookies](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) are; they are the ones you need to deliver your service to your customers. If you don't get consent for these, you will be [sending data to third-parties](https://blog.metomic.io/main/2019/11/12/third-party-risks.html) without your users even knowing about it.
+- A common misunderstanding of what [essential cookies](https://metomic.io/blog/main/2019/08/14/essential-cookies.html) are; they are the ones you need to deliver your service to your customers. If you don't get consent for these, you will be [sending data to third-parties](https://metomic.io/blog/main/2019/11/12/third-party-risks.html) without your users even knowing about it.
 - There are multiple entry points for user data — not just the first time a user visits your homepage, or signs up to your service. Data enters the cyber-sphere (technical term) in many different places, yet the current standard is to ask for consent on this all at once (inside an ugly, intrusive cookie banner).
 
 🤠**Solutions for Entry:** at Metomic, we cannot stress this enough... 
@@ -46,7 +46,7 @@ Asking a user to predict exactly how they will interact with your site or web ap
 
 📹Ways to manage the entry of data **when it's actually needed.** This means you only ask your users if they are okay with 'Youtube cookies' when they press the play button — so they give consent as and when is necessary.
 
-✋Auto-detection of entry points — We are building tools that will automatically detect and block things various entry points that may exist on your site. Deceptively negligible things such as social media sharing buttons will passively collect user data via your site; this [actually goes against regulation](https://blog.metomic.io/main/2019/07/31/share-buttons-illegal.html), which is why we are building tools to manage this.
+✋Auto-detection of entry points — We are building tools that will automatically detect and block things various entry points that may exist on your site. Deceptively negligible things such as social media sharing buttons will passively collect user data via your site; this [actually goes against regulation](https://metomic.io/blog/main/2019/07/31/share-buttons-illegal.html), which is why we are building tools to manage this.
 
 So controlling your entry points is important — in many cases, you could be a user-data gateway to third-parties. You can't control what third-parties do with data, but you *can* control what data you collect.
 

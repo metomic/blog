@@ -20,7 +20,7 @@ But why? During this time, it was revealed that Mark Zuckerberg was having [off-
 
 ## There is a tension we are not seeing...
 
-Even if you delete all Facebook-owned apps in the name of data privacy, it won't matter — non-Facebook users [get tracked by Facebook all the time](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html). This is why they are such a successful ad network.
+Even if you delete all Facebook-owned apps in the name of data privacy, it won't matter — non-Facebook users [get tracked by Facebook all the time](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html). This is why they are such a successful ad network.
 
 Furthermore, free services like Facebook are useful and attractive; people enjoy using them which is part of why such platforms are so popular — this is why people choose *not* to delete Facebook. 
 
@@ -37,7 +37,7 @@ There also appears to be no viable alternatives. If everyone starts deleting Fac
 
 ## But seriously, what would happen if everyone deleted Facebook tomorrow?
 
-Before we dig into this, it's important to remember that Facebook did (and still do) position themselves as having solutions to problems that don't exist. We weren't living like soulless peasants [before Facebook came along](https://blog.metomic.io/main/2019/04/30/downgrade-ux.html) — you just had a Myspace page instead. Or even better... Geocities 😍.
+Before we dig into this, it's important to remember that Facebook did (and still do) position themselves as having solutions to problems that don't exist. We weren't living like soulless peasants [before Facebook came along](https://metomic.io/blog/main/2019/04/30/downgrade-ux.html) — you just had a Myspace page instead. Or even better... Geocities 😍.
 
 We don't have trouble building communities without Facebook either. Is [Github](https://github.com/) not a community? [Reddit](https://www.reddit.com/)? [Discord](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjm48KbqLLlAhXjQkEAHZNCCh0QFjAAegQIBhAC&url=https%3A%2F%2Fdiscordapp.com%2F&usg=AOvVaw2mEPm0IN1VJOrjVGlu_Eqi)? Even Wikipedia counts as social media.
 
@@ -47,7 +47,7 @@ What makes Facebook and it's products useful or powerful is data — and this is
 
 Not an instant collapse of everything Zuckerberg has built, but more likely a slow, corrosive death while they scramble to get anything done without all that fresh user data. But wait, do they even need more user data? Not necessarily, if you bare these two things in mind:
 
-☝️ **THING ONE:** Big tech companies are powerful and influential, and [hard to get rid of](https://blog.metomic.io/main/2019/10/17/break-up-big-tech.html): Facebook don't need you to be a user of Facebook to keep the lights on, they can just acquire more companies to expand their knowledge and resources.
+☝️ **THING ONE:** Big tech companies are powerful and influential, and [hard to get rid of](https://metomic.io/blog/main/2019/10/17/break-up-big-tech.html): Facebook don't need you to be a user of Facebook to keep the lights on, they can just acquire more companies to expand their knowledge and resources.
 
 ✌️ **THING TWO:** With enough computational power, gathering new data is not necessary — you just need a lot of it already (which Facebook has), which you can use to infer more. E.g. if they've already had their eyes on your for nearly a decade, they have all they need to predict your behaviour in the future.
 

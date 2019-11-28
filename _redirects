@@ -1,0 +1,10 @@
+# Redirect blog.metomic.io
+https://blog.metomic.io/ https://metomic.io/blog 301!
+https://blog.metomic.io/* https://metomic.io/blog/:splat 301!
+
+# No /blog/, only /blog
+https://metomic.io/blog/ https://metomic.io/blog 301!
+https://metomic.io/blog https://metomic.io/blog/ 200!
+
+# Custom 404s
+https://metomic.io/blog/* https://metomic.io/blog/404.html 404

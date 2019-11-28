@@ -78,7 +78,7 @@ Getting more people online is most certainly a good thing, but the players drivi
 
 The cables and satellites I've talked about here are mostly **privately owned.** That means if they wanted to, the owners can block or prioritise traffic. E.g. connecting to the internet via Google would make all Google services fast and free, and everything else unavailable unless you pay. 
 
-This already happens on a smaller scale; service providers such as [VOXI](https://www.voxi.co.uk/) will give you an unlimited data allowance, as long as you're using it for social media. While on the surface this is a good deal, all it does is pump more data into big tech, [who already hoard it](https://blog.metomic.io/main/2019/05/09/black-holes.html) to support their own interests. If the 'free internet' only consists of Facebook, Amazon, and Google, where does that leave everyone else?
+This already happens on a smaller scale; service providers such as [VOXI](https://www.voxi.co.uk/) will give you an unlimited data allowance, as long as you're using it for social media. While on the surface this is a good deal, all it does is pump more data into big tech, [who already hoard it](https://metomic.io/blog/main/2019/05/09/black-holes.html) to support their own interests. If the 'free internet' only consists of Facebook, Amazon, and Google, where does that leave everyone else?
 
 It limits power and choice for the user, and it makes innovation more of a challenge for smaller companies. In other words, it becomes a data governance issue.
 

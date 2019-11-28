@@ -30,7 +30,7 @@ And that is why this ruling is so important. Never mind that it's taken this lon
 
 Note that there are two very important things that have not been scrutinised enough yet in this news story:
 
-1. Having a like or share button is only the tip of the iceberg; perhaps you've not heard of the **[Facebook Pixel](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html)** which does the same thing, except there are no buttons, and no visible impressions of Facebook at at all. This has been happening for years.
+1. Having a like or share button is only the tip of the iceberg; perhaps you've not heard of the **[Facebook Pixel](https://metomic.io/blog/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html)** which does the same thing, except there are no buttons, and no visible impressions of Facebook at at all. This has been happening for years.
 2. Next to the Facebook like or share button is a bunch of other buttons belonging to other social media platforms. They should not be ignored. Facebook is not the only one doing this. As Facebook counsel Jack Gilbert put it himself, "Website plugins are common and important features of the modern internet."
 
 This is exactly why the internet needs a clean up — what Facebook and sites that use these buttons must do here is either demonstrate that these embeds are lawful under [legitimate interests](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), or actually allow users the chance to give their consent to their data being processed in this way.

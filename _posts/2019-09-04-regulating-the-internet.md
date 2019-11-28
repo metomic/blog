@@ -11,7 +11,7 @@ date:   2019-09-04 13:17:00
 
 ## What do I even mean by 'regulation'?
 
-First of all, let's get one thing straight: the internet is amazing. If you've forgotten why it's amazing, simply read this very comprehensive [love letter](https://blog.metomic.io/main/2019/04/08/a-love-letter.html) and you will once again understand the infinite, wondrous treasure-trove that is our internet. 
+First of all, let's get one thing straight: the internet is amazing. If you've forgotten why it's amazing, simply read this very comprehensive [love letter](https://metomic.io/blog/main/2019/04/08/a-love-letter.html) and you will once again understand the infinite, wondrous treasure-trove that is our internet. 
 
 But, through decades of growth and abuse, many bad actors have developed some gross standards, resulting in dark design patterns and questionable practices. So, should we be regulating it, and what does it mean to even do that? Regulation comes in all shapes and sizes — good, bad, silly, pointless, etc. To name a few:
 
@@ -38,7 +38,7 @@ In the real world, you can find communities, and technically say and do what you
 ![a diagram showing that the real world and the internet are the same](/images/internet-vs-real-world.jpg)
 *A Venn diagram with full overlap...*
 
-Sure, Alex Jones may be gross but the internet can still be excellent — don't make me get that love letter out again. Where else would a you be able to engage a community of people in an [energetic discussion](https://twitter.com/innesmck/status/1067132497266450433?s=20) about imperial measurements? Nowhere, you need the internet for that.  So is this a failing of the internet, or a failing of how [we humans are choosing to use it](https://blog.metomic.io/main/2019/06/05/tech-abuse.html)?
+Sure, Alex Jones may be gross but the internet can still be excellent — don't make me get that love letter out again. Where else would a you be able to engage a community of people in an [energetic discussion](https://twitter.com/innesmck/status/1067132497266450433?s=20) about imperial measurements? Nowhere, you need the internet for that.  So is this a failing of the internet, or a failing of how [we humans are choosing to use it](https://metomic.io/blog/main/2019/06/05/tech-abuse.html)?
 
 This how and why the Sri Lankan government somehow missed the point when they effectively 'turned off' social media during the [church bombings](https://www.nytimes.com/2019/04/21/world/asia/sri-lanka-social-media.html?action=click&module=Top%20Stories&pgtype=Homepage) earlier this year. This was in the name of ensuring no more violence occurred. A slightly mindless blanket approach because if people want to do more violence, they will find a way without social media. What's more, the block left victims unable to contact their loved ones.
 
@@ -57,21 +57,21 @@ Regulating what the users of the internet say online is one thing, but what abou
 
 Free online products exist → people use them, and produce data for those products → makers of the products use that data however they see fit: to improve the product; to make money from ads; to predict what the average consumer will do before they even know themselves 🤔. Now *that* is something that sounds like it needs regulating.
 
-Good news: the R in GDPR stands for regulation, so let's start there. To be compliant, an organisation now needs to get [explicit permission for collecting user data](https://blog.metomic.io/main/2019/08/07/cookie-consent-guide.html). This is exactly why cookie banners now exist (I know, yuck). However what this regulation has inadvertently done is focus our attentions on just one area that needs fixing (cookies) , and caused some unfortunate repercussions:
+Good news: the R in GDPR stands for regulation, so let's start there. To be compliant, an organisation now needs to get [explicit permission for collecting user data](https://metomic.io/blog/main/2019/08/07/cookie-consent-guide.html). This is exactly why cookie banners now exist (I know, yuck). However what this regulation has inadvertently done is focus our attentions on just one area that needs fixing (cookies) , and caused some unfortunate repercussions:
 
-1. Cookie banners that [ruin user experience](https://blog.metomic.io/main/2019/04/30/downgrade-ux.html), and don't even work anyway, coupled with a wilful misinterpretation of what it means to ask for consent.
-2. A blanket, unintelligent blocking of cookies leading to the rise of [many other tracking technologies](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) that cookie banners don't even account for
+1. Cookie banners that [ruin user experience](https://metomic.io/blog/main/2019/04/30/downgrade-ux.html), and don't even work anyway, coupled with a wilful misinterpretation of what it means to ask for consent.
+2. A blanket, unintelligent blocking of cookies leading to the rise of [many other tracking technologies](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) that cookie banners don't even account for
 3. A profound mis-categorisation of cookies themselves: some are entirely necessary for websites to function, others are a fantastic brand of 21st century surveillance.
 
 However, there are other repercussions too...
 
 ### GDPR definitely started a trend
 
-The FTC recently [fined Facebook $5bn](https://www.consumer.ftc.gov/blog/2019/07/what-ftc-facebook-settlement-means-consumers) as means of telling them off. The FTC are an enforcement authority, flexing their enforcement muscles, but does this count as regulation? If the purpose of this fine was to stop Facebook from being so [irresponsible with consumer data](https://blog.metomic.io/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html), it most likely will not work — Facebook's gargantuan level of revenue means that the only lesson they will learn from this fine is simply to [budget for fines](https://www.theverge.com/interface/2019/4/25/18515128/facebook-ftc-fine-meaningless). Which they did.
+The FTC recently [fined Facebook $5bn](https://www.consumer.ftc.gov/blog/2019/07/what-ftc-facebook-settlement-means-consumers) as means of telling them off. The FTC are an enforcement authority, flexing their enforcement muscles, but does this count as regulation? If the purpose of this fine was to stop Facebook from being so [irresponsible with consumer data](https://metomic.io/blog/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html), it most likely will not work — Facebook's gargantuan level of revenue means that the only lesson they will learn from this fine is simply to [budget for fines](https://www.theverge.com/interface/2019/4/25/18515128/facebook-ftc-fine-meaningless). Which they did.
 
 `Facebook's gargantuan level of revenue means that the only lesson they will learn from this multi-billion dollar fine is simply to budget for fines`
 
-**Here's a thought**: if big social media's answer to someone like Alex Jones is a blanket ban from all platforms, then why don't we just ban the data-hoarding sites and services from the internet? If only it were that easy. Big tech has [amassed an unprecedented amount of power](https://blog.metomic.io/main/2019/05/09/black-holes.html) — so much that even they can't manage it. 
+**Here's a thought**: if big social media's answer to someone like Alex Jones is a blanket ban from all platforms, then why don't we just ban the data-hoarding sites and services from the internet? If only it were that easy. Big tech has [amassed an unprecedented amount of power](https://metomic.io/blog/main/2019/05/09/black-holes.html) — so much that even they can't manage it. 
 
 That's how things like Cambridge Analytica happen, and that's why the Sri Lankan government chose to put a temporary block on social media during the church bombings. The former is a result of the staggering influence of unregulated data processing, and the latter is a result of fear of an great and unknown power.
 
@@ -79,7 +79,7 @@ Now that the GDPR is in place, it has started a very important conversation, and
 
 ### Is the General Data Protection Regulation... too general?
 
-Ah yes yes the GDPR is great and everything but is it a bit too much G for its own good? It's possible there is a lack of nuance in this particular regulation. The GDPR does not, for instance, account for the [complex network of third-parties](https://blog.metomic.io/main/2019/08/22/nested-cookies.html) that connects many businesses. Cookies for third-parties require consent, but how do you manage consent for the third-parties of the third-parties (so... fourth-parties)? You just have to [find a way](https://blog.metomic.io/main/2019/08/22/nested-cookies.html).
+Ah yes yes the GDPR is great and everything but is it a bit too much G for its own good? It's possible there is a lack of nuance in this particular regulation. The GDPR does not, for instance, account for the [complex network of third-parties](https://metomic.io/blog/main/2019/08/22/nested-cookies.html) that connects many businesses. Cookies for third-parties require consent, but how do you manage consent for the third-parties of the third-parties (so... fourth-parties)? You just have to [find a way](https://metomic.io/blog/main/2019/08/22/nested-cookies.html).
 
 **Next question**: does a regulation really do any regulating if it's not enforced? At the moment,  an organisation can coast through the internet without complying to GDPR, and just hope that they don't [get fined](http://www.enforcementtracker.com/). Here's a list of all organisations that are fully GDPR compliant:
 
@@ -89,11 +89,11 @@ That isn't a placeholder for content — fully compliant organisations simply do
 
 ### Regulating data is regulating power
 
-What we're seeing here is that data = power. Data keeps big tech churning, and all we do is [continually produce it](https://blog.metomic.io/main/2019/04/16/your-data-does-not-exist.html) for them. So how do we expect they will ever stop growing? Recently there has been talk about breaking up big tech. Law makers have [vague ideas to do so](https://www.theverge.com/2019/3/8/18256032/elizabeth-warren-antitrust-google-amazon-facebook-break-up), and the co-founder of Facebook even wrote [this piece](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) on it.
+What we're seeing here is that data = power. Data keeps big tech churning, and all we do is [continually produce it](https://metomic.io/blog/main/2019/04/16/your-data-does-not-exist.html) for them. So how do we expect they will ever stop growing? Recently there has been talk about breaking up big tech. Law makers have [vague ideas to do so](https://www.theverge.com/2019/3/8/18256032/elizabeth-warren-antitrust-google-amazon-facebook-break-up), and the co-founder of Facebook even wrote [this piece](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) on it.
 
 `Data keeps big tech churning, and all we do is continually produce it for them. So how do we expect they will ever stop growing?` 
 
-[As I've said before](https://blog.metomic.io/main/2019/05/21/what-is-a-data-trust.html), we currently operate on a model where big tech companies milk consumers like data cows and only leave us with enough milk for one cup of tea a year. The value that they extract via the abuse of consumer data is so great that, yes, of course they can afford to pay the billion dollar fines designed to punish them for that very abuse.
+[As I've said before](https://metomic.io/blog/main/2019/05/21/what-is-a-data-trust.html), we currently operate on a model where big tech companies milk consumers like data cows and only leave us with enough milk for one cup of tea a year. The value that they extract via the abuse of consumer data is so great that, yes, of course they can afford to pay the billion dollar fines designed to punish them for that very abuse.
 
 **A worthy, but unlikely, solution:** make data more **portable.** This means, data you produce for one service can be transferred very easily to another. So for instance, you could use Spotify for five years but then want to switch over to another streaming service. Spotify have collected a lot of data about you over the years to help them figure out what music you like. Having the ability to move that data to another service gives you a lot more control and choice.
 
@@ -156,7 +156,7 @@ Before you sign up to VOXI and celebrate this free internet revolution, ask your
 
 ❌ Increasing access to the internet via only a select few apps only compounds the the problem of continually and dangerously feeding big tech with our data.
 
-❌ Further to that, Facebook Free Basics means that **Facebook is the internet service provider** for the communities that use it. This completely removes the need for embedding the sneaky [Facebook Pixel](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) into every website because Facebook already have a god-mode first-hand view of your browsing.
+❌ Further to that, Facebook Free Basics means that **Facebook is the internet service provider** for the communities that use it. This completely removes the need for embedding the sneaky [Facebook Pixel](https://metomic.io/blog/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) into every website because Facebook already have a god-mode first-hand view of your browsing.
 
 ❌ If only **certain bits** of the internet are free, and you cannot afford to pay... does that not mean that someone else is controlling what you can see? Is that not kind of like... *regulation*?
 
@@ -169,7 +169,7 @@ Free Basics has already been adopted in several countries, extending the reach o
 > India were already colonised once — they aren't going to go through that again
 *[Anosh Malik](https://twitter.com/KingNoosh?s=17), Metomic developer*
 
-Facebook aren't the only ones bringing the internet to communities that would otherwise go without. Other big tech companies are [investing heavily in connectivity](https://blog.metomic.io/main/2019/08/13/stratospheric-internet.html): by 2020 Google will privately own three subsea fibre-optic cables. Google also provide internet via a network of low-orbit satellites called [Loon](https://loon.com/). [Amazon](https://www.independent.co.uk/life-style/gadgets-and-tech/news/amazon-broadband-service-project-kuiper-jeff-bezos-elon-musk-a8857351.html) and [SpaceX](https://www.theverge.com/2018/2/15/17016208/spacex-falcon-9-launch-starlink-microsat-2a-2b-paz-watch-live) have similar plans to beam internet from space.
+Facebook aren't the only ones bringing the internet to communities that would otherwise go without. Other big tech companies are [investing heavily in connectivity](https://metomic.io/blog/main/2019/08/13/stratospheric-internet.html): by 2020 Google will privately own three subsea fibre-optic cables. Google also provide internet via a network of low-orbit satellites called [Loon](https://loon.com/). [Amazon](https://www.independent.co.uk/life-style/gadgets-and-tech/news/amazon-broadband-service-project-kuiper-jeff-bezos-elon-musk-a8857351.html) and [SpaceX](https://www.theverge.com/2018/2/15/17016208/spacex-falcon-9-launch-starlink-microsat-2a-2b-paz-watch-live) have similar plans to beam internet from space.
 
 ![meme about dog wanting a stick throw but it's the internet instead](/images/big-three-only.jpg)
 
@@ -177,9 +177,9 @@ So, if big tech company's like Facebook, Amazon, or Google can:
 
 📣 **Control what we say** through content moderation on their extremely popular social media platforms
 
-🌊 **Control what happens to the data we produce** by using them, and in turn control what we buy, where we go, and how we [present ourselves to the world](https://blog.metomic.io/main/2019/05/14/panopticon.html)
+🌊 **Control what happens to the data we produce** by using them, and in turn control what we buy, where we go, and how we [present ourselves to the world](https://metomic.io/blog/main/2019/05/14/panopticon.html)
 
-🔎 **Control what we see** by becoming the ISP through models such as Free Basics, or even building infrastructure, such as [privately owned low-orbit satellites and subsea cables](https://blog.metomic.io/main/2019/08/13/stratospheric-internet.html)
+🔎 **Control what we see** by becoming the ISP through models such as Free Basics, or even building infrastructure, such as [privately owned low-orbit satellites and subsea cables](https://metomic.io/blog/main/2019/08/13/stratospheric-internet.html)
 
 Then why are we asking if we should regulate the internet? These above three points are exactly what I used at the very beginning of the article to explain what internet regulation is. It looks like **the internet is already regulated.**
 

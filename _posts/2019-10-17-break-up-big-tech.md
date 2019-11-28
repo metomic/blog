@@ -44,7 +44,7 @@ Let's have a look at what those costs mean...
 
 Facebook is an ad network first and a social media platform second. They provide free social media platforms for people to use, and these platforms are designed to learn everything about you. Their paid services — advertising — are extremely effective purely because of the free, social media side.
 
-This of course goes beyond just peddling [behavioural ads](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html); their global reach has the power to inform our opinions. [This video](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html) of Nancy Pelosi (the most powerful democrat in the USA) is edited to make her look drunk — if you already weren't a fan of her, seeing this obviously wouldn't help. If you weren't sure about her, you probably are now. She does not come off well.
+This of course goes beyond just peddling [behavioural ads](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html); their global reach has the power to inform our opinions. [This video](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html) of Nancy Pelosi (the most powerful democrat in the USA) is edited to make her look drunk — if you already weren't a fan of her, seeing this obviously wouldn't help. If you weren't sure about her, you probably are now. She does not come off well.
 
 ![Screenshot of fake Nancy Pelosi video](/images/pelosi-fake.png)
 *The technology used to make this video was nothing sophisticated — just a matter of slowing down the audio while maintaining pitch.*
@@ -99,9 +99,9 @@ This knowledge, of course, makes all their products better — especially things
 
 ⛏ **Some ideas on how to break Google up:** cut Youtube loose, and even other products that are far removed from search engine things, like Google Drive (and Docs and Sheets etc).
 
-Google are also a perfect example of why we need tighter regulations on advertising technologies; destructive advertising methods such as [real-time bidding](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html) are intrusive, and currently not GDPR compliant by any measure. Real-time bidding is an online advertising methodology, which broadcasts intimate personal details such as religious beliefs to hundreds of advertisers at once, in the time it takes to load a page.
+Google are also a perfect example of why we need tighter regulations on advertising technologies; destructive advertising methods such as [real-time bidding](https://metomic.io/blog/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html) are intrusive, and currently not GDPR compliant by any measure. Real-time bidding is an online advertising methodology, which broadcasts intimate personal details such as religious beliefs to hundreds of advertisers at once, in the time it takes to load a page.
 
-Ad networks like Google perpetuate these methods, because the regulations out there are not being enforced heavily enough. Recently, Google were even found to be employing [complex work-arounds](https://blog.metomic.io/main/2019/09/05/google-gdpr-workaround.html) to current regulations.
+Ad networks like Google perpetuate these methods, because the regulations out there are not being enforced heavily enough. Recently, Google were even found to be employing [complex work-arounds](https://metomic.io/blog/main/2019/09/05/google-gdpr-workaround.html) to current regulations.
 
 😬 **Arguments against breaking up Google** are that Youtube simply wouldn't be as good — if Youtube operate without all the knowledge that Google have, your feed of recommendations probably won't make sense.
 
@@ -122,11 +122,11 @@ So Amazon are making money from all sides, here: by dominating the cloud, and by
 
 ⛏ **Breaking up Amazon** would likely consist of them dropping AWS — a very unlikely eventuality. The cost to the consumer here is even less obvious: they provide affordable products and help ideas get off the ground with their free AWS credits.
 
-Amazon's tactics have secured their place in the big four, and if you're one of the big four, the kinds of products you produce have almost no limitations. Like Google and Facebook, Amazon are planning to establish new [internet connectivity infrastructure](https://blog.metomic.io/main/2019/08/13/stratospheric-internet.html) — which will allow them to dominate a whole new space. 
+Amazon's tactics have secured their place in the big four, and if you're one of the big four, the kinds of products you produce have almost no limitations. Like Google and Facebook, Amazon are planning to establish new [internet connectivity infrastructure](https://metomic.io/blog/main/2019/08/13/stratospheric-internet.html) — which will allow them to dominate a whole new space. 
 
 `If you're one of the big four, the kinds of products you produce have almost no limitations`
 
-Further to this, with Amazon's money and resources, they are able to invest in technologies such as facial recognition and sell this to both consumers and police departments, creating alarming [private surveillance networks](https://blog.metomic.io/main/2019/09/27/rekognition-regulation.html).
+Further to this, with Amazon's money and resources, they are able to invest in technologies such as facial recognition and sell this to both consumers and police departments, creating alarming [private surveillance networks](https://metomic.io/blog/main/2019/09/27/rekognition-regulation.html).
 
 So in Amazon's case, the cost to the consumer manifests not as a sheer lack of choice (people like to choose Amazon) but a lack of transparency and control. Ring operates under the guise of enhanced security, but is actually a massive threat to privacy.
 
@@ -134,7 +134,7 @@ So in Amazon's case, the cost to the consumer manifests not as a sheer lack of c
 
 ## Apple
 
-Apple are an interesting player here, because their business does not rely on data, but on hardware. That's given them an opportunity to [seriously set themselves apart](https://blog.metomic.io/main/2019/07/30/big-tech-doing-privacy.html) when it comes to consumer privacy.
+Apple are an interesting player here, because their business does not rely on data, but on hardware. That's given them an opportunity to [seriously set themselves apart](https://metomic.io/blog/main/2019/07/30/big-tech-doing-privacy.html) when it comes to consumer privacy.
 
 Apple don't need breaking up, so much as some kind of regulation imposed on their app store. At the moment, Apple themselves set the rules of what makes a 'good' app, while creating their own apps themselves. This is like trying playing the game and being the referee at once — it makes no sense.
 

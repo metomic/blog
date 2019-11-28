@@ -30,9 +30,9 @@ That's the basics out of the way; now for a closer look...
 
 It's possible that the ePrivacy Regulation is taking so long to implement because the cookie rules are so wildy different to what we have at the moment; websites would have to radically change the ways in which they manage their cookies.
 
-Under GDPR, you have to get active, informed consent from your users if you are dropping cookies that are not directly related to dealing with your users' requests: in other words, [non-essential cookies](https://blog.metomic.io/main/2019/08/14/essential-cookies.html). 
+Under GDPR, you have to get active, informed consent from your users if you are dropping cookies that are not directly related to dealing with your users' requests: in other words, [non-essential cookies](https://metomic.io/blog/main/2019/08/14/essential-cookies.html). 
 
-This is a big ask, if you consider how a lot of websites [rely on third-parties](https://blog.metomic.io/main/2019/11/12/third-party-risks.html), and how managing what cookies they drop can be a [huge challenge](https://blog.metomic.io/main/2019/08/22/nested-cookies.html). 
+This is a big ask, if you consider how a lot of websites [rely on third-parties](https://metomic.io/blog/main/2019/11/12/third-party-risks.html), and how managing what cookies they drop can be a [huge challenge](https://metomic.io/blog/main/2019/08/22/nested-cookies.html). 
 
 The ePrivacy Regulation bridges this awkward gap by stipulating that things like cookie banners are actually not necessary to gather consent. The regulation states that methods for gathering consent should be as transparent and user-friendly as possible, advocating a system in which users can easily manage privacy settings in their browser.
 
@@ -46,7 +46,7 @@ This regulation has a lot of emphasis on keeping communication data secret, and 
 - **The metadata of such messages**, which is all the peripheral data relating to messages, not the message content itself. E.g. time stamps, how many people in a group chat, etc. This data is anonymous, but big tech companies have the resources to get a lot of insight from it.
 - **Communications between IoT devices**, which are communications that no human controls directly (because they are automated, or programmed to communicate in some way). E.g. your Amazon Echo 'speaking' to your smart kettle. There are also other, non-consumer based implications; the IoT network is vast and complex.
 
-🔮 **What this *could* mean for the future of the internet:** for one, Facebook would need to get a move on with their end-to-end encryption for Messenger. It also means that metadata would no longer be used together with other data to make inferences about users — it would close down a key channel of data for Big Tech, and potentially see the beginning of the end of persistent and systematic [ad profiling.](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html)
+🔮 **What this *could* mean for the future of the internet:** for one, Facebook would need to get a move on with their end-to-end encryption for Messenger. It also means that metadata would no longer be used together with other data to make inferences about users — it would close down a key channel of data for Big Tech, and potentially see the beginning of the end of persistent and systematic [ad profiling.](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html)
 
 ## Rules on spam
 
@@ -54,7 +54,7 @@ The broad-stroke version of this rule is: no unsolicited marketing communication
 
 **Unsolicited** means without consent. So marketing communications are simply not allowed, unless a user has consented to them. There is no exception for this. 
 
-☝️ Key point: this removes the ability to hide behind [legitimate interests](https://blog.metomic.io/main/2019/08/02/legitimate-interests.html), which is listed in the GDPR as an exception for when consent is needed. E.g. you don't need explicit consent to process credit card information if a user has given you that data to process a payment, because it is in their **legitimate interest** that this data is used.
+☝️ Key point: this removes the ability to hide behind [legitimate interests](https://metomic.io/blog/main/2019/08/02/legitimate-interests.html), which is listed in the GDPR as an exception for when consent is needed. E.g. you don't need explicit consent to process credit card information if a user has given you that data to process a payment, because it is in their **legitimate interest** that this data is used.
 
 '**Marketing communications of any kind'** is not clearly scoped yet: we know it includes things like emails, where the email is from someone you've never bought anything from. If you're an existing customer, emails are okay 👌. They are also still not sure whether online ads are included in this. Seems like a very serious thing to omit, but it's possible they're having trouble with how to implement the 'getting consent' part.
 

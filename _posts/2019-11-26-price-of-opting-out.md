@@ -11,7 +11,7 @@ date:   2019-11-26 13:16:00
 
 ## Is the cost of refusal greater than the cost of participation?
 
-Here's something we must understand about free platforms such as Facebook: it is an ad network, designed to take in as much information about humans as possible, so it can thrive on a bed of [behavioural data](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html) — in a lot of ways, this is a threat to our autonomy, because free platforms like this essentially profit from our private experiences.
+Here's something we must understand about free platforms such as Facebook: it is an ad network, designed to take in as much information about humans as possible, so it can thrive on a bed of [behavioural data](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html) — in a lot of ways, this is a threat to our autonomy, because free platforms like this essentially profit from our private experiences.
 
 **Here's the problem:** Facebook is useful to a lot of people. So is Google. So is Amazon. But, is all the tracking and surveillance worth what they give us in return, even though many of these platforms don't cost money to engage with? Is it worth it if you *have* to use one of these platforms to perform certain tasks?
 
@@ -23,7 +23,7 @@ So in this case, no Facebook = no football games for you. If your aim is to get 
 
 The choice between Facebook & Football VS no Facebook & no Football is relatively low stakes. What if I told you that if you refused to have your behaviour tracked and monitored on a day-to-day basis, the central heating in your house would be shut off?
 
-[The centralisation of power to big tech](https://blog.metomic.io/main/2019/10/17/break-up-big-tech.html) could make something like that very possible — Google acquired Nest (smart thermostats) in 2014, and have just [acquired Fitbit](https://blog.metomic.io/main/2019/11/04/google-fitbit.html). Amazon own [Ring](https://blog.metomic.io/main/2019/09/11/amazon-ring-security.html), the facial recognition doorbells. Facebook are about to [launch a cryptocurrency](https://blog.metomic.io/main/2019/10/16/libra.html), or, as they put it, a way to 'bank the unbanked'. These large companies are trying to seep into every aspect of our lives.
+[The centralisation of power to big tech](https://metomic.io/blog/main/2019/10/17/break-up-big-tech.html) could make something like that very possible — Google acquired Nest (smart thermostats) in 2014, and have just [acquired Fitbit](https://metomic.io/blog/main/2019/11/04/google-fitbit.html). Amazon own [Ring](https://metomic.io/blog/main/2019/09/11/amazon-ring-security.html), the facial recognition doorbells. Facebook are about to [launch a cryptocurrency](https://metomic.io/blog/main/2019/10/16/libra.html), or, as they put it, a way to 'bank the unbanked'. These large companies are trying to seep into every aspect of our lives.
 
 Where is the value here? Do free platforms not do more to devalue our data if they are hoarding it, forcing us to begrudgingly rely on their services because 'that's what everyone else is using'. That's right: you can't connect with people on a social network if you're the only one using it.
 
@@ -65,7 +65,7 @@ Harry doesn't care about anyone watching him while he walks around a park, becau
 
 By the time we get to iteration three of this little in-office poll, you realise that what at first seemed like a threat to your privacy, has transformed into a complete lack of freedom. Sure, you have everything you need, but you sort of have no choice. 
 
-When writing about [regulating the internet](https://blog.metomic.io/main/2019/09/04/regulating-the-internet.html), I had previously made the argument that we as a community are happy to reap the benefits of free platforms because we are not aware of the extent of surveillance that makes these platforms possible. 
+When writing about [regulating the internet](https://metomic.io/blog/main/2019/09/04/regulating-the-internet.html), I had previously made the argument that we as a community are happy to reap the benefits of free platforms because we are not aware of the extent of surveillance that makes these platforms possible. 
 
 The Metomic workforce is not necessarily a good representation of all internet users world-wide (maybe one day?), but it was interesting to see that a lot of us were so willing to have their behaviours tracked. 
 

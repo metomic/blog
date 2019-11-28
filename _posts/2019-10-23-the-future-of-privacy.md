@@ -18,9 +18,9 @@ The solution is to use **a visual microphone**. That's when you record video wit
 
 So, as a secret agent, you could record a conversation from the gentle vibrations of a half empty can of coke — simply feed the silent video footage into an algorithm which *processes the visual information into sound.*
 
-🤯 **Now that you're mind has been set to blown,** we can proceed. It's important to understand that there are a lot of ways data can be captured and made into something useful. Technology has enabled a whole new set of ways to surveil humans and process and aggregate data. Just think about all the [smart objects](https://blog.metomic.io/main/2019/10/02/smart-devices.html) in your house that somehow know you better than you know yourself.
+🤯 **Now that you're mind has been set to blown,** we can proceed. It's important to understand that there are a lot of ways data can be captured and made into something useful. Technology has enabled a whole new set of ways to surveil humans and process and aggregate data. Just think about all the [smart objects](https://metomic.io/blog/main/2019/10/02/smart-devices.html) in your house that somehow know you better than you know yourself.
 
-Privacy is a [concept that we have chosen to care a lot about](https://blog.metomic.io/main/2019/10/08/privacy-history.html) these days. That's because over the last couple of decades, we've inadvertently put our trust into large companies such as Facebook, and [recent events](https://blog.metomic.io/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html) have prompted us to question that trust. Therefore, how we value our privacy, and the impression it has on the world, has changed — and will continue to change.
+Privacy is a [concept that we have chosen to care a lot about](https://metomic.io/blog/main/2019/10/08/privacy-history.html) these days. That's because over the last couple of decades, we've inadvertently put our trust into large companies such as Facebook, and [recent events](https://metomic.io/blog/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html) have prompted us to question that trust. Therefore, how we value our privacy, and the impression it has on the world, has changed — and will continue to change.
 
 ![Illustration of the future of privacy](/images/future-privacy.png)
 
@@ -36,7 +36,7 @@ Signing in or signing up to a site or service no longer requires using an email 
 
 This is great because authentication is done via hardware — you are authenticated as the user of the device itself, not as the user of each app or service.
 
-⏪ **Back to present day:** Apple are already on their way to doing this (with Sign-in with Apple) — we still use email addresses though, so they've built a [relay system](https://blog.metomic.io/main/2019/07/30/big-tech-doing-privacy.html) which means you never need to share your address with anyone if you don't want to. It's a double threat: private *and* convenient.
+⏪ **Back to present day:** Apple are already on their way to doing this (with Sign-in with Apple) — we still use email addresses though, so they've built a [relay system](https://metomic.io/blog/main/2019/07/30/big-tech-doing-privacy.html) which means you never need to share your address with anyone if you don't want to. It's a double threat: private *and* convenient.
 
 ### 📹 You can opt-out of being on camera while you shop
 
@@ -66,7 +66,7 @@ Free services are also a thing of the past — the services haven't disappeared,
 
 Your face is your unique identifier — they know who you are and what you might like to buy. The longer you look, the more accurate the ads get. People now wear sunglasses all year round — the new ad blockers.
 
-⏪ **Back to present day:** targeted ads in the physical world are [already starting to emerge](https://www.theguardian.com/technology/2019/feb/24/are-you-being-scanned-how-facial-recognition-technology-follows-you-even-as-you-shop) — walking around Westfields, you're very likely to get your face scanned and added to an [ad profile](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html). News sites are trying, more and more, to get you to pay for them with money; after GDPR the New York Times [stopped using ad networks](https://digiday.com/media/gumgumtest-new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/) in the EU and their revenue kept growing.
+⏪ **Back to present day:** targeted ads in the physical world are [already starting to emerge](https://www.theguardian.com/technology/2019/feb/24/are-you-being-scanned-how-facial-recognition-technology-follows-you-even-as-you-shop) — walking around Westfields, you're very likely to get your face scanned and added to an [ad profile](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html). News sites are trying, more and more, to get you to pay for them with money; after GDPR the New York Times [stopped using ad networks](https://digiday.com/media/gumgumtest-new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/) in the EU and their revenue kept growing.
 
 ### 👮🏻‍♂️ Law enforcement has an entirely different flavour
 
@@ -76,10 +76,10 @@ Police and sophisticated surveillance technologies appear to be one in the same.
 
 But just as you did, someone who's been convicted before can opt-out of facial scanning, right? Not necessarily — they may not be afforded the same set of data rights (or any rights) if the system recognises them as a criminal. Is this really efficient crime prevention, or just a massive invasion of privacy?
 
-⏪ **Back to present day:** surveillance technologies are becoming more and more affordable for consumers — for instance, smart Ring doorbells by Amazon. These use facial recognition technology, and Amazon uses footage from these to build up a database of [suspicious persons](https://blog.metomic.io/main/2019/09/11/amazon-ring-security.html). They have also been selling the technology to [several police departments in the US](https://blog.metomic.io/main/2019/09/27/rekognition-regulation.html).
+⏪ **Back to present day:** surveillance technologies are becoming more and more affordable for consumers — for instance, smart Ring doorbells by Amazon. These use facial recognition technology, and Amazon uses footage from these to build up a database of [suspicious persons](https://metomic.io/blog/main/2019/09/11/amazon-ring-security.html). They have also been selling the technology to [several police departments in the US](https://metomic.io/blog/main/2019/09/27/rekognition-regulation.html).
 
 ## That's enough of the future, come back to today
 
 There are several products, standards, and attitudes that we have right now that may very well inform what the future holds for data privacy. In some ways, it's the way we **value** our privacy over other things that may change — we may hardly value it at all in the future.
 
-[In the past](https://blog.metomic.io/main/2019/10/08/privacy-history.html), cameras were considered an absolute nightmare for privacy. Now we broadcast images of ourselves online several times a day — who knows how these attitudes may change again.
+[In the past](https://metomic.io/blog/main/2019/10/08/privacy-history.html), cameras were considered an absolute nightmare for privacy. Now we broadcast images of ourselves online several times a day — who knows how these attitudes may change again.

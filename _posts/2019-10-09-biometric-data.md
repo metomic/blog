@@ -30,13 +30,13 @@ First and foremost, biometrics are used to identify people. For instance, you ca
 
 🚘 **In your car**, because it definitely safer to use your voice to control the radio while you drive, instead of fiddling with the controls by hand and potentially getting distracted.
 
-So these applications are mostly about safety and security: keeping data secure, keeping buildings secure, restricting access to things to the correct people. But as we've seen recently from Amazon's Ring doorbells, increased security can have a [negative effect on privacy.](https://blog.metomic.io/main/2019/09/11/amazon-ring-security.html)
+So these applications are mostly about safety and security: keeping data secure, keeping buildings secure, restricting access to things to the correct people. But as we've seen recently from Amazon's Ring doorbells, increased security can have a [negative effect on privacy.](https://metomic.io/blog/main/2019/09/11/amazon-ring-security.html)
 
 ## ☝️Biometrics are also used in ways that do not immediately serve you...
 
 Ring is a perfect example of this: Ring, owned by Amazon, make smart doorbells that employ the use of facial recognition. If you have a Ring doorbell, anyone who comes to your door can be seen by you on camera (via your phone). The facial recognition software helps the doorbell learn the faces of who you identify as friends or strangers. Or even 'suspicious persons'.
 
-The issue with this is that Amazon is using this information to build up a database of faces and engage in [law enforcement](https://blog.metomic.io/main/2019/09/27/rekognition-regulation.html). Anyone recognised as a 'stranger' could be profiled on the database. Amazon's software is known to be fairly inconsistent — it's [misidentified people before](https://www.nytimes.com/2019/04/03/technology/amazon-facial-recognition-technology.html), which goes against very point of biometrics.
+The issue with this is that Amazon is using this information to build up a database of faces and engage in [law enforcement](https://metomic.io/blog/main/2019/09/27/rekognition-regulation.html). Anyone recognised as a 'stranger' could be profiled on the database. Amazon's software is known to be fairly inconsistent — it's [misidentified people before](https://www.nytimes.com/2019/04/03/technology/amazon-facial-recognition-technology.html), which goes against very point of biometrics.
 
 Privacy issues surrounding biometrics concern to things: **consent** for when biometric data is collected, and what it's used for. And the **accuracy** of the software processing the data. 
 
@@ -61,4 +61,4 @@ So while biometric data has a lot of practical uses, it's becoming increasingly 
 
 ![](/images/face-of-litter.jpg)
 
-The campaign was effective, but we should remember that biometric data is just one kind of data that can be used to track and [change your behaviour](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html). And it's the most telling kind — it literally measures how you move and express yourself. The recent Illinois supreme court ruling very aptly points out that the potential harm in collecting biometric data greatly outweighs the cost of regulating it.
+The campaign was effective, but we should remember that biometric data is just one kind of data that can be used to track and [change your behaviour](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html). And it's the most telling kind — it literally measures how you move and express yourself. The recent Illinois supreme court ruling very aptly points out that the potential harm in collecting biometric data greatly outweighs the cost of regulating it.

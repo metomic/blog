@@ -21,7 +21,7 @@ Data portability is about giving users control. If you use Spotify but want to s
 
 Having the ability to do this breeds more innovation because more apps just starting out will have access to data that users have produced, and will be able to continue to build and improve their services. This is in contrast to what we have now, where people often begrudgingly rely on one service because it's the only half decent one out there.
 
-Currently making data requests to use your data elsewhere [is not a thing](https://blog.metomic.io/main/2019/04/02/How-To-Make-A-Data-Request.html). This project could help users feel less trapped by making their data more portable.
+Currently making data requests to use your data elsewhere [is not a thing](https://metomic.io/blog/main/2019/04/02/How-To-Make-A-Data-Request.html). This project could help users feel less trapped by making their data more portable.
 
 ## Why this is bad
 
@@ -29,4 +29,4 @@ This is not true data portability — the data is not universal. Sure you can sw
 
 Singapore have [recently announced](https://www.cpomagazine.com/data-protection/is-singapore-ready-for-data-portability/) that data portability should be part of their Personal Data Protection Act. This would be a move to actually put data into standardised formats to be used universally by consumers. The Data Transfer Project is not a way of giving the user more control — it's a way of ensuring they all hold on to theirs. 
 
-Read more about our thoughts on data portability [here](https://blog.metomic.io/main/2019/04/24/open-data.html)
+Read more about our thoughts on data portability [here](https://metomic.io/blog/main/2019/04/24/open-data.html)

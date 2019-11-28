@@ -25,24 +25,24 @@
 
 		<!-- Open Graph / Facebook -->
 		<meta property="og:type" content="website">
-		<meta property="og:url" content="{{ site.url }}">
+		<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
 		<meta property="og:title" content="{{ site.title }}">
 		<meta property="og:description" content="{{ page.description }}">
-		<meta property="og:image" content="{{ site.url }}/images/og-image.png">
+		<meta property="og:image" content="{{ "/images/og-image.png" | absolute_url }}">
 
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary_large_image">
-		<meta property="twitter:url" content="{{ site.url }}">
+		<meta property="twitter:url" content="{{ site.url }}{{ site.baseurl }}">
 		<meta property="twitter:title" content="{{ site.title }}">
 		<meta property="twitter:description" content="{{ site.description }}">
-		<meta property="twitter:image" content="{{ site.url }}/images/og-image.png">
+		<meta property="twitter:image" content="{{ "/images/og-image.png" | absolute_url }}">
 
 		<!-- favicon -->
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-		<link rel="manifest" href="/site.webmanifest">
-		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+		<link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | absolute_url }}">
+		<link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | absolute_url }}">
+		<link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | absolute_url }}">
+		<link rel="manifest" href="{{ "/site.webmanifest" | absolute_url }}">
+		<link rel="mask-icon" href="{{ "/safari-pinned-tab.svg" | absolute_url }}" color="#000000">
 		<meta name="msapplication-TileColor" content="#000000">
 		<meta name="theme-color" content="#000000">
 
@@ -50,8 +50,8 @@
 		{% feed_meta %}
 
 		<link rel="stylesheet" href="https://use.typekit.net/odr3ahh.css">
-		<link rel="stylesheet" href="/css/reset.css" />
-		<link rel="stylesheet" href="/css/styles.css" />
+		<link rel="stylesheet" href="{{ "/css/reset.css" | absolute_url }}" />
+		<link rel="stylesheet" href="{{ "/css/styles.css" | absolute_url }}" />
 
 		<style>
 			.header, .footer {
@@ -94,7 +94,7 @@
 				<div class="wide">
 					<a href="https://metomic.io" class="meta" id="back">Back to Metomic</a>
 					<span class="meta logo">{{ site.name }}</span>
-					<a href="/reference.html" class="meta" id="back">Reference Library</a>
+					<a href="{{ "/reference.html" | absolute_url }}" class="meta" id="back">Reference Library</a>
 				</div>
 			</nav>
 			<header class="header-block">
@@ -140,7 +140,7 @@
 		<section class="content grid">
 			<h5 id="category-title">Latest</h5>
 			{% for post in site.posts %}
-				<a class="post-summary" href="{{post.url}}" data-category="{{post.categories[0]}}">
+				<a class="post-summary" href="{{ post.url | absolute_url }}" data-category="{{post.categories[0]}}">
 					<div class="hover-indicator">
 						<svg viewBox="0 0 6 214" fill="none" xmlns="http://www.w3.org/2000/svg">
 							<rect width="6" height="214" rx="3" fill="currentColor"/>
@@ -163,6 +163,6 @@
 		<script>
 			window.categories = {{ site.category_descriptions | jsonify }}
 		</script>
-		<script src="/js/home.js"></script>
+		<script src="{{ '/js/home.js' | absolute_url }}"></script>
 	</body>
 </html>

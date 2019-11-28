@@ -57,7 +57,7 @@ Asking for consent as and when you need it is actually better — if someone is 
 
 In case you aren't aware, [legitimate interests](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) are one of the six lawful basis of processing data. This entire article is about how to correctly get consent from your users about setting cookies. With legitimate interests, you do not need explicit consent.
 
-🚨 **ALERT** 🚨 please do not be excited by that prospect — replace your excitement with sensible levels of caution. Legitimate interests are very vague and flexible. Do not expect that you can rely on them. [As I outlined in this other article](https://blog.metomic.io/main/2019/08/02/legitimate-interests.html), you'll just find yourself in a rubbish grey area.
+🚨 **ALERT** 🚨 please do not be excited by that prospect — replace your excitement with sensible levels of caution. Legitimate interests are very vague and flexible. Do not expect that you can rely on them. [As I outlined in this other article](https://metomic.io/blog/main/2019/08/02/legitimate-interests.html), you'll just find yourself in a rubbish grey area.
 
 ✅ **A great example of legitimate interests** being used is credit card payments: a user enters their details to make a payment, and in no part of this process does the vendor ask 'is it okay if we use your card details to take the payment?' This question serves no purpose because the user **reasonably expects** you to use that data to take money from them — that's the entire point of the transaction. No consent necessary because, legitimate interests.
 

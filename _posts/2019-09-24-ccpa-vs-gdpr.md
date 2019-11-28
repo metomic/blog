@@ -70,7 +70,7 @@ The answer to this is almost too easy: their definition of 'personal information
 
 This information spans from the usual things such as a name, email address, IP address and passport number, to other pieces of data that could potentially be used to identify you like geolocation, biometric data and psychometric data — and: inferences made from any of this data.
 
-This comprehensive scoping will cover things such as behavioural ads which are becoming a large and [unmanageable problem on the internet](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html).
+This comprehensive scoping will cover things such as behavioural ads which are becoming a large and [unmanageable problem on the internet](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html).
 
 ⚖️ **The difference between this and the GDPR** is not the type of data they are talking about, but that it's not necessarily just a 'person's data' but also a **device's or household's data.** This is interesting because it starts to remove individual ownership of specific data.
 

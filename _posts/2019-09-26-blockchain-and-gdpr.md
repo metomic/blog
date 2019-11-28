@@ -11,7 +11,7 @@ date:   2019-09-26 13:16:00
 
 ## Blockchain is an interesting storage solution for data... but should you do it?
 
-A few months ago I [wrote an article](https://blog.metomic.io/main/2019/04/24/open-data.html) about a fictional person called April who lived in a world where all of the data she had ever produced was freely available for her to access whenever she needed to. She could also **control who else had access to it.**
+A few months ago I [wrote an article](https://metomic.io/blog/main/2019/04/24/open-data.html) about a fictional person called April who lived in a world where all of the data she had ever produced was freely available for her to access whenever she needed to. She could also **control who else had access to it.**
 
 This came in handy when she went to the doctor, and they already knew her symptoms; she'd been using a health app to measure heart rate, and she made sure that the only other place this data existed was her own medical records — boom, her doctor was well-informed before the appointment had even happened.
 
@@ -47,7 +47,7 @@ Yes they can, and that's totally fine for some blockchains (open data and all th
 
 `Encrypted blockchain data is the reason why you don't 'lose your Bitcoin' — you lose the key to your bitcoin.`
 
-If a block, or piece of data within that block is **encrypted** the only person (or people) who can access it are the ones with the key. You can read [more here](https://blog.metomic.io/main/2019/09/10/cryptography-explained.html) about how encryption works but essentially, when it comes to blockchain, it's the reason why you don't 'lose your Bitcoin' — you lose the **key to your bitcoin**.
+If a block, or piece of data within that block is **encrypted** the only person (or people) who can access it are the ones with the key. You can read [more here](https://metomic.io/blog/main/2019/09/10/cryptography-explained.html) about how encryption works but essentially, when it comes to blockchain, it's the reason why you don't 'lose your Bitcoin' — you lose the **key to your bitcoin**.
 
 So, here are the important things to remember about blockchain:
 

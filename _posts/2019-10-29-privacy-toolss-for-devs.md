@@ -60,19 +60,19 @@ Sometimes it feels like the only way is to collect absolutely every single data 
 
 - A quick sign-up process, and it works right out of the box.
 - You can customise a lot of things — it won't ugly up your site because you can get it to match with your colour palette.
-- It's a great help with GDPR compliance because you'll be empowering your users with [active, informed consent](https://blog.metomic.io/main/2019/08/07/cookie-consent-guide.html).
+- It's a great help with GDPR compliance because you'll be empowering your users with [active, informed consent](https://metomic.io/blog/main/2019/08/07/cookie-consent-guide.html).
 - Seriously helps you navigate the dazzling world of third-parties by providing copy for the most widely used third-parties like Google Analytics and Intercom, and automatically links out to their privacy policies.
 
 😬 **Cons:** we don't have any of these, silly...
 
 ## Bonus tool for everyone: [trackthis.link](https://trackthis.link/)
 
-**What this does:** based on what persona you choose, it will open about a hundred tabs relating to that to completely change your browsing history and therefore screw up your [ad profile.](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html)
+**What this does:** based on what persona you choose, it will open about a hundred tabs relating to that to completely change your browsing history and therefore screw up your [ad profile.](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html)
 
 🤠 **Pros:**
 
 - Just pick an alter-ego and let the obfuscation happen before your eyes
-- A great solution if you're tired of knowing that even a private window is [not enough sometimes](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) — if you can't avoid being tracked, let them track the wrong thing.
+- A great solution if you're tired of knowing that even a private window is [not enough sometimes](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html) — if you can't avoid being tracked, let them track the wrong thing.
 - It's hilarious, and it's made by [Mozilla](https://www.mozilla.org/) who are huge privacy advocates.
 
 😬 **Cons:** will temporarily eat up a lot of RAM because... you're opening a hundred tabs.

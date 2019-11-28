@@ -11,7 +11,7 @@ date:   2019-09-05 13:18:00
 
 ## [Johnny Ryan from Brave](https://brave.com/google-gdpr-workaround/) has found a data-gathering workaround Google have been implementing on 8.4 million sites
 
-In the wake of GDPR, Google made (some) effort to stop publishers from using Google's tools to engage in real-time bidding ([RTB](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html)), which is a method of broadcasting as much user information as possible to as many advertisers as possible (hundreds at once), upon visiting a single website — all in a matter of milliseconds. 
+In the wake of GDPR, Google made (some) effort to stop publishers from using Google's tools to engage in real-time bidding ([RTB](https://metomic.io/blog/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html)), which is a method of broadcasting as much user information as possible to as many advertisers as possible (hundreds at once), upon visiting a single website — all in a matter of milliseconds. 
 
 **Just so we're clear:** the information Google have and will share during RTB is not just 'likes riding bikes'. It's a complex web of data points which helps them understand who you are, ranging from religion to sexual orientation. Just look at this [handy list of codes they use](https://developers.google.com/authorized-buyers/rtb/downloads/publisher-verticals).
 
@@ -41,4 +41,4 @@ What Push Pages does is, upon a user visiting a site, load another hidden HTML p
 
 **Get your fining boots on**: the Irish Data Protection Commission is going to [start an investigation.](https://brave.com/dpc-google/) If they don't like what they find, they'll likely fine the full amount, which in this case is $27 billion. That would massively over-shadow any fine we've seen so far. 
 
-This fine sort of really needs to happen; so far businesses have been very choosy about how they handle their GDPR compliance, including coming up with clever workarounds like this one. There are [many others out there](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html), but the thing that sets this one apart is that Google did it, and the regulators know about it.
+This fine sort of really needs to happen; so far businesses have been very choosy about how they handle their GDPR compliance, including coming up with clever workarounds like this one. There are [many others out there](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html), but the thing that sets this one apart is that Google did it, and the regulators know about it.

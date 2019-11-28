@@ -22,7 +22,7 @@ It's important to check this, because lots of cookie solutions out there don't b
 
 We scanned [Buzzfeed](https://www.buzzfeed.com/), whose cookie banner is powered by Quantcast. If you visit Buzzfeed's homepage, it more or less forces you to interact with a banner that fails to block cookies from Google, Facebook and more.
 
-Yes, you want to gather site stats with Google Analytics, but this is not necessary to deliver your site/service to the user. It's important to remember what counts as an [unessential cookie](https://blog.metomic.io/main/2019/08/14/essential-cookies.html). 
+Yes, you want to gather site stats with Google Analytics, but this is not necessary to deliver your site/service to the user. It's important to remember what counts as an [unessential cookie](https://metomic.io/blog/main/2019/08/14/essential-cookies.html). 
 
 The GDPR says that cookies relating to marketing and statistics - the unessential cookies - require **user consent first**. Just be transparent; it doesn't hurt to ask.
 
@@ -39,7 +39,7 @@ Giving informed consent like this actually empowers your users to make the decis
 
 **Active consent** is where the user has performed a very clear action (or set of actions) to say yes or no, like checking some boxes, and clicking a button to save preferences. 
 
-☝️ It's important to remember that there was a [recent pivotal ruling](https://blog.metomic.io/main/2019/10/01/eu-cookie-consent-ruling.html) by the EU Court of Justice about just this. The ruling says that using **pre-checked boxes does not count as consent.** So, opening up some preferences and seeing a bunch of items defaulted to 'on', as the below, is unlawful.
+☝️ It's important to remember that there was a [recent pivotal ruling](https://metomic.io/blog/main/2019/10/01/eu-cookie-consent-ruling.html) by the EU Court of Justice about just this. The ruling says that using **pre-checked boxes does not count as consent.** So, opening up some preferences and seeing a bunch of items defaulted to 'on', as the below, is unlawful.
 
 ![](/images/buzzfeed-banner.png)
 *In this Quantcast banner, it takes several clicks to even surface this information, and much of it is set to 'on' as default.*
