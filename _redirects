@@ -1,3 +1,7 @@
+# Redirect netlify
+https://incognito-blog.netlify.com/ https://metomic.io/blog 301!
+https://incognito-blog.netlify.com/* https://metomic.io/blog/:splat 301!
+
 # Redirect blog.metomic.io
 https://blog.metomic.io/ https://metomic.io/blog 301!
 https://blog.metomic.io/* https://metomic.io/blog/:splat 301!
