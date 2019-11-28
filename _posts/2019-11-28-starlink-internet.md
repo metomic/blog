@@ -2,10 +2,10 @@
 layout: post
 title:  "🛰 Satellite internet is coming, brought to you by SpaceX"
 description: "a quick update on the satellite constellation in low-Earth orbit, by SpaceX. Starlink has said they will provide more, better connectivity to the whole world."
-categories: "Explainer"
+categories: "Opinion"
 author: "Georgia Iacovou"
 socialImage: /images/starlink.png
-themeColor: "#466993"
+themeColor: "#F5BB5F"
 date:   2019-11-28 13:16:00
 ---
 
