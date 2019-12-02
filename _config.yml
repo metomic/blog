@@ -21,6 +21,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://metomic.io" # the base hostname & protocol for your site, e.g. http://example.com
 include: [_redirects]
 permalink: /main/:year/:month/:day/:title:output_ext
+future: true
 
 defaults:
   -
