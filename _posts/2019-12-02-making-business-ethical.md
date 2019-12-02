@@ -36,6 +36,9 @@ Most importantly, **if someone states whether something is or is not ethical, th
 
 Many professions have documented ethical codes. Perhaps the most notable example is medical ethics. Other documented ethical codes come from religious texts, or perhaps legal texts like the human rights conventions. Some ethical codes are undocumented, and just exist as cultural norms within a community. These communities could be small, like a family, or large, like a nation or an international group.
 
+![google ai withut an ethics board](/images/google-ai-ethics.png)
+*Google AI: without an ethics board. In April of 2019, Google dissolved it's external AI ethics board after [just one week](https://www.theverge.com/2019/4/4/18296113/google-ai-ethics-board-ends-controversy-kay-coles-james-heritage-foundation). Should the board be this easy to dissolve, and can we trust Google's pledge to to, for instance, not help with the development of AI weaponry?*
+
 One of the technological fields that has had the most attention when it comes to ethics is artificial intelligence. At the time of writing, at least 84 frameworks have been published outlining an ethical code for AI. This is a positive development, however, it is not enough to embed ethical culture. Brent Mittelstadt states this is for the following reasons*:
 
 1. Technology professionals do not align their goals with the public interest. Instead, they are given motivations which align with company goals. Research from Data & Society states that these motivations are often driven by profit factors. This means that speed is prioritised above all else, where many believe that there are distinct problems and distinct solutions; a system where professionals believe that because they are fantastic **engineers**, then they must be fantastic **ethicists**. What this creates is an unjustified belief in meritocracy. **
@@ -43,7 +46,6 @@ One of the technological fields that has had the most attention when it comes to
 3. There are few proven methods that translate principles into practice. You may value ‘freedom’ or ‘privacy’, but have little idea of the actions which will support these abstract ideals.
 4. There are few sanctions for developers if they do not adhere to these vague requirements.
 
-`Ethics is a practice and not a destination.`
 
 So yes, do document your principles and ethics. But you must recognise that this is only the first step. When I teach individuals and companies ethics by design, I try to ensure that ethics becomes part of the companies process and practice. It has to be something that the whole company takes part in. I recommend beginning with an audit to ascertain the ethical culture that company is in. This research includes:
 
@@ -52,6 +54,9 @@ So yes, do document your principles and ethics. But you must recognise that this
 3. Discovering and discussing the ethics that all employees try to embed into their working practice.
 4. Studying the ethics of the end-user. This refers both to the ethics of your customers, the users your customers are serving *and* the wider community who might be impacted by your product.
 5. Reviewing philosophers’ and academics’ views on ethics related to that technology.
+
+`Ethics is a practice and not a destination.`
+
 
 Although the end product may be a documented code, you are looking to achieve the following:
 
