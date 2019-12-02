@@ -23,7 +23,7 @@ Just the other week [Lush announced](https://www.instagram.com/lush/p/Bv_F76GFOZ
 
 Brands adopted social media because it made sense. They wanted to blend in with their consumers and appear friendly and relatively non-evil. Social media was perfect for this. They could post selfies and videos and promotions and none of those things would even look like adverts.
 
-But then, a decade swept by faster than you can Google 'what the fuck is GDPR' and tech **companies (✅)** grew into scary tech **giants (❌)**. Entities such as Facebook had spunked out an [unholy throng of gross ideas and mistakes](https://blog.metomic.io/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html), and suddenly looked very, very evil.
+But then, a decade swept by faster than you can Google 'what the fuck is GDPR' and tech **companies (✅)** grew into scary tech **giants (❌)**. Entities such as Facebook had spunked out an [unholy throng of gross ideas and mistakes](https://metomic.io/blog/main/2019/03/20/How-Facebook-Have-Built-Up-Your-Trust-Over-The-Years.html), and suddenly looked very, very evil.
 
 Brands - especially ones like Lush who actually pride themselves on somehow not being evil - now may not want to associate themselves with a company like Facebook, or social media as a whole. Surely you can do marketing and advertising without social media? People used to do it all the time, look:
 

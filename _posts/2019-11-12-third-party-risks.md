@@ -17,7 +17,7 @@ But, because of the somewhat incongruous way the internet works with regulation,
 
 ## ☝️ The first way is failing to get appropriate consent for your third-party cookies.
 
-Regulation dictates that you get consent for [non-essential cookies](https://blog.metomic.io/main/2019/08/14/essential-cookies.html). These include anything relating to marketing, advertising, and site statistics.
+Regulation dictates that you get consent for [non-essential cookies](https://metomic.io/blog/main/2019/08/14/essential-cookies.html). These include anything relating to marketing, advertising, and site statistics.
 
 This is one of the most common mistakes websites make — we scanned over 800 of the top websites using the tech that powers [TrackerTracker](http://trackertracker.io), and found that on average, websites drop **21 third-party cookies without consent**. 
 
@@ -53,7 +53,7 @@ If you are not aware of these kinds of details, **you can't get consent from you
 
 In our scan of the top 800 websites, we found that the average number of third-party providers was just over seven per site. So, while your e-commerce site only uses three third-parties, each of those could use seven. 
 
-That means your user's data is potentially accessible not just by those three companies that you picked yourself, but 21 — and you don't actually know who they are. You may know that [Intercom uses Google Analytics](https://blog.metomic.io/main/2019/08/22/nested-cookies.html), but who comes after that?
+That means your user's data is potentially accessible not just by those three companies that you picked yourself, but 21 — and you don't actually know who they are. You may know that [Intercom uses Google Analytics](https://metomic.io/blog/main/2019/08/22/nested-cookies.html), but who comes after that?
 
 ![screenshot of a tweet showing some stats about cookies](/images/map-example.png)
 *Notice how messy it gets at the end there... just vague puffs of anything — could even be data brokers*
@@ -65,7 +65,7 @@ The difficult part here is the incongruence between regulation, and how data cur
 Fulfilling a subject access request like that would be a tough job — but the way you can avoid this is knowing who your third parties are, and staying up to date with any changes **they make** to how they process data. 
 
 ![screenshot of Metomic dashboard](/images/nestedcookies.png)
-*Results from re-scanning a domain in the Metomic Dashboard — as you can see the [Facebook pixel](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) is hidden behind [Google Tag Manager](https://blog.metomic.io/main/2019/08/22/what-is-tag-manager.html)*
+*Results from re-scanning a domain in the Metomic Dashboard — as you can see the [Facebook pixel](https://metomic.io/blog/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html) is hidden behind [Google Tag Manager](https://metomic.io/blog/main/2019/08/22/what-is-tag-manager.html)*
 
 👉 **Truly understanding data flow as a whole is tough**. As a site owner, you can quite easily control the entry of user data into your platform. But controlling it after entry — in the current way the internet operates — is challenging. At Metomic we are building tools to help you manage this. After all, user data should flow as much as it needs to, but that flow should be both ethical, and equitable. Watch this space ✨
 

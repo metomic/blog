@@ -19,13 +19,13 @@ This is a game-changer for cookie consent. At the moment most websites will pres
 
 ![](/images/essential-cookies.jpg)
 
-*The GDPR says that you can only drop cookies without consent if they are [essential](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) to make your site work.*
+*The GDPR says that you can only drop cookies without consent if they are [essential](https://metomic.io/blog/main/2019/08/14/essential-cookies.html) to make your site work.*
 
 Behind the scenes, there are, in many cases boxes that are **already checked** outlining the types of cookies that you will get just by clicking 'accept'.
 
 This sneaky tactic is technically allowed under GDPR because the regulation is somewhat vague on what actually constitutes consent — the practices upheld across the web at the moment are a product of a very questionable interpretation of what the regulation outlines as getting valid consent from a user.
 
-**This new ruling makes it clear that a pre-checked box does not constitute consent**. This has the potential to change everything — many websites stay afloat just from people accepting their cookies. There's a lot of money in [third-party tracking](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html).
+**This new ruling makes it clear that a pre-checked box does not constitute consent**. This has the potential to change everything — many websites stay afloat just from people accepting their cookies. There's a lot of money in [third-party tracking](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html).
 
 ### What happens now?
 

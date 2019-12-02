@@ -44,7 +44,7 @@ Facebook are spending (apparently) $1bn on a giant subsea cable to go around the
 
 ### Amazon: cables are old-fashioned, let's move to the sky
 
-Cool idea. No wait I mean, scary idea. Amazon will literally put 3,236 low-orbit satellites into the sky in the next few years. These satellites (or, 'menacing constellation of internet-robots') will provide high-speed internet for communities that still do not have internet. This is good. But god dammit, Amazon - it's like you ran out of areas to dominate on earth so now you're expanding to space. This is what people who [trembled at the fake blimp and drone video](https://blog.metomic.io/main/2019/04/05/blimpy-mcblimpface.html) were actually scared of.
+Cool idea. No wait I mean, scary idea. Amazon will literally put 3,236 low-orbit satellites into the sky in the next few years. These satellites (or, 'menacing constellation of internet-robots') will provide high-speed internet for communities that still do not have internet. This is good. But god dammit, Amazon - it's like you ran out of areas to dominate on earth so now you're expanding to space. This is what people who [trembled at the fake blimp and drone video](https://metomic.io/blog/main/2019/04/05/blimpy-mcblimpface.html) were actually scared of.
 
 ### Google: no, cables aren't *always* old-fashioned
 

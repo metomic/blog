@@ -11,7 +11,7 @@ date:   2019-04-23 17:50:00
 ---
 ## While you've been having fun blocking cookies, advertising networks have been developing fierce alternatives...
 
-Hopefully you know by now that, in part, cookies are a form of 21st century surveillance. If you've never thought about cookies in that way before, it's fine. Just remember: you are served cookies basically all the time, and they can track your browsing behaviours, painting a very accurate picture of who you are. [Chomp on this delicious article to learn more, if you want.](https://blog.metomic.io/main/2019/04/09/help-i-dont-know-what-cookies-are.html)
+Hopefully you know by now that, in part, cookies are a form of 21st century surveillance. If you've never thought about cookies in that way before, it's fine. Just remember: you are served cookies basically all the time, and they can track your browsing behaviours, painting a very accurate picture of who you are. [Chomp on this delicious article to learn more, if you want.](https://metomic.io/blog/main/2019/04/09/help-i-dont-know-what-cookies-are.html)
 
 Please don't let cookies take up more than about 5% of brain energy in your privacy-focused mind. They are a terrible distraction from all the other methods used by advertisers to build up a profile of who you are and what you might like to buy. 
 

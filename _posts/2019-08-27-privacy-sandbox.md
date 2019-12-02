@@ -15,7 +15,7 @@ Google announced this last week [on their blog](https://www.blog.google/products
 
 The reason as to why I am questioning the 'realness' of this initiative is that since May 2018, big tech have been consistently flexing their privacy muscles while not necessarily delivering anything of value. Privacy Sandbox hits some of the right notes, though:
 
-**They highlight the problem with how we currently block cookies,** in that it simply becomes an arms race. If consumers are consistently blocking all cookies, companies will just find other ways to track you such as [device fingerprinting](https://blog.metomic.io/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html). This is because all browsers see all cookies as the same — the [ones you actually need](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) are inseparable to the ones that are just there to track you and serve ads. 
+**They highlight the problem with how we currently block cookies,** in that it simply becomes an arms race. If consumers are consistently blocking all cookies, companies will just find other ways to track you such as [device fingerprinting](https://metomic.io/blog/main/2019/04/23/cookies-are-a-perfect-and-irresistible-distraction-from-other-bad-things.html). This is because all browsers see all cookies as the same — the [ones you actually need](https://metomic.io/blog/main/2019/08/14/essential-cookies.html) are inseparable to the ones that are just there to track you and serve ads. 
 
 **Google's proposal:** there should be a standard way of categorising cookies at a browser level.
 

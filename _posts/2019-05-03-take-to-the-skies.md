@@ -25,7 +25,7 @@ Facebook did a conference and [announced their new design](https://www.nytimes.c
 
 ## More investigations, more unscathed multinational tech giants
 
-Quantcast are finally [being investigated](https://techcrunch.com/2019/05/02/adtech-veteran-quantcast-is-latest-tech-giant-to-face-gdpr-privacy-probe/) for breaching GDPR. That sounds great but who even are Quantcast? Exactly - no one outside the industry have heard of them but they are probably the most powerful and prominent ad network out there. They're the ones who play a large part in 'personalising' all those ads you see all the time, and have developed AI for fancy advert trick we call [real-time bidding](https://blog.metomic.io/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html). 
+Quantcast are finally [being investigated](https://techcrunch.com/2019/05/02/adtech-veteran-quantcast-is-latest-tech-giant-to-face-gdpr-privacy-probe/) for breaching GDPR. That sounds great but who even are Quantcast? Exactly - no one outside the industry have heard of them but they are probably the most powerful and prominent ad network out there. They're the ones who play a large part in 'personalising' all those ads you see all the time, and have developed AI for fancy advert trick we call [real-time bidding](https://metomic.io/blog/main/2019/03/29/RTB-fast-secret-auctions-with-your-data/html). 
 
 So, no one really knows who they are, but they are busy developing highly accurate profiles of internet users sort of all the time, sort of in secret. How very un-transparent of you, Quantcast. I call that investigation time. 
 

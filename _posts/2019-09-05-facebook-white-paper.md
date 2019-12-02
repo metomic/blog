@@ -11,7 +11,7 @@ date:   2019-09-05 13:19:00
 
 ## Are they serious, or is this just more privacy posturing?
 
-Data portability is where you can take any data you produce for one service, and move it to another. E.g. taking all data away from Facebook, and putting it into a Facebook alternative so you don't have to 'start again'. Data portability is just like an idea that's been buzzing around for a while now, but no one major [really engages in it](https://blog.metomic.io/main/2019/04/02/How-To-Make-A-Data-Request.html).
+Data portability is where you can take any data you produce for one service, and move it to another. E.g. taking all data away from Facebook, and putting it into a Facebook alternative so you don't have to 'start again'. Data portability is just like an idea that's been buzzing around for a while now, but no one major [really engages in it](https://metomic.io/blog/main/2019/04/02/How-To-Make-A-Data-Request.html).
 
 **The white paper makes some very good points:**
 
@@ -45,7 +45,7 @@ What the Facebook alternative do with the data is none of Facebook's concern at 
 
 - If data portability was suddenly made easy, there could very well be a flurry of users moving their data away from Facebook
 - Tech giants don't stay giant without data
-- Facebook wants to have [their data sundaes](https://blog.metomic.io/main/2019/05/21/what-is-a-data-trust.html) and eat them too: this white paper signals that they care about portability, as long as it's on their own terms
+- Facebook wants to have [their data sundaes](https://metomic.io/blog/main/2019/05/21/what-is-a-data-trust.html) and eat them too: this white paper signals that they care about portability, as long as it's on their own terms
 
 This quote from Mark Zuckerberg himself indicates that he has a profound misunderstanding of what data portability really is — whether that misunderstanding is wilful or not is impossible to know.
 
@@ -55,8 +55,8 @@ This quote from Mark Zuckerberg himself indicates that he has a profound misunde
 
 Then the white paper follows this quote with: "In other words, people should be able to transfer their information directly to a provider of their choosing, in a way similar to how people use Facebook Login today."
 
-**They are suggesting that there should be no middle man:** Facebook transfers your data to the Facebook alternative, on your request. Moves like that ensure power remains centralised to Facebook, [as usual](https://blog.metomic.io/main/2019/05/09/black-holes.html).
+**They are suggesting that there should be no middle man:** Facebook transfers your data to the Facebook alternative, on your request. Moves like that ensure power remains centralised to Facebook, [as usual](https://metomic.io/blog/main/2019/05/09/black-holes.html).
 
 True data portability means that there should always be a middle-man: either the user, or some trusted transfer service. But **never** the service you are making the transfer from.
 
-This [white paper](/images/data-portability-privacy-white-paper.pdf) follows the [Data Transfer Project](https://blog.metomic.io/main/2019/08/02/data-transfer-proj.html) which Google, Apple and Microsoft are also part of.
+This [white paper](/images/data-portability-privacy-white-paper.pdf) follows the [Data Transfer Project](https://metomic.io/blog/main/2019/08/02/data-transfer-proj.html) which Google, Apple and Microsoft are also part of.

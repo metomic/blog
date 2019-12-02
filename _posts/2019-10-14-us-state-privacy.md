@@ -21,7 +21,7 @@ Big tech companies with global reach most likely prefer country-wide, or even co
 
 ### California
 
-There's been a lot of talk about the California Consumer Privacy Act recently — it will go into effect on the 1st of January 2020 and it's [pretty punchy](https://blog.metomic.io/main/2019/10/02/ccpa-guide.html). It centres around giving consumers a comprehensive set of rights over their data. No other US law in effect has such emphasis on data rights.
+There's been a lot of talk about the California Consumer Privacy Act recently — it will go into effect on the 1st of January 2020 and it's [pretty punchy](https://metomic.io/blog/main/2019/10/02/ccpa-guide.html). It centres around giving consumers a comprehensive set of rights over their data. No other US law in effect has such emphasis on data rights.
 
 **What this law means for the state:** California residents will now have some shiny new rights; they will have the power to make certain requests to businesses, such as deleting their data, or stop it from being sold on. It's important to remember the businesses effected could be based anywhere — this law applies if they have customers in California.
 
@@ -43,7 +43,7 @@ This will come into effect on **1st June 2020**
 
 **A couple of things:**
 
-1. This regulation defines 'personal information' pretty well, but perhaps not as detailed at the CCPA. However it covers enough to make sure ISPs are more limited in how they can engage in [behavioural advertising](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html). E.g. browsing history, device information, health information.
+1. This regulation defines 'personal information' pretty well, but perhaps not as detailed at the CCPA. However it covers enough to make sure ISPs are more limited in how they can engage in [behavioural advertising](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html). E.g. browsing history, device information, health information.
 2. To get consent ISPs will have to provide "clear, conspicuous and non-deceptive notice at the point of sale" as well as on their website — would be interesting to see how that manifests, and how 'non-deceptive' is interpreted.
 
 **What this law means for the state:** it's pretty good for consumers, because it's based on opting-in: the default is to keep personal information more private. But, it's strange that this is restricted to ISPs. Sure, they have first-hand insight on people's internet activities, but there are plenty of non-ISPs that can get their hands on such information, and more. 

@@ -33,7 +33,7 @@ These kinds of cookies are designed to stay in your browser unless you actually 
 
 Now, the **other important part** about these cookies is how they are used. What I've described so far is cookies dropped by the **first party.** So, if you're on your favourite blog site — let's call it **Bloggy** for the purposes of this article — cookies they drop for things like keeping you logged in belong to Bloggy; they are the first party.
 
-Bloggy could, however, be dropping numerous cookies from **third-parties** [without asking your permission](https://blog.metomic.io/main/2019/08/14/essential-cookies.html). And this is where the fiendish tracking game begins. How do Bloggy do this? There are so many ways to sneak third-party cookies through. A very common way was just recently [found to be unlawful](https://blog.metomic.io/main/2019/07/31/share-buttons-illegal.html) by the EU Court of Justice. Here's how it's done:
+Bloggy could, however, be dropping numerous cookies from **third-parties** [without asking your permission](https://metomic.io/blog/main/2019/08/14/essential-cookies.html). And this is where the fiendish tracking game begins. How do Bloggy do this? There are so many ways to sneak third-party cookies through. A very common way was just recently [found to be unlawful](https://metomic.io/blog/main/2019/07/31/share-buttons-illegal.html) by the EU Court of Justice. Here's how it's done:
 
 1. Every article on Bloggy has social media buttons for Facebook, Twitter, and LinkedIn; this is so you can easily share an article on one of these platforms
 2. In order for Bloggy to *even display* these buttons, they need to ask each platform to send it over from their servers
@@ -82,7 +82,7 @@ Each of these data points vary enough from user to user that they can essentiall
 
 Again, the goal of tracking pixels is exactly the same as cookies and browser fingerprinting: to collect data, learn about you, and use that for ads. Think of a pixel (any pixel, even the non-tracking kind), as a unit of measurement for digital images; an image could be 500x200 pixels — that's not all that big, so a single pixel is more or less invisible to the naked eye.
 
-The most infamous is the [Facebook pixel](https://blog.metomic.io/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html). Bloggy definitely use the Facebook pixel — Facebook probably knows more about the human race than anyone else. Therefore, they know best who should see what ads. Here's how it works:
+The most infamous is the [Facebook pixel](https://metomic.io/blog/main/2019/04/05/the-most-devastating-pixel-on-the-internet.html). Bloggy definitely use the Facebook pixel — Facebook probably knows more about the human race than anyone else. Therefore, they know best who should see what ads. Here's how it works:
 
 1. You visit Bloggy, and they load up their site + one pixel provided by Facebook
 2. Just like with the social media sharing buttons, Bloggy has to ask Facebook for that pixel by making a request to their servers
@@ -153,7 +153,7 @@ That's because, with segmentation tools this powerful, an advertiser can specifi
 
 ### So... I will just be the subject of tracking forever, and the data I produce will be used to target me with ads for as long as I live?
 
-No, of course not. Because — unexpected twist — with the advertising technology available, your data could contribute to behavioural ads [long after you die](https://blog.metomic.io/main/2019/08/15/data-after-death.html). Hahaha yes, what a nightmare. How is this possible?
+No, of course not. Because — unexpected twist — with the advertising technology available, your data could contribute to behavioural ads [long after you die](https://metomic.io/blog/main/2019/08/15/data-after-death.html). Hahaha yes, what a nightmare. How is this possible?
 
 Because of very advanced guessing techniques made possible by artificial intelligence. Why bother continuing to learn more about the human race when you can **get machines to do it for you?** 
 
@@ -181,7 +181,7 @@ Some recommendations for having a little more control instead of just flat out b
 - Use browsers such as [Brave](https://brave.com/index/) or [Firefox](https://www.mozilla.org/en-GB/firefox/new/): they have excellent privacy settings — even the defaults are pretty good. They let you manage cookies, and even block other tracking technologies.
 - Try a couple of add-ons such as [Privacy Badger](https://www.eff.org/privacybadger) which blocks trackers, and also **learns** what not to block, and [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) (do not confuse with 'ublock') which is much more than just an ad blocker
 - Use private browser windows where ever possible — every browser has this capability
-- There are [quite a few tools](https://blog.metomic.io/main/2019/04/15/9-Privacy-Tools-You-Should-Know-About.html) out there that can help with online experiences; from [understanding dark design patterns](https://humanebydesign.com/) to [understanding privacy policies](https://pribot.org/)
+- There are [quite a few tools](https://metomic.io/blog/main/2019/04/15/9-Privacy-Tools-You-Should-Know-About.html) out there that can help with online experiences; from [understanding dark design patterns](https://humanebydesign.com/) to [understanding privacy policies](https://pribot.org/)
 - **Always question what is 'required' of you** when using products or services. E.g. anything that requires an app to 'set up' like [these Bose headphones](https://www.reuters.com/article/us-bose-lawsuit-idUSKBN17L2BT). Most of the time nothing 'needs' an app — it's just an excuse to have access to your phone or device.
 
 **Most importantly:** free apps and services may not cost you any money, but your digital life will become easier as soon as you start to look at it as a trade. Reading the terms of service on any product you interact with will outline what you are trading in exchange.

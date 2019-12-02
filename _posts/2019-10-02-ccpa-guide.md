@@ -11,7 +11,7 @@ date:   2019-10-02 13:16:00
 
 ## The CCPA: it's coming soon, but hardly anyone really knows what it is
 
-The California Consumer Protection Act will go into effect on the 1st of January 2020. Interestingly, it's aimed solely at for-profit businesses. This is a key difference between the CCPA and the GDPR; there are a lot of those, [read about them here](https://blog.metomic.io/main/2019/09/24/ccpa-vs-gdpr.html).
+The California Consumer Protection Act will go into effect on the 1st of January 2020. Interestingly, it's aimed solely at for-profit businesses. This is a key difference between the CCPA and the GDPR; there are a lot of those, [read about them here](https://metomic.io/blog/main/2019/09/24/ccpa-vs-gdpr.html).
 
 However if you are running a business **anywhere in the world** this could affect you. It's not about where the business is based, but where the consumers are. If any of your users live in California, this could affect you. So unless you plan on blocking the entire state of California from using your services, you should pay attention to this regulation. 
 
@@ -63,7 +63,7 @@ The usual suspects make an appearance here: geolocation, email address, employme
 
 This is extremely comprehensive; it takes into account lots of different kinds of data that can be gathered in a variety of ways. And, importantly, in number 11 they've even included information you can **infer from any other data you may have gathered.** 
 
-This means that the CCPA is most definitely aiming to zero-in on companies that have resources to aggregate data in specific ways — in other words, ad networks such as Facebook and Google who heavily engage in [behavioural advertising](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html).
+This means that the CCPA is most definitely aiming to zero-in on companies that have resources to aggregate data in specific ways — in other words, ad networks such as Facebook and Google who heavily engage in [behavioural advertising](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html).
 
 ## What will enforcement look like?
 

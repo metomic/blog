@@ -32,13 +32,13 @@ In case you're confused, we produced this nifty diagram.
 
 ![diagram showing the way ads are put onto websites](/images/evil-connector.jpg)
 
-**Cookies play an important part in this machine:** they are the things that live in your browser, remember things about you, and broadcast those things to the advertisers and ad networks. This is more or less how consumer data flows around the internet; it makes predictions about you that are very accurate because it's [based on your everyday behaviour](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html). 
+**Cookies play an important part in this machine:** they are the things that live in your browser, remember things about you, and broadcast those things to the advertisers and ad networks. This is more or less how consumer data flows around the internet; it makes predictions about you that are very accurate because it's [based on your everyday behaviour](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html). 
 
 📣 As I type this I can hear each and every reader say, "but I use an ad blocker". That's nice, you belong to [30% of internet users](https://www.businessinsider.com/30-of-all-internet-users-will-ad-block-by-2018-2017-3/?r=AU&IR=T). The rest do not block ads — the money is made from that lot. This doesn't even include mobile browsing — ad blockers on mobile are used a lot less, and are not as powerful. Just think how many random articles you half read on your phone as opposed to your laptop browser.
 
 ## If websites are free for users, but they still manage to make money, that's win-win, right?
 
-Not really. First of all, it breeches regulation. Under GDPR, [you have to get user consent](https://blog.metomic.io/main/2019/08/07/cookie-consent-guide.html) for any [non-essential cookies](https://blog.metomic.io/main/2019/08/14/essential-cookies.html) you set. A 'non-essential' cookie is anything that sits outside of delivering the service your site offers. In the case of dictionary.com, that would be giving us definitions of words. That function does not require any cookies at all...
+Not really. First of all, it breeches regulation. Under GDPR, [you have to get user consent](https://metomic.io/blog/main/2019/08/07/cookie-consent-guide.html) for any [non-essential cookies](https://metomic.io/blog/main/2019/08/14/essential-cookies.html) you set. A 'non-essential' cookie is anything that sits outside of delivering the service your site offers. In the case of dictionary.com, that would be giving us definitions of words. That function does not require any cookies at all...
 
 Secondly, it perpetuates a lot of problems — ones that regulations are trying to solve. Dropping cookies without consent lacks transparency, and therefore eats away at user autonomy.
 
@@ -48,7 +48,7 @@ This system also disproportionately benefits ad networks. They are the ones with
 
 But the value you get out of learning what the word 'ostensibly' means doesn't really compare to the value of the millions of ad impressions popular publishers (like dictionary.com) rack up. 
 
-Impressions make money. Money makes scary new-age ideas a reality: such as Libra, Facebook's way of [disrupting our banking system](https://blog.metomic.io/main/2019/10/16/libra.html), and Google's TensorFlow, a powerful AI platform [used by the military](https://www.theinquirer.net/inquirer/news/3027969/google-tensorflow-will-help-us-military-use-ai-to-analyse-drone-footage).
+Impressions make money. Money makes scary new-age ideas a reality: such as Libra, Facebook's way of [disrupting our banking system](https://metomic.io/blog/main/2019/10/16/libra.html), and Google's TensorFlow, a powerful AI platform [used by the military](https://www.theinquirer.net/inquirer/news/3027969/google-tensorflow-will-help-us-military-use-ai-to-analyse-drone-footage).
 
 ☝️ **To conclude,** dictionaries still aren't free, you simply pay with something other than money: your data.
 

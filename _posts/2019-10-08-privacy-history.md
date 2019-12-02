@@ -15,7 +15,7 @@ date:   2019-10-08 13:16:00
 ![screenshot of Don't Hug Me I'm Scared](/images/time-history.png)
 *Using a clock to time travel — screenshot from Don't Hug Me I'm Scared*
 
-[Incognito](http://blog.metomic.io) mainly focuses on looking to the future (you know... privacy and technology and what not), but on this rare occasion we're going to look back and see what we can learn from the past.
+[Incognito](http://metomic.io/blog) mainly focuses on looking to the future (you know... privacy and technology and what not), but on this rare occasion we're going to look back and see what we can learn from the past.
 
 The past tells us that for most of history, society as a whole didn't care much about privacy — that's because it was completely impractical, so the concept didn't really exist. Advances in technology were really what changed these attitudes.
 

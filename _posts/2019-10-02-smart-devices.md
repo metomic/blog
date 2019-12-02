@@ -20,17 +20,17 @@ Consider this: you buy a nice shiny new pair of headphones. When you unbox the h
 
 How is this? Even though the purpose of this app is to 'set up' your headphones, it also provides a gateway to your behaviour. By putting this app on your phone, you've told the headphone company who you are, and that you own a pair of their headphones. 
 
-So the headphone company has access to this data, and if they want, can share it with other companies. This is because they've used third-parties to help them build their app — a perfectly acceptable thing to do. However last week I used a number of third-parties to help me build [this website](https://georgia.thebestsh.it/), which is [technically unlawful](https://blog.metomic.io/main/2019/09/25/unlawful-website.html). That is because I have no control over what those third-parties can do:
+So the headphone company has access to this data, and if they want, can share it with other companies. This is because they've used third-parties to help them build their app — a perfectly acceptable thing to do. However last week I used a number of third-parties to help me build [this website](https://georgia.thebestsh.it/), which is [technically unlawful](https://metomic.io/blog/main/2019/09/25/unlawful-website.html). That is because I have no control over what those third-parties can do:
 
 > "My website is actually my house, and I’ve invited you round for tea. What I haven’t told you is that there are also seven other people coming — they have free reign over what they do to my house, and the people inside."
-*Taken from [this Incognito article](https://blog.metomic.io/main/2019/09/25/unlawful-website.html)*
+*Taken from [this Incognito article](https://metomic.io/blog/main/2019/09/25/unlawful-website.html)*
 
 The same goes for apps — including the one 'needed' to set up your new headphones. Either intentionally or because of negligence, app developers can give third-parties access to the data you produce by using the app. In this case it's the music and other media you consume. 
 
 ![diagram showing headphones tapping into phone and making inferences](/images/bose-headphones.jpg)
 *Why does a pair of headphones need to know this much about me?*
 
-What media you consume is data that is very valuable for ad networks such as Facebook and Google; they have the resources to use this data to build and maintain your [advertising profile](https://blog.metomic.io/main/2019/09/13/what-is-behavioural-ads.html), which is used not only to target you with ads, but to **influence and change your behaviour.** 
+What media you consume is data that is very valuable for ad networks such as Facebook and Google; they have the resources to use this data to build and maintain your [advertising profile](https://metomic.io/blog/main/2019/09/13/what-is-behavioural-ads.html), which is used not only to target you with ads, but to **influence and change your behaviour.** 
 
 Strange to think that just a pair of headphones could be a conduit for knowing your political beliefs and profiting off of that knowledge. Unfortunately, the headphones story is true — [Bose were caught doing this](https://www.reuters.com/article/us-bose-lawsuit-idUSKBN17L2BT) just a couple of years ago.
 
@@ -44,7 +44,7 @@ The IoT is essentially a network of objects that are connected to the internet, 
 
 📺 **Smart TVs** have their own apps, can connect to your phone, and some are equipped with their own microphones and cameras (so you can do video calls, give voice commands, etc). But, they [send data to other companies](https://www.irishtimes.com/business/technology/smart-tvs-sending-private-data-to-netflix-google-and-facebook-1.4022833) such as Google, Facebook, and Netflix — regardless of whether or not you have accounts with those services. In some cases, TVs will share data even when idle. Couple this with Facebook's new [Portal](https://www.theguardian.com/technology/2019/sep/18/facebook-portal-smart-display-mini-tv-launch-uk?CMP=fb_a-technology_b-gdntech) and you have what looks like the treatment of a Black Mirror episode.
 
-📹 **Smart security systems** such as Ring doorbells by Amazon have cameras armed with facial recognition software that you can control via your phone. Really useful for seeing who's at the door but unfortunately Amazon are [using doorbell footage](https://blog.metomic.io/main/2019/09/11/amazon-ring-security.html) to build up a database of suspicious persons and share it with the police. Amazon have also [released footage to others](https://theintercept.com/2019/01/10/amazon-ring-security-camera/) for research — it seems that they just do what they like with it.
+📹 **Smart security systems** such as Ring doorbells by Amazon have cameras armed with facial recognition software that you can control via your phone. Really useful for seeing who's at the door but unfortunately Amazon are [using doorbell footage](https://metomic.io/blog/main/2019/09/11/amazon-ring-security.html) to build up a database of suspicious persons and share it with the police. Amazon have also [released footage to others](https://theintercept.com/2019/01/10/amazon-ring-security-camera/) for research — it seems that they just do what they like with it.
 
 `By putting these things in your house, you are inviting a bunch of companies in and giving them a first-hand insight to your daily life.`
 
