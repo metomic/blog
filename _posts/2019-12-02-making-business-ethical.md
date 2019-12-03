@@ -93,3 +93,5 @@ It’s always good to begin by reading and researching. My recommended reading l
 *Alice Thwaite is the founder of Hattusia, a technology ethics consultancy and the Echo Chamber Club, a philosophical research institute dedicated to understanding how information environments can be healthy and democratic in a digital age. She teaches an ethics by design evening workshop at Experience Haus and General Assembly in London. Her twitter is @alicelthwaite and her email is alice@echochamber.club.*
 
 Many thanks to Georgia Iacovou for her input and edits.
+
+Special thanks to Andrew Strait.
