@@ -30,7 +30,6 @@ This is a classic privacy conundrum: making something as private as possible is 
 Very recently we began receiving emails from AWS informing us of reports they'd received: [priv.sh](http://priv.sh) had been used for phishing. If this continued, AWS would of course be forced to pull our hosting — and therefore shut us down completely.
 
 ![screenshot of email from AWS warning us of phishing](/images/aws-phishing.png)
-
 *This is just one of many emails we received about phishing — all within the same 24 hours.*
 
 If AWS took away our hosting, all installed cookie widgets would cease to work effectively, and our customers would probably have no idea.
