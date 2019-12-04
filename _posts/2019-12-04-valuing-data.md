@@ -4,7 +4,7 @@ title:  "Valuing data: you will never value it as much as Big Tech"
 Description: "a look at how Big Tech companies can extract maximum value from the data we produce for them. Single data points from one person are useless to that person, but valuable when matched with other data."
 categories: "Longform"
 author: "Georgia Iacovou"
-socialImage: /images/sim-swapping.heic
+socialImage: /images/sim-swapping.png
 themeColor: "#2ECA88"
 date:   2019-12-04 13:16:00
 ---
@@ -21,7 +21,7 @@ Cool handles like 'lizard' and 'satan' are highly coveted, and therefore extreme
 
 Suddenly your phone number, that thing that you type into sign-up forms all the time, has taken on a different meaning — you can see how it has value to other people.
 
-![sim swapping illustration](/images/sim-swapping.heic)
+![sim swapping illustration](/images/sim-swapping.png)
 
 ## You will never value your own data in the same way that Big Tech does
 
