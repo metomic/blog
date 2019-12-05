@@ -7,7 +7,7 @@ socialImage: /images/default.png
 themeColor: "#EB4967"
 author: "Richard Vibert & Ben van Enckevort"
 author_description: 'Cofounders, Metomic'
-author_image: '_'
+author_image: '/images/rich-profile.jpg'
 date:   2019-04-10 13:17:00
 
 ---
