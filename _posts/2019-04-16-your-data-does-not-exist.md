@@ -172,4 +172,4 @@ Cool idea. If data wasn't constantly being used to sell us more crap, maybe we'd
 
 What if we lived in a world where data was a bit more open and accessible? What would that look like? What if we lived in a world where all of this data was in one central place and we could get to it whenever we wanted?
 
-Great questions, great questions. These are questions asked by everyone who wants to read [part 2 of this article](https://metomic.io/blog/main/2019/04/24/open-data-never-mind-ownership-what-about-access.html), where April slips into an alternate universe and we explore these ideas.
+Great questions, great questions. These are questions asked by everyone who wants to read [part 2 of this article](https://metomic.io/blog/main/2019/04/24/open-data), where April slips into an alternate universe and we explore these ideas.
