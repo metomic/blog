@@ -5,7 +5,7 @@ description: "Metomic raises £1.4M seed round in 2019 from Connect Ventures, Sa
 categories: ["Company"]
 author: "Richard Vibert & Ben van Enckevort"
 author_description: 'Cofounders, Metomic'
-author_image: '_'
+author_image: '/images/rich-profile.jpg'
 img: stair.png
 themeColor: "#EB4967"
 date:   2019-05-29 13:17:00
