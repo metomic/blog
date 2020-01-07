@@ -81,6 +81,8 @@ html, body {
 	margin-right: auto;
 }
 
+.grid, .content > iframe{ display:block }
+
 .img-container, .code-container {
 	max-width: 1204px;
 }
