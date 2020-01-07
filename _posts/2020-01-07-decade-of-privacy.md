@@ -15,17 +15,17 @@ date:   2020-01-07 13:16:00
 
 ✨ **TLDR:** in **[2010](#2010)**, Google said goodbye to China. Then in **[2011](#2011)** we all said hello to Siri. Facebook also settled their first FTC charge, while Google tried to launch a social network called Buzz.
 
-**[2012](#2012)** was a big year for Facebook; they bought Instagram and then made their initial public offering. Then in **2013** Edward Snowden rang the privacy emergency bell and finally taught us that governments besides China also love to dabble in surveillance.
+**[2012](#2012)** was a big year for Facebook; they bought Instagram and then made their initial public offering. Then in **[2013](#2013)** Edward Snowden rang the privacy emergency bell and finally taught us that governments besides China also love to dabble in surveillance.
 
-**2014** saw the launch of the Amazon Echo and a court settlement that set a precedent for the right to be forgotten. Facebook also acquired two more big fish: WhatsApp and Oculus.
+**[2014](#2014)** saw the launch of the Amazon Echo and a court settlement that set a precedent for the right to be forgotten. Facebook also acquired two more big fish: WhatsApp and Oculus.
 
-It turns out **2015** was a pretty slow year, so we're just going to remind you about the young man who got famous from a photo of himself at work, going viral on the internet without his knowledge or consent (he was okay with it in the end). I am of course talking about Alex from Target.
+It turns out **[2015](#2015)** was a pretty slow year, so we're just going to remind you about the young man who got famous from a photo of himself at work, going viral on the internet without his knowledge or consent (he was okay with it in the end). I am of course talking about Alex from Target.
 
-**2016** saw two incredible firsts: an entire nation rejected a Facebook product, and the FBI asked Apple for a backdoor. Then, in **2017** the internet shook with the invention of Deepfakes.
+**[2016](#2016)** saw two incredible firsts: an entire nation rejected a Facebook product, and the FBI asked Apple for a backdoor. Then, in **[2017](#2017)** the internet shook with the invention of Deepfakes.
 
-In **2018** the world of data privacy was simultaneously created and turned on it's head. The Cambridge Analytica scandal was reported, and the GDPR came into effect. The events in **2019** were basically products of the previous year: Facebook announced they were pivoting to privacy, and the fight to breakup Big Tech begun.
+In **[2018](#2018)** the world of data privacy was simultaneously created and turned on it's head. The Cambridge Analytica scandal was reported, and the GDPR came into effect. The events in **[2019](#2019)** were basically products of the previous year: Facebook announced they were pivoting to privacy, and the fight to breakup Big Tech begun.
 
-That's a lot of stuff... what do we think **2020** will look like?
+That's a lot of stuff... what do we think **[2020](#2020)** will look like?
 
 ---
 
@@ -199,7 +199,7 @@ This regulation is of course one of the most important events in the last decade
 
 ![Mark Zuckerberg at F8 conference](/images/fb-privacy-pivot.png)
 
-### Facebook 'pivot to privacy'
+### ♻️ Facebook 'pivot to privacy'
 
 In a scramble to maintain user trust, Mark Zuckerberg baffled his stakeholders by [announcing](https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634) a sudden change to his business: that he would now shift his focus to privacy, with every Facebook product. Changes that would soon roll out were things like:
 
@@ -209,7 +209,7 @@ In a scramble to maintain user trust, Mark Zuckerberg baffled his stakeholders b
 
 These three things don't necessarily have anything to do with putting privacy first. Essentially, all Facebook did here [was change their messaging](https://metomic.io/blog/main/2019/12/18/privacy-is-necessity.html), and not much else.
 
-### Antitrust fight begins a call to break up big tech
+### 🥊 Antitrust fight begins a call to break up big tech
 
 Around the same time as Zuckerberg's above announcement, the world finally starts to get tired of how so much power seems to be centralised to only a handful of big companies. 
 
