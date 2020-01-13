@@ -1,13 +1,4 @@
----
-layout: post
-title:  "A decade of data privacy"
-Description: "A break down of key data privacy events over the last decade"
-categories: "Longform"
-author: "Georgia Iacovou"
-socialImage: /images/hidden-settings.png
-themeColor: "#2ECA88"
-date:   2020-01-07 13:16:00
----
+
 
 ## Wow, that decade flew by faster than a self-driving car...
 
