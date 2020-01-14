@@ -75,4 +75,4 @@ Further to this, the copy for a modal needs to be different to what you see in t
 
 ---
 
-## [Get Contextual Consent on your site now, for free](landing.metomic.io/) 👉
+## [Get Contextual Consent on your site now, for free](https://landing.metomic.io/?ref=blog) 👉
