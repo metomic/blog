@@ -1,4 +1,13 @@
-
+---
+layout: post
+title:  "A decade of data privacy"
+Description: "a review of what has happened in the data privacy space over the last decade"
+categories: "Longform"
+author: "Georgia Iacovou"
+socialImage: /images/fb-privacy-pivot.png
+themeColor: "#2ECA88"
+date:   2020-01-07 13:16:00
+---
 
 ## Wow, that decade flew by faster than a self-driving car...
 
