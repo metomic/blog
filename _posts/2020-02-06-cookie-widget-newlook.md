@@ -30,7 +30,7 @@ With the order of these buttons (from left to right), we stuck with convention t
 
 These changes are automatic for new users. If you're an existing user, go to the appearance tab on your dashboard to switch to the new look (if you want). 
 
-Clicking 'No, customize' will no bring up this feature screen:
+Clicking 'No, customize' will now bring up this feature screen:
 
 ![feature list inside cookie widget](/images/cw2-new-feature-list.png)
 
