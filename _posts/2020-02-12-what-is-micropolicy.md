@@ -45,7 +45,7 @@ As you look at the above questions, it starts to become apparent that the best w
 So, for the Intercom example above, the Micropolicy would be made up of this information:
 
 1. **What** data are you collecting? Email address.
-2. **Where** will the data go? Intercom. Uni
+2. **Where** will the data go? Intercom. 
 3. **Why** do you need it? To conduct live chats, non-anonymously. 
 
 ![screenshot of some example code of permissions granted to Intercom](/images/code-permissions.png)
