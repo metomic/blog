@@ -3,9 +3,7 @@ layout: post
 title:  "What is a Micropolicy?"
 description: "An introduction to what a Micropolicy is -- an important piece of technology built and used by Metomic"
 categories: "Product"
-author: "Ben van Enckevort"
-author_description: 'CTO'
-author_image: /images/ben-profile.png
+author: "Georgia Iacovou"
 socialImage: /images/mp-diagram.jpg
 themeColor: "#EB4967"
 date:   2020-02-12 13:16:00
