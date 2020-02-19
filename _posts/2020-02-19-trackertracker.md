@@ -3,7 +3,7 @@ layout: post
 title:  "Why we made TrackerTracker"
 description: "We made a tool that shows you how many cookies a website will set when you visit it -- this article explores why we made it, and why it took us so long to launch it."
 categories: ["Company"]
-socialImage: /images/trackinglink.png
+socialImage: /images/tracktracker-home.png
 themeColor: "#EB4967"
 author: "Georgia Iacovou"
 date:   2020-02-19 13:17:00
