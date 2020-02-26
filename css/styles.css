@@ -646,3 +646,7 @@ table.dataTable thead .sorting_desc:after {
 		margin-top: 16px;
 	}
 }
+
+[data-placeholder-container]{
+	display: block !important;
+}
