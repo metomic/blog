@@ -25,7 +25,7 @@ At the moment, there are no other solutions quite like this out there — we've 
 
 To understand this, put yourself in the user's shoes. You visit a page that is supposed to have a YouTube video on it, except that you opted out of cookies, without which YouTube can't function. Now you don't even realise there is meant to be a video on this page. 
 
-With Contextual Consent you can see that there's a video there, even if the request has not been made to load it. No request will be made until you click 'consent' on the modal that pops up after you click the play button. Try it on this video...
+With Contextual Consent you can see that there's a video there, even if the request has not been made to load it. No request will be made until you click our 'play video' button. When you hover, a tooltip will tell you that playing the video will drop cookies.
 
 <script type="text/x-metomic"
 data-micropolicy="embedded-media"
