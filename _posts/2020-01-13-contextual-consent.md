@@ -71,8 +71,6 @@ We also had to think a lot about the design — the challenge was to design inte
 
 Further to this, the copy for a modal needs to be different to what you see in the cookie widget. When a user clicks on an Intercom icon on your site, what they expect to see is an Intercom chat window, and **not** a modal explaining that Intercom drops cookies — this means that the usage description is slightly different depending on whether you're reading it in the widget or a modal, because both of those experiences are different. The text is tweaked, depending on what you're looking at.
 
-👩‍💻 That's it for now — to start using this feature, head to your Metomic dashboard and look under third-parties. This is an early release of Contextual Consent so may be buggy. If you want to give feedback or need support, we now have a [community slack](https://join.slack.com/t/metomiccommunity/shared_invite/enQtODk1NTE3ODY0NDIwLWNlYzIxYTdkZjgyYmExZjUzNzYyMDdjZThiNjhiYWU4ZTI4YTk4MDVhM2Y5ODI1NTdjNjMzN2I2YTE5YjYwNGE) 💬
+👩‍💻 That's it for now — this feature is about to go live on Product Hunt, so watch this sapce. 
 
----
-
-## [Get Contextual Consent on your site now, for free](https://landing.metomic.io/?ref=blog) 👉
+If you want to give feedback or need support, we now have a [community slack](https://join.slack.com/t/metomiccommunity/shared_invite/enQtODk1NTE3ODY0NDIwLWNlYzIxYTdkZjgyYmExZjUzNzYyMDdjZThiNjhiYWU4ZTI4YTk4MDVhM2Y5ODI1NTdjNjMzN2I2YTE5YjYwNGE) 💬
